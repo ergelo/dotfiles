@@ -52,7 +52,7 @@ COMPLETION_WAITING_DOTS="true"
 
 # User configuration
 
-export PATH="/Users/brunopanara/homebrew/bin:/Users/brunopanara/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/git/current/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin"
+export PATH="/Users/brunopanara/homebrew/bin:/Users/brunopanara/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/git/current/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:$PATH"
 # export MANPATH="/usr/local/man:$MANPATH"
 
 source $ZSH/oh-my-zsh.sh
@@ -84,7 +84,16 @@ source $ZSH/oh-my-zsh.sh
 #
 #
 
+#Personal Config
+alias ls='ls -lh'
+alias macvim='mvim' #http://webexpose.org/2008/10/13/open-macvim-tabs-from-command-line/
+alias src='source'
+alias todo='mvim ~/Desktop/todo'
+alias fixcam='sudo killall AppleCameraAssistant;sudo killall VDCAssistant'
+alias python='python2'
+
 #Virtualenv config
+export VIRTUALENVWRAPPER_PYTHON=/Users/brunopanara/homebrew/bin/python2
 export WORKON_HOME=$HOME/.virtualenvs
 export PROJECT_HOME=$HOME/Documents/projects
 if [ -e /usr/local/bin/virtualenvwrapper.sh ]; 
@@ -92,13 +101,6 @@ if [ -e /usr/local/bin/virtualenvwrapper.sh ];
 fi 
 
 export VIRTUAL_ENV_DISABLE_PROMPT=true
-
-#Personal Config
-alias ls='ls -lh'
-alias macvim='mvim' #http://webexpose.org/2008/10/13/open-macvim-tabs-from-command-line/
-alias src='source'
-alias todo='mvim ~/Desktop/todo'
-alias fixcam='sudo killall AppleCameraAssistant;sudo killall VDCAssistant'
 
 #terminal color settings
 export CLICOLOR=1

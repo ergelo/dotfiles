@@ -10,3 +10,8 @@
 # includes are ignored if the path doesn't exist
 [include]
   path = .gitconfig_corp
+[user]
+	name = Bruno Panara
+	email = bruno.panara@gmail.com
+[http]
+	cookiefile = /Users/brunopanara/.gitcookies

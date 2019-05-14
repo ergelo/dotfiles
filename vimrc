@@ -38,7 +38,10 @@ set sw=4
 " python pep-8 but no textwidth
 au FileType python set softtabstop=4 tabstop=4 shiftwidth=4 textwidth=0
 
+" solarized options
 set background=dark
+let g:solarized_visibility = "high"
+let g:solarized_contrast = "high"
 colorscheme solarized
 
 "set local tags directories
