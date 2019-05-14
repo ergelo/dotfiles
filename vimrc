@@ -40,8 +40,8 @@ au FileType python set softtabstop=4 tabstop=4 shiftwidth=4 textwidth=0
 
 " solarized options
 set background=dark
-let g:solarized_visibility = "high"
-let g:solarized_contrast = "high"
+let g:solarized_termcolors = 256
+let g:solarized_termtrans = 1
 colorscheme solarized
 
 "set local tags directories
