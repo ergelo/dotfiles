@@ -114,8 +114,7 @@ if [ -e /usr/libexec/java_home ];
     then export JAVA_HOME=`/usr/libexec/java_home`;
 fi 
 
-alias corp_auth='~/bin/auth-refresh-gtunnel.par ergelo.hot'
-alias auth_refresh='~/bin/auth-refresh-gtunnel.par ergelo.hot'
+alias auth_refresh='~/bin/auth-refresh-gtunnel.py'
 
 # Global stuff
 export EDITOR=vim
