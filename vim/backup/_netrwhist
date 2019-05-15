@@ -1,8 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/home/brunopanara/projects/Chrogramming/google3/chrome_platform/chrogramming'
-let g:netrw_dirhist_2='/home/brunopanara/projects/Chrogramming/google3/chrome_platform/chrogramming/app'
-let g:netrw_dirhist_3='/home/brunopanara/projects/Chrogramming/google3/chrome_platform/chrogramming'
-let g:netrw_dirhist_4='/home/brunopanara/projects/Chrogramming/google3/chrome_platform/chrogramming/ui'
-let g:netrw_dirhist_5='/home/brunopanara/projects/Chrogramming/google3/chrome_platform/chrogramming/ui/select_screen'
-let g:netrw_dirhist_6='/home/brunopanara/projects/Chrogramming/google3/chrome_platform/chrogramming/ui'
