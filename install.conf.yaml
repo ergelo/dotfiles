@@ -11,6 +11,7 @@
     ~/.zshrc.mac: 
     ~/.inputrc: 
     ~/.gitconfig: 
+    ~/.gitignore:
     ~/.vimrc: 
     ~/.oh-my-zsh/themes/bruno.zsh-theme:
       create: true
