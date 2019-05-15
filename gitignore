@@ -1,1 +1,6 @@
-.vim/backup/*
+vim/backup/*
+*.swp
+
+.gitignore
+.gitmodules
+
