@@ -16,8 +16,41 @@ if [ -f /Users/brunopanara/google-cloud-sdk/completion.zsh.inc  ]; then
 	source '/Users/brunopanara/google-cloud-sdk/completion.zsh.inc'
 fi
 
-export PATH=$PATH:/Users/brunopanara/bin/depot_tools
-
+# NVM configuration
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+# bp-mbp-corp conf
+export PATH="/Users/brunopanara/homebrew/bin:/Users/brunopanara/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/local/git/current/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:$PATH"
+
+alias macvim='mvim' #http://webexpose.org/2008/10/13/open-macvim-tabs-from-command-line/
+
+#alias todo='mvim ~/Desktop/todo'
+#alias fixcam='sudo killall AppleCameraAssistant;sudo killall VDCAssistant'
+
+#Virtualenv config
+#export VIRTUALENVWRAPPER_PYTHON=/Users/brunopanara/homebrew/bin/python2
+#export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python
+export WORKON_HOME=$HOME/.virtualenvs
+export PROJECT_HOME=$HOME/Documents/projects
+if [ -e /usr/local/bin/virtualenvwrapper.sh ]; 
+  then source /usr/local/bin/virtualenvwrapper.sh; 
+fi 
+
+export VIRTUAL_ENV_DISABLE_PROMPT=true
+
+#Github Token
+export HOMEBREW_GITHUB_API_TOKEN=a2fe916e91b91d79961ff4eb884029d1b04ce9d0
+
+alias auth_refresh='~/bin/auth-refresh-gtunnel.py'
+
+test -e ${HOME}/.iterm2_shell_integration.zsh && source ${HOME}/.iterm2_shell_integration.zsh
+
+if command -v pyenv 1>/dev/null 2>&1; then
+	eval "$(pyenv init -)"
+	eval "$(pyenv virtualenv-init -)";
+fi
+
+
+echo 'ciao!'
