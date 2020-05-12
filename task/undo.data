@@ -1,0 +1,1824 @@
+time 1571093728
+new [description:"discuss colab.new" due:"1571785200" entry:"1571093728" modified:"1571093728" status:"pending" uuid:"7adcc22b-61ce-4cb6-aa46-54a8fad2dcd3"]
+---
+time 1571094075
+old [description:"discuss colab.new" due:"1571785200" entry:"1571093728" modified:"1571093728" status:"pending" uuid:"7adcc22b-61ce-4cb6-aa46-54a8fad2dcd3"]
+new [description:"discuss colab.new" due:"1571785200" entry:"1571093728" modified:"1571094075" status:"pending" tags:"new" uuid:"7adcc22b-61ce-4cb6-aa46-54a8fad2dcd3"]
+---
+time 1571094116
+new [description:"rahael one-pager" due:"1571266800" entry:"1571094115" modified:"1571094115" status:"pending" tags:"ff" uuid:"0a517903-7a82-417c-8c0c-bd216c47cc01"]
+---
+time 1571094149
+new [description:"ping len tue" entry:"1571094149" modified:"1571094149" status:"pending" tags:"ff" uuid:"53af6b49-f517-4ae3-b0aa-a00dc017e1eb"]
+---
+time 1571094177
+old [description:"ping len tue" entry:"1571094149" modified:"1571094149" status:"pending" tags:"ff" uuid:"53af6b49-f517-4ae3-b0aa-a00dc017e1eb"]
+new [description:"ping len tue" due:"1571180400" entry:"1571094149" modified:"1571094177" status:"pending" tags:"ff" uuid:"53af6b49-f517-4ae3-b0aa-a00dc017e1eb"]
+---
+time 1571094272
+new [description:"test" due:"1571871600" entry:"1571094272" modified:"1571094272" status:"pending" uuid:"14496851-fa14-4a5d-9330-8d6ee8926ac8"]
+---
+time 1571094288
+old [description:"test" due:"1571871600" entry:"1571094272" modified:"1571094272" status:"pending" uuid:"14496851-fa14-4a5d-9330-8d6ee8926ac8"]
+new [description:"test" due:"1571871600" end:"1571094285" entry:"1571094272" modified:"1571094288" status:"deleted" uuid:"14496851-fa14-4a5d-9330-8d6ee8926ac8"]
+---
+time 1571094361
+new [description:"summit slides" due:"1571094000" entry:"1571094361" modified:"1571094361" status:"pending" tags:"next" uuid:"0d5bad2f-8bfe-4d66-83fd-b33f61efb1b8"]
+---
+time 1571094379
+old [description:"summit slides" due:"1571094000" entry:"1571094361" modified:"1571094361" status:"pending" tags:"next" uuid:"0d5bad2f-8bfe-4d66-83fd-b33f61efb1b8"]
+new [description:"summit slides" entry:"1571094361" modified:"1571094379" status:"pending" tags:"next" uuid:"0d5bad2f-8bfe-4d66-83fd-b33f61efb1b8"]
+---
+time 1571094912
+new [description:"LRP document for partners" due:"1571871600" entry:"1571094912" modified:"1571094912" project:"new_launch" status:"pending" tags:"new" uuid:"34a0bf3f-f052-47ad-a2fb-38a7e2684751"]
+---
+time 1571094946
+new [description:"update registry.google" due:"1571266800" entry:"1571094946" modified:"1571094946" project:"new_launch" status:"pending" tags:"new" uuid:"9863b76c-251e-4b67-8752-bda75f359f47"]
+---
+time 1571094993
+old [description:"ping len tue" due:"1571180400" entry:"1571094149" modified:"1571094177" status:"pending" tags:"ff" uuid:"53af6b49-f517-4ae3-b0aa-a00dc017e1eb"]
+new [description:"ping len" due:"1571180400" entry:"1571094149" modified:"1571094993" status:"pending" tags:"ff" uuid:"53af6b49-f517-4ae3-b0aa-a00dc017e1eb"]
+---
+time 1571095026
+old [description:"LRP document for partners" due:"1571871600" entry:"1571094912" modified:"1571094912" project:"new_launch" status:"pending" tags:"new" uuid:"34a0bf3f-f052-47ad-a2fb-38a7e2684751"]
+new [description:"LRP document for partners" due:"1571871600" entry:"1571094912" modified:"1571095026" project:"new_launch" status:"pending" uuid:"34a0bf3f-f052-47ad-a2fb-38a7e2684751"]
+---
+time 1571095026
+old [description:"update registry.google" due:"1571266800" entry:"1571094946" modified:"1571094946" project:"new_launch" status:"pending" tags:"new" uuid:"9863b76c-251e-4b67-8752-bda75f359f47"]
+new [description:"update registry.google" due:"1571266800" entry:"1571094946" modified:"1571095026" project:"new_launch" status:"pending" uuid:"9863b76c-251e-4b67-8752-bda75f359f47"]
+---
+time 1571095040
+old [description:"update registry.google" due:"1571266800" entry:"1571094946" modified:"1571095026" project:"new_launch" status:"pending" uuid:"9863b76c-251e-4b67-8752-bda75f359f47"]
+new [description:"p:L" due:"1571266800" entry:"1571094946" modified:"1571095040" project:"new_launch" status:"pending" uuid:"9863b76c-251e-4b67-8752-bda75f359f47"]
+---
+time 1571095091
+old [description:"p:L" due:"1571266800" entry:"1571094946" modified:"1571095040" project:"new_launch" status:"pending" uuid:"9863b76c-251e-4b67-8752-bda75f359f47"]
+new [description:"add to registry.google" due:"1571266800" entry:"1571094946" modified:"1571095091" priority:"L" project:"new_launch" status:"pending" uuid:"9863b76c-251e-4b67-8752-bda75f359f47"]
+---
+time 1571095113
+old [description:"add to registry.google" due:"1571266800" entry:"1571094946" modified:"1571095091" priority:"L" project:"new_launch" status:"pending" uuid:"9863b76c-251e-4b67-8752-bda75f359f47"]
+new [description:"add to registry.google" due:"1571266800" entry:"1571094946" modified:"1571095113" project:"new_launch" status:"pending" uuid:"9863b76c-251e-4b67-8752-bda75f359f47"]
+---
+time 1571095655
+new [description:"follow up with dharam" entry:"1571095654" modified:"1571095654" status:"waiting" tags:"meet" uuid:"31783597-aac6-416e-b2fe-b6f2df9a2370" wait:"1571209200"]
+---
+time 1571095867
+old [description:"discuss colab.new" due:"1571785200" entry:"1571093728" modified:"1571094075" status:"pending" tags:"new" uuid:"7adcc22b-61ce-4cb6-aa46-54a8fad2dcd3"]
+new [description:"discuss colab.new" due:"1571785200" entry:"1571093728" modified:"1571095867" priority:"L" status:"pending" tags:"new" uuid:"7adcc22b-61ce-4cb6-aa46-54a8fad2dcd3"]
+---
+time 1571095867
+old [description:"rahael one-pager" due:"1571266800" entry:"1571094115" modified:"1571094115" status:"pending" tags:"ff" uuid:"0a517903-7a82-417c-8c0c-bd216c47cc01"]
+new [description:"rahael one-pager" due:"1571266800" entry:"1571094115" modified:"1571095867" priority:"L" status:"pending" tags:"ff" uuid:"0a517903-7a82-417c-8c0c-bd216c47cc01"]
+---
+time 1571095868
+old [description:"ping len" due:"1571180400" entry:"1571094149" modified:"1571094993" status:"pending" tags:"ff" uuid:"53af6b49-f517-4ae3-b0aa-a00dc017e1eb"]
+new [description:"ping len" due:"1571180400" entry:"1571094149" modified:"1571095868" priority:"L" status:"pending" tags:"ff" uuid:"53af6b49-f517-4ae3-b0aa-a00dc017e1eb"]
+---
+time 1571095868
+old [description:"summit slides" entry:"1571094361" modified:"1571094379" status:"pending" tags:"next" uuid:"0d5bad2f-8bfe-4d66-83fd-b33f61efb1b8"]
+new [description:"summit slides" entry:"1571094361" modified:"1571095868" priority:"L" status:"pending" tags:"next" uuid:"0d5bad2f-8bfe-4d66-83fd-b33f61efb1b8"]
+---
+time 1571095868
+old [description:"LRP document for partners" due:"1571871600" entry:"1571094912" modified:"1571095026" project:"new_launch" status:"pending" uuid:"34a0bf3f-f052-47ad-a2fb-38a7e2684751"]
+new [description:"LRP document for partners" due:"1571871600" entry:"1571094912" modified:"1571095868" priority:"L" project:"new_launch" status:"pending" uuid:"34a0bf3f-f052-47ad-a2fb-38a7e2684751"]
+---
+time 1571095868
+old [description:"add to registry.google" due:"1571266800" entry:"1571094946" modified:"1571095113" project:"new_launch" status:"pending" uuid:"9863b76c-251e-4b67-8752-bda75f359f47"]
+new [description:"add to registry.google" due:"1571266800" entry:"1571094946" modified:"1571095868" priority:"L" project:"new_launch" status:"pending" uuid:"9863b76c-251e-4b67-8752-bda75f359f47"]
+---
+time 1571095868
+old [description:"follow up with dharam" entry:"1571095654" modified:"1571095654" status:"waiting" tags:"meet" uuid:"31783597-aac6-416e-b2fe-b6f2df9a2370" wait:"1571209200"]
+new [description:"follow up with dharam" entry:"1571095654" modified:"1571095868" priority:"L" status:"waiting" tags:"meet" uuid:"31783597-aac6-416e-b2fe-b6f2df9a2370" wait:"1571209200"]
+---
+time 1571095869
+old [description:"test" due:"1571871600" end:"1571094285" entry:"1571094272" modified:"1571094288" status:"deleted" uuid:"14496851-fa14-4a5d-9330-8d6ee8926ac8"]
+new [description:"test" due:"1571871600" end:"1571094285" entry:"1571094272" modified:"1571095869" priority:"L" status:"deleted" uuid:"14496851-fa14-4a5d-9330-8d6ee8926ac8"]
+---
+time 1571095981
+old [description:"discuss colab.new" due:"1571785200" entry:"1571093728" modified:"1571095867" priority:"L" status:"pending" tags:"new" uuid:"7adcc22b-61ce-4cb6-aa46-54a8fad2dcd3"]
+new [description:"discuss colab.new" due:"1571108400" entry:"1571093728" modified:"1571095981" priority:"L" status:"pending" tags:"new" uuid:"7adcc22b-61ce-4cb6-aa46-54a8fad2dcd3"]
+---
+time 1571095981
+old [description:"rahael one-pager" due:"1571266800" entry:"1571094115" modified:"1571095867" priority:"L" status:"pending" tags:"ff" uuid:"0a517903-7a82-417c-8c0c-bd216c47cc01"]
+new [description:"rahael one-pager" due:"1571108400" entry:"1571094115" modified:"1571095981" priority:"L" status:"pending" tags:"ff" uuid:"0a517903-7a82-417c-8c0c-bd216c47cc01"]
+---
+time 1571095982
+old [description:"ping len" due:"1571180400" entry:"1571094149" modified:"1571095868" priority:"L" status:"pending" tags:"ff" uuid:"53af6b49-f517-4ae3-b0aa-a00dc017e1eb"]
+new [description:"ping len" due:"1571108400" entry:"1571094149" modified:"1571095982" priority:"L" status:"pending" tags:"ff" uuid:"53af6b49-f517-4ae3-b0aa-a00dc017e1eb"]
+---
+time 1571095982
+old [description:"summit slides" entry:"1571094361" modified:"1571095868" priority:"L" status:"pending" tags:"next" uuid:"0d5bad2f-8bfe-4d66-83fd-b33f61efb1b8"]
+new [description:"summit slides" due:"1571108400" entry:"1571094361" modified:"1571095982" priority:"L" status:"pending" tags:"next" uuid:"0d5bad2f-8bfe-4d66-83fd-b33f61efb1b8"]
+---
+time 1571095982
+old [description:"LRP document for partners" due:"1571871600" entry:"1571094912" modified:"1571095868" priority:"L" project:"new_launch" status:"pending" uuid:"34a0bf3f-f052-47ad-a2fb-38a7e2684751"]
+new [description:"LRP document for partners" due:"1571108400" entry:"1571094912" modified:"1571095982" priority:"L" project:"new_launch" status:"pending" uuid:"34a0bf3f-f052-47ad-a2fb-38a7e2684751"]
+---
+time 1571095982
+old [description:"add to registry.google" due:"1571266800" entry:"1571094946" modified:"1571095868" priority:"L" project:"new_launch" status:"pending" uuid:"9863b76c-251e-4b67-8752-bda75f359f47"]
+new [description:"add to registry.google" due:"1571108400" entry:"1571094946" modified:"1571095982" priority:"L" project:"new_launch" status:"pending" uuid:"9863b76c-251e-4b67-8752-bda75f359f47"]
+---
+time 1571095982
+old [description:"follow up with dharam" entry:"1571095654" modified:"1571095868" priority:"L" status:"waiting" tags:"meet" uuid:"31783597-aac6-416e-b2fe-b6f2df9a2370" wait:"1571209200"]
+new [description:"follow up with dharam" due:"1571108400" entry:"1571095654" modified:"1571095982" priority:"L" status:"waiting" tags:"meet" uuid:"31783597-aac6-416e-b2fe-b6f2df9a2370" wait:"1571209200"]
+---
+time 1571095983
+old [description:"test" due:"1571871600" end:"1571094285" entry:"1571094272" modified:"1571095869" priority:"L" status:"deleted" uuid:"14496851-fa14-4a5d-9330-8d6ee8926ac8"]
+new [description:"test" due:"1571108400" end:"1571094285" entry:"1571094272" modified:"1571095983" priority:"L" status:"deleted" uuid:"14496851-fa14-4a5d-9330-8d6ee8926ac8"]
+---
+time 1571096018
+old [description:"follow up with dharam" due:"1571108400" entry:"1571095654" modified:"1571095982" priority:"L" status:"waiting" tags:"meet" uuid:"31783597-aac6-416e-b2fe-b6f2df9a2370" wait:"1571209200"]
+new [description:"follow up with dharam" entry:"1571095654" modified:"1571096018" priority:"L" status:"waiting" tags:"meet" uuid:"31783597-aac6-416e-b2fe-b6f2df9a2370" wait:"1571209200"]
+---
+time 1571096048
+old [description:"LRP document for partners" due:"1571108400" entry:"1571094912" modified:"1571095982" priority:"L" project:"new_launch" status:"pending" uuid:"34a0bf3f-f052-47ad-a2fb-38a7e2684751"]
+new [description:"LRP document for partners" due:"1571799600" entry:"1571094912" modified:"1571096048" priority:"L" project:"new_launch" status:"pending" uuid:"34a0bf3f-f052-47ad-a2fb-38a7e2684751"]
+---
+time 1571096076
+old [description:"add to registry.google" due:"1571108400" entry:"1571094946" modified:"1571095982" priority:"L" project:"new_launch" status:"pending" uuid:"9863b76c-251e-4b67-8752-bda75f359f47"]
+new [description:"add to registry.google" due:"1571281200" entry:"1571094946" modified:"1571096076" priority:"L" project:"new_launch" status:"pending" uuid:"9863b76c-251e-4b67-8752-bda75f359f47"]
+---
+time 1571096095
+old [description:"discuss colab.new" due:"1571108400" entry:"1571093728" modified:"1571095981" priority:"L" status:"pending" tags:"new" uuid:"7adcc22b-61ce-4cb6-aa46-54a8fad2dcd3"]
+new [description:"discuss colab.new" due:"1571799600" entry:"1571093728" modified:"1571096095" priority:"L" status:"pending" tags:"new" uuid:"7adcc22b-61ce-4cb6-aa46-54a8fad2dcd3"]
+---
+time 1571096112
+old [description:"rahael one-pager" due:"1571108400" entry:"1571094115" modified:"1571095981" priority:"L" status:"pending" tags:"ff" uuid:"0a517903-7a82-417c-8c0c-bd216c47cc01"]
+new [description:"rahael one-pager" due:"1571281200" entry:"1571094115" modified:"1571096112" priority:"L" status:"pending" tags:"ff" uuid:"0a517903-7a82-417c-8c0c-bd216c47cc01"]
+---
+time 1571096120
+old [description:"ping len" due:"1571108400" entry:"1571094149" modified:"1571095982" priority:"L" status:"pending" tags:"ff" uuid:"53af6b49-f517-4ae3-b0aa-a00dc017e1eb"]
+new [description:"ping len" due:"1571194800" entry:"1571094149" modified:"1571096120" priority:"L" status:"pending" tags:"ff" uuid:"53af6b49-f517-4ae3-b0aa-a00dc017e1eb"]
+---
+time 1571096141
+old [description:"discuss colab.new" due:"1571799600" entry:"1571093728" modified:"1571096095" priority:"L" status:"pending" tags:"new" uuid:"7adcc22b-61ce-4cb6-aa46-54a8fad2dcd3"]
+new [description:"discuss colab.new" due:"1571799600" entry:"1571093728" modified:"1571096141" status:"pending" tags:"new" uuid:"7adcc22b-61ce-4cb6-aa46-54a8fad2dcd3"]
+---
+time 1571096141
+old [description:"rahael one-pager" due:"1571281200" entry:"1571094115" modified:"1571096112" priority:"L" status:"pending" tags:"ff" uuid:"0a517903-7a82-417c-8c0c-bd216c47cc01"]
+new [description:"rahael one-pager" due:"1571281200" entry:"1571094115" modified:"1571096141" status:"pending" tags:"ff" uuid:"0a517903-7a82-417c-8c0c-bd216c47cc01"]
+---
+time 1571096141
+old [description:"ping len" due:"1571194800" entry:"1571094149" modified:"1571096120" priority:"L" status:"pending" tags:"ff" uuid:"53af6b49-f517-4ae3-b0aa-a00dc017e1eb"]
+new [description:"ping len" due:"1571194800" entry:"1571094149" modified:"1571096141" status:"pending" tags:"ff" uuid:"53af6b49-f517-4ae3-b0aa-a00dc017e1eb"]
+---
+time 1571096141
+old [description:"summit slides" due:"1571108400" entry:"1571094361" modified:"1571095982" priority:"L" status:"pending" tags:"next" uuid:"0d5bad2f-8bfe-4d66-83fd-b33f61efb1b8"]
+new [description:"summit slides" due:"1571108400" entry:"1571094361" modified:"1571096141" status:"pending" tags:"next" uuid:"0d5bad2f-8bfe-4d66-83fd-b33f61efb1b8"]
+---
+time 1571096142
+old [description:"LRP document for partners" due:"1571799600" entry:"1571094912" modified:"1571096048" priority:"L" project:"new_launch" status:"pending" uuid:"34a0bf3f-f052-47ad-a2fb-38a7e2684751"]
+new [description:"LRP document for partners" due:"1571799600" entry:"1571094912" modified:"1571096142" project:"new_launch" status:"pending" uuid:"34a0bf3f-f052-47ad-a2fb-38a7e2684751"]
+---
+time 1571096142
+old [description:"add to registry.google" due:"1571281200" entry:"1571094946" modified:"1571096076" priority:"L" project:"new_launch" status:"pending" uuid:"9863b76c-251e-4b67-8752-bda75f359f47"]
+new [description:"add to registry.google" due:"1571281200" entry:"1571094946" modified:"1571096142" project:"new_launch" status:"pending" uuid:"9863b76c-251e-4b67-8752-bda75f359f47"]
+---
+time 1571096142
+old [description:"follow up with dharam" entry:"1571095654" modified:"1571096018" priority:"L" status:"waiting" tags:"meet" uuid:"31783597-aac6-416e-b2fe-b6f2df9a2370" wait:"1571209200"]
+new [description:"follow up with dharam" entry:"1571095654" modified:"1571096142" status:"waiting" tags:"meet" uuid:"31783597-aac6-416e-b2fe-b6f2df9a2370" wait:"1571209200"]
+---
+time 1571096142
+old [description:"test" due:"1571108400" end:"1571094285" entry:"1571094272" modified:"1571095983" priority:"L" status:"deleted" uuid:"14496851-fa14-4a5d-9330-8d6ee8926ac8"]
+new [description:"test" due:"1571108400" end:"1571094285" entry:"1571094272" modified:"1571096142" status:"deleted" uuid:"14496851-fa14-4a5d-9330-8d6ee8926ac8"]
+---
+time 1571096596
+old [description:"discuss colab.new" due:"1571799600" entry:"1571093728" modified:"1571096141" status:"pending" tags:"new" uuid:"7adcc22b-61ce-4cb6-aa46-54a8fad2dcd3"]
+new [annotation_1571096596:"already live?" description:"discuss colab.new" due:"1571799600" entry:"1571093728" modified:"1571096596" status:"pending" tags:"new" uuid:"7adcc22b-61ce-4cb6-aa46-54a8fad2dcd3"]
+---
+time 1571096772
+old [description:"add to registry.google" due:"1571281200" entry:"1571094946" modified:"1571096142" project:"new_launch" status:"pending" uuid:"9863b76c-251e-4b67-8752-bda75f359f47"]
+new [description:"add to registry.google" due:"1571281200" entry:"1571094946" modified:"1571096772" priority:"L" project:"new_launch" status:"pending" uuid:"9863b76c-251e-4b67-8752-bda75f359f47"]
+---
+time 1571097123
+old [description:"add to registry.google" due:"1571281200" entry:"1571094946" modified:"1571096772" priority:"L" project:"new_launch" status:"pending" uuid:"9863b76c-251e-4b67-8752-bda75f359f47"]
+new [description:"add to registry.google" due:"1571281200" entry:"1571094946" modified:"1571097123" project:"new_launch" status:"pending" uuid:"9863b76c-251e-4b67-8752-bda75f359f47"]
+---
+time 1571098619
+new [description:"follow up with mark otto" due:"1571194800" entry:"1571098618" modified:"1571098618" status:"pending" tags:"newAT" uuid:"7ab7ae74-c895-4462-93e8-32510d83c65c"]
+---
+time 1571099477
+new [description:"terminate gransy" due:"1572591599" entry:"1571099476" modified:"1571099476" scheduled:"1571727599" status:"waiting" uuid:"367e0a2c-3440-459d-9b08-84edfccad1ab" wait:"1571727600"]
+---
+time 1571099507
+new [description:"terminate gransy" due:"1572591599" entry:"1571099507" modified:"1571099507" scheduled:"1571986800" status:"waiting" uuid:"4d32b468-a490-4719-bff7-e426c37e8c22" wait:"1571727600"]
+---
+time 1571099529
+old [description:"terminate gransy" due:"1572591599" entry:"1571099476" modified:"1571099476" scheduled:"1571727599" status:"waiting" uuid:"367e0a2c-3440-459d-9b08-84edfccad1ab" wait:"1571727600"]
+new [description:"terminate gransy" due:"1572591599" end:"1571099527" entry:"1571099476" modified:"1571099529" scheduled:"1571727599" status:"deleted" uuid:"367e0a2c-3440-459d-9b08-84edfccad1ab" wait:"1571727600"]
+---
+time 1571099645
+new [description:"process to terminate hkdomainname" entry:"1571099645" modified:"1571099645" status:"waiting" tags:"meeting" uuid:"4fa30ff4-c23e-4bfa-9864-f54c6bbd56ba" wait:"1571814000"]
+---
+time 1571099681
+old [description:"follow up with mark otto" due:"1571194800" entry:"1571098618" modified:"1571098618" status:"pending" tags:"newAT" uuid:"7ab7ae74-c895-4462-93e8-32510d83c65c"]
+new [description:"follow up with mark otto" entry:"1571098618" modified:"1571099681" status:"waiting" tags:"newAT" uuid:"7ab7ae74-c895-4462-93e8-32510d83c65c" wait:"1571122800"]
+---
+time 1571099709
+old [annotation_1571096596:"already live?" description:"discuss colab.new" due:"1571799600" entry:"1571093728" modified:"1571096596" status:"pending" tags:"new" uuid:"7adcc22b-61ce-4cb6-aa46-54a8fad2dcd3"]
+new [annotation_1571096596:"already live?" description:"discuss colab.new" entry:"1571093728" modified:"1571099709" status:"waiting" tags:"new" uuid:"7adcc22b-61ce-4cb6-aa46-54a8fad2dcd3" wait:"1571727600"]
+---
+time 1571099760
+old [annotation_1571096596:"already live?" description:"discuss colab.new" entry:"1571093728" modified:"1571099709" status:"waiting" tags:"new" uuid:"7adcc22b-61ce-4cb6-aa46-54a8fad2dcd3" wait:"1571727600"]
+new [annotation_1571096596:"already live?" description:"discuss colab.new" entry:"1571093728" modified:"1571099760" status:"waiting" tags:"new,meeting" uuid:"7adcc22b-61ce-4cb6-aa46-54a8fad2dcd3" wait:"1571727600"]
+---
+time 1571099760
+old [description:"terminate gransy" due:"1572591599" entry:"1571099507" modified:"1571099507" scheduled:"1571986800" status:"waiting" uuid:"4d32b468-a490-4719-bff7-e426c37e8c22" wait:"1571727600"]
+new [description:"terminate gransy" due:"1572591599" entry:"1571099507" modified:"1571099760" scheduled:"1571986800" status:"waiting" tags:"meeting" uuid:"4d32b468-a490-4719-bff7-e426c37e8c22" wait:"1571727600"]
+---
+time 1571099788
+old [description:"follow up with mark otto" entry:"1571098618" modified:"1571099681" status:"waiting" tags:"newAT" uuid:"7ab7ae74-c895-4462-93e8-32510d83c65c" wait:"1571122800"]
+new [description:"follow up with mark otto" entry:"1571098618" modified:"1571099788" project:"newATs" status:"waiting" tags:"new" uuid:"7ab7ae74-c895-4462-93e8-32510d83c65c" wait:"1571122800"]
+---
+time 1571099867
+old [description:"follow up with dharam" entry:"1571095654" modified:"1571096142" status:"waiting" tags:"meet" uuid:"31783597-aac6-416e-b2fe-b6f2df9a2370" wait:"1571209200"]
+new [description:"follow up with dharam" entry:"1571095654" modified:"1571099867" project:"meet_launch" status:"waiting" tags:"meet" uuid:"31783597-aac6-416e-b2fe-b6f2df9a2370" wait:"1571209200"]
+---
+time 1571099982
+old [description:"terminate gransy" due:"1572591599" entry:"1571099507" modified:"1571099760" scheduled:"1571986800" status:"waiting" tags:"meeting" uuid:"4d32b468-a490-4719-bff7-e426c37e8c22" wait:"1571727600"]
+new [description:"terminate gransy" due:"1572591599" entry:"1571099507" modified:"1571099982" scheduled:"1571986800" status:"waiting" uuid:"4d32b468-a490-4719-bff7-e426c37e8c22" wait:"1571727600"]
+---
+time 1571100031
+new [description:"follow up with cole" entry:"1571100031" modified:"1571100031" project:"newATs" status:"waiting" tags:"new" uuid:"bd921c68-3f6a-4e07-9467-440ac1e5f4de" wait:"1571209200"]
+---
+time 1571101005
+new [description:"review .youtube RRA" due:"1571194800" entry:"1571101005" modified:"1571101005" project:"youtube_launche" status:"pending" uuid:"a8ddc878-7cb0-4959-8e48-03b2156d43c7"]
+---
+time 1571101015
+old [description:"review .youtube RRA" due:"1571194800" entry:"1571101005" modified:"1571101005" project:"youtube_launche" status:"pending" uuid:"a8ddc878-7cb0-4959-8e48-03b2156d43c7"]
+new [description:"review .youtube RRA" due:"1571194800" entry:"1571101005" modified:"1571101015" project:"youtube_launch" status:"pending" uuid:"a8ddc878-7cb0-4959-8e48-03b2156d43c7"]
+---
+time 1571101414
+new [description:"clean up inbox" entry:"1571101413" modified:"1571101413" priority:"H" status:"waiting" uuid:"fd059849-a314-499f-828c-ab739b26a392" wait:"1571122800"]
+---
+time 1571102221
+new [description:"include .task .taskrc in dotfiles" entry:"1571102220" modified:"1571102220" scheduled:"1571554800" status:"pending" uuid:"3d4f54ee-dc08-4000-9e12-de9091bafe69"]
+---
+time 1571116435
+old [description:"ping len" due:"1571194800" entry:"1571094149" modified:"1571096141" status:"pending" tags:"ff" uuid:"53af6b49-f517-4ae3-b0aa-a00dc017e1eb"]
+new [description:"ping len" due:"1571194800" end:"1571116435" entry:"1571094149" modified:"1571116435" status:"completed" tags:"ff" uuid:"53af6b49-f517-4ae3-b0aa-a00dc017e1eb"]
+---
+time 1571116533
+new [description:"write montreal talking points" due:"1571367600" entry:"1571116531" modified:"1571116531" status:"pending" tags:"icann" uuid:"fbe2aeee-ec9c-4c1e-9c33-f8abe218d418"]
+---
+time 1571116551
+new [description:"list of montreal meetings" due:"1571367600" entry:"1571116551" modified:"1571116551" status:"pending" tags:"icann" uuid:"7296732f-4d20-4b63-9ad1-65c88d7fb35c"]
+---
+time 1571116590
+new [description:"update partner tracker from montreal" due:"1572058800" entry:"1571116590" modified:"1571116590" status:"pending" tags:"icann" uuid:"9a9fa98d-5316-4b65-9cc2-527baaabcd78"]
+---
+time 1571122083
+new [description:"review sd's LRP doc" due:"1571281200" entry:"1571122082" modified:"1571122082" project:"new_launch" status:"pending" uuid:"a89935bf-d6de-48a9-8ae3-041d7b622c72"]
+---
+time 1571122128
+new [description:"type up LRP enforcement\/review doc" due:"1571281200" entry:"1571122127" modified:"1571122127" project:"new_launch" status:"pending" uuid:"8e044910-5ab2-489f-93f4-0184f9345d80"]
+---
+time 1571138662
+old [description:"summit slides" due:"1571108400" entry:"1571094361" modified:"1571096141" status:"pending" tags:"next" uuid:"0d5bad2f-8bfe-4d66-83fd-b33f61efb1b8"]
+new [description:"summit slides" due:"1571108400" end:"1571138661" entry:"1571094361" modified:"1571138662" status:"completed" tags:"next" uuid:"0d5bad2f-8bfe-4d66-83fd-b33f61efb1b8"]
+---
+time 1571138716
+new [description:".new in summit deck" due:"1571194800" entry:"1571138716" modified:"1571138716" status:"pending" uuid:"acd7b5ef-1784-4853-8170-f6fa26e76dfd"]
+---
+time 1571159459
+new [description:"AT domains list" due:"1571194800" entry:"1571159458" modified:"1571159458" project:"newATs" status:"pending" uuid:"3b47eb6a-8409-44ce-8906-9a889b7007d3"]
+---
+time 1571163783
+new [description:"partner crm" entry:"1571163782" modified:"1571163782" status:"pending" uuid:"effc779e-f59d-407d-a7e7-57471fc6bf3e"]
+---
+time 1571164310
+old [description:"AT domains list" due:"1571194800" entry:"1571159458" modified:"1571159458" project:"newATs" status:"pending" uuid:"3b47eb6a-8409-44ce-8906-9a889b7007d3"]
+new [annotation_1571164308:"https:\/\/docs.google.com\/spreadsheets\/d\/1bMpkplyif581R-Z8wIoGlJZOua3jEa4U6LpfqJ9nM6w\/edit?usp=sharing" description:"AT domains list" due:"1571194800" entry:"1571159458" modified:"1571164310" project:"newATs" status:"pending" uuid:"3b47eb6a-8409-44ce-8906-9a889b7007d3"]
+---
+time 1571164476
+old [annotation_1571164308:"https:\/\/docs.google.com\/spreadsheets\/d\/1bMpkplyif581R-Z8wIoGlJZOua3jEa4U6LpfqJ9nM6w\/edit?usp=sharing" description:"AT domains list" due:"1571194800" entry:"1571159458" modified:"1571164310" project:"newATs" status:"pending" uuid:"3b47eb6a-8409-44ce-8906-9a889b7007d3"]
+new [description:"AT domains list" due:"1571194800" entry:"1571159458" modified:"1571164476" project:"newATs" status:"pending" uuid:"3b47eb6a-8409-44ce-8906-9a889b7007d3"]
+---
+time 1571164837
+old [description:"list of montreal meetings" due:"1571367600" entry:"1571116551" modified:"1571116551" status:"pending" tags:"icann" uuid:"7296732f-4d20-4b63-9ad1-65c88d7fb35c"]
+new [annotation_1571164837:"http:\/\/go\/icann66-bd-mtgs" description:"list of montreal meetings" due:"1571367600" entry:"1571116551" modified:"1571164837" status:"pending" tags:"icann" uuid:"7296732f-4d20-4b63-9ad1-65c88d7fb35c"]
+---
+time 1571164899
+old [description:"AT domains list" due:"1571194800" entry:"1571159458" modified:"1571164476" project:"newATs" status:"pending" uuid:"3b47eb6a-8409-44ce-8906-9a889b7007d3"]
+new [annotation_1571164899:"http:\/\/go\/new-reserved-list" description:"AT domains list" due:"1571194800" entry:"1571159458" modified:"1571164899" project:"newATs" status:"pending" uuid:"3b47eb6a-8409-44ce-8906-9a889b7007d3"]
+---
+time 1571165486
+new [description:"review CCPA product readiness assessment" due:"1571454000" entry:"1571165486" modified:"1571165486" priority:"H" status:"pending" uuid:"2be6e786-9c26-4dd6-8911-74abb924fa5a"]
+---
+time 1571165491
+old [description:"review CCPA product readiness assessment" due:"1571454000" entry:"1571165486" modified:"1571165486" priority:"H" status:"pending" uuid:"2be6e786-9c26-4dd6-8911-74abb924fa5a"]
+new [annotation_1571165491:"http:\/\/go\/registry-ccpa-assessment" description:"review CCPA product readiness assessment" due:"1571454000" entry:"1571165486" modified:"1571165491" priority:"H" status:"pending" uuid:"2be6e786-9c26-4dd6-8911-74abb924fa5a"]
+---
+time 1571165527
+old [annotation_1571165491:"http:\/\/go\/registry-ccpa-assessment" description:"review CCPA product readiness assessment" due:"1571454000" entry:"1571165486" modified:"1571165491" priority:"H" status:"pending" uuid:"2be6e786-9c26-4dd6-8911-74abb924fa5a"]
+new [annotation_1571165491:"go\/registry-ccpa-assessment" description:"review CCPA product readiness assessment" due:"1571454000" entry:"1571165486" modified:"1571165527" priority:"H" status:"pending" uuid:"2be6e786-9c26-4dd6-8911-74abb924fa5a"]
+---
+time 1571165592
+old [annotation_1571165491:"go\/registry-ccpa-assessment" description:"review CCPA product readiness assessment" due:"1571454000" entry:"1571165486" modified:"1571165527" priority:"H" status:"pending" uuid:"2be6e786-9c26-4dd6-8911-74abb924fa5a"]
+new [annotation_1571165491:"http:\/\/go\/registry-ccpa-assessment" description:"review CCPA product readiness assessment" due:"1571454000" entry:"1571165486" modified:"1571165592" priority:"H" status:"pending" uuid:"2be6e786-9c26-4dd6-8911-74abb924fa5a"]
+---
+time 1571165615
+old [annotation_1571165491:"http:\/\/go\/registry-ccpa-assessment" description:"review CCPA product readiness assessment" due:"1571454000" entry:"1571165486" modified:"1571165592" priority:"H" status:"pending" uuid:"2be6e786-9c26-4dd6-8911-74abb924fa5a"]
+new [annotation_1571165491:"http:\/\/go\/registry-ccpa-assessment" description:"review CCPA product readiness assessment" due:"1571454000" entry:"1571165486" modified:"1571165615" status:"pending" uuid:"2be6e786-9c26-4dd6-8911-74abb924fa5a"]
+---
+time 1571165688
+old [description:"rahael one-pager" due:"1571281200" entry:"1571094115" modified:"1571096141" status:"pending" tags:"ff" uuid:"0a517903-7a82-417c-8c0c-bd216c47cc01"]
+new [annotation_1571165688:"http:\/\/go\/crr-ff-process-sync" description:"rahael one-pager" due:"1571281200" entry:"1571094115" modified:"1571165688" status:"pending" tags:"ff" uuid:"0a517903-7a82-417c-8c0c-bd216c47cc01"]
+---
+time 1571165768
+new [description:"work on .new website content" due:"1571281200" entry:"1571165768" modified:"1571165768" project:"new_launch" status:"pending" uuid:"cb4e256c-ce81-4495-9b43-ac41bf4c4ea2"]
+---
+time 1571165774
+old [description:"work on .new website content" due:"1571281200" entry:"1571165768" modified:"1571165768" project:"new_launch" status:"pending" uuid:"cb4e256c-ce81-4495-9b43-ac41bf4c4ea2"]
+new [annotation_1571165774:"http:\/\/go\/new-website-content" description:"work on .new website content" due:"1571281200" entry:"1571165768" modified:"1571165774" project:"new_launch" status:"pending" uuid:"cb4e256c-ce81-4495-9b43-ac41bf4c4ea2"]
+---
+time 1571167062
+new [description:"montreal happy hour" due:"1571454000" entry:"1571167062" modified:"1571167062" status:"pending" tags:"icann" uuid:"ff670054-1103-4c4b-ab93-9f9f2498c27c"]
+---
+time 1571168823
+old [description:"review .youtube RRA" due:"1571194800" entry:"1571101005" modified:"1571101015" project:"youtube_launch" status:"pending" uuid:"a8ddc878-7cb0-4959-8e48-03b2156d43c7"]
+new [description:"review .youtube RRA" due:"1571194800" entry:"1571101005" modified:"1571168823" project:"youtube_launch" start:"1571168823" status:"pending" uuid:"a8ddc878-7cb0-4959-8e48-03b2156d43c7"]
+---
+time 1571170248
+old [description:"review .youtube RRA" due:"1571194800" entry:"1571101005" modified:"1571168823" project:"youtube_launch" start:"1571168823" status:"pending" uuid:"a8ddc878-7cb0-4959-8e48-03b2156d43c7"]
+new [description:"review .youtube RRA" due:"1571194800" end:"1571170247" entry:"1571101005" modified:"1571170248" project:"youtube_launch" status:"completed" uuid:"a8ddc878-7cb0-4959-8e48-03b2156d43c7"]
+---
+time 1571172362
+old [annotation_1571164899:"http:\/\/go\/new-reserved-list" description:"AT domains list" due:"1571194800" entry:"1571159458" modified:"1571164899" project:"newATs" status:"pending" uuid:"3b47eb6a-8409-44ce-8906-9a889b7007d3"]
+new [annotation_1571164899:"http:\/\/go\/new-reserved-list" description:"AT domains list" due:"1571194800" entry:"1571159458" modified:"1571172362" project:"newATs" start:"1571172362" status:"pending" uuid:"3b47eb6a-8409-44ce-8906-9a889b7007d3"]
+---
+time 1571173324
+old [annotation_1571164899:"http:\/\/go\/new-reserved-list" description:"AT domains list" due:"1571194800" entry:"1571159458" modified:"1571172362" project:"newATs" start:"1571172362" status:"pending" uuid:"3b47eb6a-8409-44ce-8906-9a889b7007d3"]
+new [annotation_1571164899:"http:\/\/go\/new-reserved-list" description:"AT domains list" due:"1571194800" end:"1571173324" entry:"1571159458" modified:"1571173324" project:"newATs" status:"completed" uuid:"3b47eb6a-8409-44ce-8906-9a889b7007d3"]
+---
+time 1571182627
+new [description:"discussion notes for summit" due:"1571281200" entry:"1571182626" modified:"1571182626" status:"pending" uuid:"f27af3b1-4a95-4645-84a2-1f2dd3017f6b"]
+---
+time 1571182888
+old [description:".new in summit deck" due:"1571194800" entry:"1571138716" modified:"1571138716" status:"pending" uuid:"acd7b5ef-1784-4853-8170-f6fa26e76dfd"]
+new [description:".new in summit deck" due:"1571194800" end:"1571182888" entry:"1571138716" modified:"1571182888" status:"completed" uuid:"acd7b5ef-1784-4853-8170-f6fa26e76dfd"]
+---
+time 1571182920
+old [description:"terminate gransy" due:"1572591599" entry:"1571099507" modified:"1571099982" scheduled:"1571986800" status:"waiting" uuid:"4d32b468-a490-4719-bff7-e426c37e8c22" wait:"1571727600"]
+new [description:"terminate gransy" due:"1572591599" end:"1571182920" entry:"1571099507" modified:"1571182920" scheduled:"1571986800" status:"completed" uuid:"4d32b468-a490-4719-bff7-e426c37e8c22" wait:"1571727600"]
+---
+time 1571188692
+old [description:"follow up with mark otto" entry:"1571098618" modified:"1571099788" project:"newATs" status:"pending" tags:"new" uuid:"7ab7ae74-c895-4462-93e8-32510d83c65c"]
+new [description:"follow up with mark otto" end:"1571188691" entry:"1571098618" modified:"1571188692" project:"newATs" status:"completed" tags:"new" uuid:"7ab7ae74-c895-4462-93e8-32510d83c65c"]
+---
+time 1571188874
+old [description:"follow up with cole" entry:"1571100031" modified:"1571100031" project:"newATs" status:"waiting" tags:"new" uuid:"bd921c68-3f6a-4e07-9467-440ac1e5f4de" wait:"1571209200"]
+new [description:"follow up with cole" end:"1571188873" entry:"1571100031" modified:"1571188874" project:"newATs" status:"completed" tags:"new" uuid:"bd921c68-3f6a-4e07-9467-440ac1e5f4de" wait:"1571209200"]
+---
+time 1571194313
+old [description:"add to registry.google" due:"1571281200" entry:"1571094946" modified:"1571097123" project:"new_launch" status:"pending" uuid:"9863b76c-251e-4b67-8752-bda75f359f47"]
+new [description:"add to registry.google" due:"1571281200" end:"1571194312" entry:"1571094946" modified:"1571194313" project:"new_launch" status:"completed" uuid:"9863b76c-251e-4b67-8752-bda75f359f47"]
+---
+time 1571248218
+new [description:"work on growth numbers" due:"1571281200" entry:"1571248217" modified:"1571248217" status:"pending" uuid:"6cf2110c-2d19-441a-a523-dcd8b1e462f3"]
+---
+time 1571248224
+old [description:"work on growth numbers" due:"1571281200" entry:"1571248217" modified:"1571248217" status:"pending" uuid:"6cf2110c-2d19-441a-a523-dcd8b1e462f3"]
+new [annotation_1571248223:"http:\/\/go\/growing-our-tlds-in-2020" description:"work on growth numbers" due:"1571281200" entry:"1571248217" modified:"1571248224" status:"pending" uuid:"6cf2110c-2d19-441a-a523-dcd8b1e462f3"]
+---
+time 1571248267
+old [annotation_1571248223:"http:\/\/go\/growing-our-tlds-in-2020" description:"work on growth numbers" due:"1571281200" entry:"1571248217" modified:"1571248224" status:"pending" uuid:"6cf2110c-2d19-441a-a523-dcd8b1e462f3"]
+new [annotation_1571248223:"http:\/\/go\/growing-our-tlds-in-2020" description:"work on growth numbers" due:"1571281200" entry:"1571248217" modified:"1571248267" project:"summit19" status:"pending" uuid:"6cf2110c-2d19-441a-a523-dcd8b1e462f3"]
+---
+time 1571248289
+old [description:"discussion notes for summit" due:"1571281200" entry:"1571182626" modified:"1571182626" status:"pending" uuid:"f27af3b1-4a95-4645-84a2-1f2dd3017f6b"]
+new [description:"discussion notes for summit" due:"1571281200" entry:"1571182626" modified:"1571248289" project:"summit19" status:"pending" uuid:"f27af3b1-4a95-4645-84a2-1f2dd3017f6b"]
+---
+time 1571248379
+old [description:"summit slides" due:"1571108400" end:"1571138661" entry:"1571094361" modified:"1571138662" status:"completed" tags:"next" uuid:"0d5bad2f-8bfe-4d66-83fd-b33f61efb1b8"]
+new [description:"summit slides" due:"1571108400" end:"1571138661" entry:"1571094361" modified:"1571248379" project:"summit19" status:"completed" tags:"next" uuid:"0d5bad2f-8bfe-4d66-83fd-b33f61efb1b8"]
+---
+time 1571248398
+old [description:".new in summit deck" due:"1571194800" end:"1571182888" entry:"1571138716" modified:"1571182888" status:"completed" uuid:"acd7b5ef-1784-4853-8170-f6fa26e76dfd"]
+new [description:".new in summit deck" due:"1571194800" end:"1571182888" entry:"1571138716" modified:"1571248398" project:"summit19" status:"completed" uuid:"acd7b5ef-1784-4853-8170-f6fa26e76dfd"]
+---
+time 1571248551
+new [description:"update partners on registry.google" entry:"1571248550" modified:"1571248550" project:"new_launch" status:"pending" uuid:"c3d78f67-0221-4b24-a20e-032baff1b173"]
+---
+time 1571265680
+old [annotation_1571248223:"http:\/\/go\/growing-our-tlds-in-2020" description:"work on growth numbers" due:"1571281200" entry:"1571248217" modified:"1571248267" project:"summit19" status:"pending" uuid:"6cf2110c-2d19-441a-a523-dcd8b1e462f3"]
+new [annotation_1571248223:"http:\/\/go\/growing-our-tlds-in-2020" description:"work on growth numbers" due:"1571281200" entry:"1571248217" modified:"1571265680" project:"summit19" start:"1571265675" status:"pending" uuid:"6cf2110c-2d19-441a-a523-dcd8b1e462f3"]
+---
+time 1571269121
+old [annotation_1571248223:"http:\/\/go\/growing-our-tlds-in-2020" description:"work on growth numbers" due:"1571281200" entry:"1571248217" modified:"1571265680" project:"summit19" start:"1571265675" status:"pending" uuid:"6cf2110c-2d19-441a-a523-dcd8b1e462f3"]
+new [annotation_1571248223:"http:\/\/go\/growing-our-tlds-in-2020" description:"work on growth numbers" due:"1571281200" end:"1571269121" entry:"1571248217" modified:"1571269121" project:"summit19" status:"completed" uuid:"6cf2110c-2d19-441a-a523-dcd8b1e462f3"]
+---
+time 1571269303
+old [description:"review sd's LRP doc" due:"1571281200" entry:"1571122082" modified:"1571122082" project:"new_launch" status:"pending" uuid:"a89935bf-d6de-48a9-8ae3-041d7b622c72"]
+new [description:"review sd's LRP doc" due:"1571799600" entry:"1571122082" modified:"1571269303" project:"new_launch" status:"pending" uuid:"a89935bf-d6de-48a9-8ae3-041d7b622c72"]
+---
+time 1571269303
+old [description:"type up LRP enforcement\/review doc" due:"1571281200" entry:"1571122127" modified:"1571122127" project:"new_launch" status:"pending" uuid:"8e044910-5ab2-489f-93f4-0184f9345d80"]
+new [description:"type up LRP enforcement\/review doc" due:"1571799600" entry:"1571122127" modified:"1571269303" project:"new_launch" status:"pending" uuid:"8e044910-5ab2-489f-93f4-0184f9345d80"]
+---
+time 1571299112
+old [annotation_1571165774:"http:\/\/go\/new-website-content" description:"work on .new website content" due:"1571281200" entry:"1571165768" modified:"1571165774" project:"new_launch" status:"pending" uuid:"cb4e256c-ce81-4495-9b43-ac41bf4c4ea2"]
+new [annotation_1571165774:"http:\/\/go\/new-website-content" description:"work on .new website content" due:"1571281200" entry:"1571165768" modified:"1571299112" project:"new_launch" start:"1571299111" status:"pending" uuid:"cb4e256c-ce81-4495-9b43-ac41bf4c4ea2"]
+---
+time 1571300959
+old [annotation_1571165774:"http:\/\/go\/new-website-content" description:"work on .new website content" due:"1571281200" entry:"1571165768" modified:"1571299112" project:"new_launch" start:"1571299111" status:"pending" uuid:"cb4e256c-ce81-4495-9b43-ac41bf4c4ea2"]
+new [annotation_1571165774:"http:\/\/go\/new-website-content" description:"work on .new website content" due:"1571281200" end:"1571300958" entry:"1571165768" modified:"1571300959" project:"new_launch" status:"completed" uuid:"cb4e256c-ce81-4495-9b43-ac41bf4c4ea2"]
+---
+time 1571332372
+new [description:"usage metrics" due:"1572058800" entry:"1571332371" modified:"1571332371" status:"waiting" uuid:"f938843a-a530-420b-8eb2-ef8528cdb64d" wait:"1571727600"]
+---
+time 1571770862
+old [description:"discussion notes for summit" due:"1571281200" entry:"1571182626" modified:"1571248289" project:"summit19" status:"pending" uuid:"f27af3b1-4a95-4645-84a2-1f2dd3017f6b"]
+new [description:"discussion notes for summit" due:"1571281200" end:"1571770861" entry:"1571182626" modified:"1571770862" project:"summit19" status:"completed" uuid:"f27af3b1-4a95-4645-84a2-1f2dd3017f6b"]
+---
+time 1571770880
+old [description:"type up LRP enforcement\/review doc" due:"1571799600" entry:"1571122127" modified:"1571269303" project:"new_launch" status:"pending" uuid:"8e044910-5ab2-489f-93f4-0184f9345d80"]
+new [description:"type up LRP enforcement\/review doc" due:"1571799600" entry:"1571122127" modified:"1571770880" project:"new_launch" start:"1571770880" status:"pending" uuid:"8e044910-5ab2-489f-93f4-0184f9345d80"]
+---
+time 1571777050
+old [description:"type up LRP enforcement\/review doc" due:"1571799600" entry:"1571122127" modified:"1571770880" project:"new_launch" start:"1571770880" status:"pending" uuid:"8e044910-5ab2-489f-93f4-0184f9345d80"]
+new [description:"type up LRP enforcement\/review doc" due:"1571799600" entry:"1571122127" modified:"1571777050" project:"new_launch" status:"pending" uuid:"8e044910-5ab2-489f-93f4-0184f9345d80"]
+---
+time 1571779500
+old [description:"type up LRP enforcement\/review doc" due:"1571799600" entry:"1571122127" modified:"1571777050" project:"new_launch" status:"pending" uuid:"8e044910-5ab2-489f-93f4-0184f9345d80"]
+new [description:"type up LRP enforcement\/review doc" due:"1571799600" entry:"1571122127" modified:"1571779500" project:"new_launch" start:"1571779499" status:"pending" uuid:"8e044910-5ab2-489f-93f4-0184f9345d80"]
+---
+time 1571780555
+old [description:"type up LRP enforcement\/review doc" due:"1571799600" entry:"1571122127" modified:"1571779500" project:"new_launch" start:"1571779499" status:"pending" uuid:"8e044910-5ab2-489f-93f4-0184f9345d80"]
+new [description:"type up LRP enforcement\/review doc" due:"1571799600" end:"1571780555" entry:"1571122127" modified:"1571780555" project:"new_launch" status:"completed" uuid:"8e044910-5ab2-489f-93f4-0184f9345d80"]
+---
+time 1571780578
+old [description:"review sd's LRP doc" due:"1571799600" entry:"1571122082" modified:"1571269303" project:"new_launch" status:"pending" uuid:"a89935bf-d6de-48a9-8ae3-041d7b622c72"]
+new [description:"review sd's LRP doc" due:"1571799600" entry:"1571122082" modified:"1571780578" project:"new_launch" start:"1571780578" status:"pending" uuid:"a89935bf-d6de-48a9-8ae3-041d7b622c72"]
+---
+time 1571781605
+old [description:"review sd's LRP doc" due:"1571799600" entry:"1571122082" modified:"1571780578" project:"new_launch" start:"1571780578" status:"pending" uuid:"a89935bf-d6de-48a9-8ae3-041d7b622c72"]
+new [description:"review sd's LRP doc" due:"1571799600" end:"1571781605" entry:"1571122082" modified:"1571781605" project:"new_launch" status:"completed" uuid:"a89935bf-d6de-48a9-8ae3-041d7b622c72"]
+---
+time 1571945559
+old [annotation_1571164837:"http:\/\/go\/icann66-bd-mtgs" description:"list of montreal meetings" due:"1571367600" entry:"1571116551" modified:"1571164837" status:"pending" tags:"icann" uuid:"7296732f-4d20-4b63-9ad1-65c88d7fb35c"]
+new [annotation_1571164837:"http:\/\/go\/icann66-bd-mtgs" description:"list of montreal meetings" due:"1571367600" end:"1571945558" entry:"1571116551" modified:"1571945559" status:"completed" tags:"icann" uuid:"7296732f-4d20-4b63-9ad1-65c88d7fb35c"]
+---
+time 1571945580
+old [annotation_1571165688:"http:\/\/go\/crr-ff-process-sync" description:"rahael one-pager" due:"1571281200" entry:"1571094115" modified:"1571165688" status:"pending" tags:"ff" uuid:"0a517903-7a82-417c-8c0c-bd216c47cc01"]
+new [annotation_1571165688:"http:\/\/go\/crr-ff-process-sync" description:"rahael one-pager" entry:"1571094115" modified:"1571945580" status:"pending" tags:"ff" uuid:"0a517903-7a82-417c-8c0c-bd216c47cc01"]
+---
+time 1571945596
+old [description:"write montreal talking points" due:"1571367600" entry:"1571116531" modified:"1571116531" status:"pending" tags:"icann" uuid:"fbe2aeee-ec9c-4c1e-9c33-f8abe218d418"]
+new [description:"write montreal talking points" due:"1571367600" entry:"1571116531" modified:"1571945596" start:"1571945596" status:"pending" tags:"icann" uuid:"fbe2aeee-ec9c-4c1e-9c33-f8abe218d418"]
+---
+time 1571945983
+old [description:"write montreal talking points" due:"1571367600" entry:"1571116531" modified:"1571945596" start:"1571945596" status:"pending" tags:"icann" uuid:"fbe2aeee-ec9c-4c1e-9c33-f8abe218d418"]
+new [annotation_1571945983:"http:\/\/go\/icann66-bd-talking-points" description:"write montreal talking points" due:"1571367600" entry:"1571116531" modified:"1571945983" start:"1571945596" status:"pending" tags:"icann" uuid:"fbe2aeee-ec9c-4c1e-9c33-f8abe218d418"]
+---
+time 1571970219
+old [annotation_1571945983:"http:\/\/go\/icann66-bd-talking-points" description:"write montreal talking points" due:"1571367600" entry:"1571116531" modified:"1571945983" start:"1571945596" status:"pending" tags:"icann" uuid:"fbe2aeee-ec9c-4c1e-9c33-f8abe218d418"]
+new [annotation_1571945983:"http:\/\/go\/icann66-bd-talking-points" description:"write montreal talking points" due:"1571367600" end:"1571970218" entry:"1571116531" modified:"1571970219" status:"completed" tags:"icann" uuid:"fbe2aeee-ec9c-4c1e-9c33-f8abe218d418"]
+---
+time 1571971271
+old [annotation_1571165491:"http:\/\/go\/registry-ccpa-assessment" description:"review CCPA product readiness assessment" due:"1571454000" entry:"1571165486" modified:"1571165615" status:"pending" uuid:"2be6e786-9c26-4dd6-8911-74abb924fa5a"]
+new [annotation_1571165491:"http:\/\/go\/registry-ccpa-assessment" description:"review CCPA product readiness assessment" due:"1571454000" entry:"1571165486" modified:"1571971271" start:"1571971270" status:"pending" uuid:"2be6e786-9c26-4dd6-8911-74abb924fa5a"]
+---
+time 1571971590
+old [annotation_1571165491:"http:\/\/go\/registry-ccpa-assessment" description:"review CCPA product readiness assessment" due:"1571454000" entry:"1571165486" modified:"1571971271" start:"1571971270" status:"pending" uuid:"2be6e786-9c26-4dd6-8911-74abb924fa5a"]
+new [annotation_1571165491:"http:\/\/go\/registry-ccpa-assessment" description:"review CCPA product readiness assessment" due:"1571454000" end:"1571971590" entry:"1571165486" modified:"1571971590" status:"completed" uuid:"2be6e786-9c26-4dd6-8911-74abb924fa5a"]
+---
+time 1571971607
+old [description:"montreal happy hour" due:"1571454000" entry:"1571167062" modified:"1571167062" status:"pending" tags:"icann" uuid:"ff670054-1103-4c4b-ab93-9f9f2498c27c"]
+new [description:"montreal happy hour" entry:"1571167062" modified:"1571971607" status:"pending" tags:"icann" uuid:"ff670054-1103-4c4b-ab93-9f9f2498c27c"]
+---
+time 1571971678
+old [description:"follow up with dharam" entry:"1571095654" modified:"1571099867" project:"meet_launch" status:"pending" tags:"meet" uuid:"31783597-aac6-416e-b2fe-b6f2df9a2370"]
+new [description:"follow up with dharam" end:"1571971678" entry:"1571095654" modified:"1571971678" project:"meet_launch" status:"completed" tags:"meet" uuid:"31783597-aac6-416e-b2fe-b6f2df9a2370"]
+---
+time 1571971843
+old [description:"process to terminate hkdomainname" entry:"1571099645" modified:"1571099645" status:"pending" tags:"meeting" uuid:"4fa30ff4-c23e-4bfa-9864-f54c6bbd56ba"]
+new [description:"process to terminate hkdomainname" end:"1571971843" entry:"1571099645" modified:"1571971843" status:"completed" tags:"meeting" uuid:"4fa30ff4-c23e-4bfa-9864-f54c6bbd56ba"]
+---
+time 1571971926
+old [annotation_1571096596:"already live?" description:"discuss colab.new" entry:"1571093728" modified:"1571099760" status:"pending" tags:"new,meeting" uuid:"7adcc22b-61ce-4cb6-aa46-54a8fad2dcd3"]
+new [annotation_1571096596:"already live?" description:"discuss colab.new" end:"1571971925" entry:"1571093728" modified:"1571971926" status:"completed" tags:"new,meeting" uuid:"7adcc22b-61ce-4cb6-aa46-54a8fad2dcd3"]
+---
+time 1572284562
+new [description:"make RRAs and ESs for youtube,gle,foo" due:"1572663600" entry:"1572284559" modified:"1572284559" status:"pending" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+---
+time 1572390528
+old [description:"usage metrics" due:"1572058800" entry:"1571332371" modified:"1571332371" status:"pending" uuid:"f938843a-a530-420b-8eb2-ef8528cdb64d"]
+new [description:"usage metrics" due:"1572058800" end:"1572390527" entry:"1571332371" modified:"1572390528" status:"completed" uuid:"f938843a-a530-420b-8eb2-ef8528cdb64d"]
+---
+time 1572390568
+old [description:"LRP document for partners" due:"1571799600" entry:"1571094912" modified:"1571096142" project:"new_launch" status:"pending" uuid:"34a0bf3f-f052-47ad-a2fb-38a7e2684751"]
+new [description:"LRP document for partners" due:"1571799600" entry:"1571094912" modified:"1572390568" project:"new_launch" start:"1572390567" status:"pending" uuid:"34a0bf3f-f052-47ad-a2fb-38a7e2684751"]
+---
+time 1572392719
+old [description:"LRP document for partners" due:"1571799600" entry:"1571094912" modified:"1572390568" project:"new_launch" start:"1572390567" status:"pending" uuid:"34a0bf3f-f052-47ad-a2fb-38a7e2684751"]
+new [description:"LRP document for partners" due:"1571799600" end:"1572392718" entry:"1571094912" modified:"1572392719" project:"new_launch" status:"completed" uuid:"34a0bf3f-f052-47ad-a2fb-38a7e2684751"]
+---
+time 1572467793
+new [description:"reach out to Brian from MS" due:"1573358400" entry:"1572467792" modified:"1572467792" status:"pending" uuid:"13e1b18a-1fe1-4666-bed1-c9067450063f"]
+---
+time 1572545942
+new [description:"expense steph's thing" due:"1573531200" entry:"1572545941" modified:"1572545941" status:"pending" uuid:"c6570839-343c-406d-9baa-14f84394b939"]
+---
+time 1573258709
+new [description:"discuss dotNZ application" due:"1573531200" entry:"1573258708" modified:"1573258708" project:"dotNZ" status:"pending" uuid:"4e740d9d-1da6-40a1-b105-57cf8d914203"]
+---
+time 1573258724
+old [description:"update partner tracker from montreal" due:"1572058800" entry:"1571116590" modified:"1571116590" status:"pending" tags:"icann" uuid:"9a9fa98d-5316-4b65-9cc2-527baaabcd78"]
+new [description:"update partner tracker from montreal" due:"1572058800" end:"1573258724" entry:"1571116590" modified:"1573258724" status:"completed" tags:"icann" uuid:"9a9fa98d-5316-4b65-9cc2-527baaabcd78"]
+---
+time 1573494028
+new [description:"bd report from icann" entry:"1573494025" modified:"1573494025" status:"pending" uuid:"874e698d-d04e-4f7b-9d82-437f6aeeaa41"]
+---
+time 1573494043
+old [description:"montreal happy hour" entry:"1571167062" modified:"1571971607" status:"pending" tags:"icann" uuid:"ff670054-1103-4c4b-ab93-9f9f2498c27c"]
+new [description:"montreal happy hour" end:"1573494042" entry:"1571167062" modified:"1573494043" status:"completed" tags:"icann" uuid:"ff670054-1103-4c4b-ab93-9f9f2498c27c"]
+---
+time 1573500075
+old [description:"bd report from icann" entry:"1573494025" modified:"1573494025" status:"pending" uuid:"874e698d-d04e-4f7b-9d82-437f6aeeaa41"]
+new [description:"bd report from icann" due:"1573531200" entry:"1573494025" modified:"1573500075" status:"pending" uuid:"874e698d-d04e-4f7b-9d82-437f6aeeaa41"]
+---
+time 1573501275
+old [description:"bd report from icann" due:"1573531200" entry:"1573494025" modified:"1573500075" status:"pending" uuid:"874e698d-d04e-4f7b-9d82-437f6aeeaa41"]
+new [description:"bd report from icann" due:"1573531200" end:"1573501274" entry:"1573494025" modified:"1573501275" status:"completed" uuid:"874e698d-d04e-4f7b-9d82-437f6aeeaa41"]
+---
+time 1573510919
+old [description:"reach out to Brian from MS" due:"1573358400" entry:"1572467792" modified:"1572467792" status:"pending" uuid:"13e1b18a-1fe1-4666-bed1-c9067450063f"]
+new [description:"reach out to Brian from MS" due:"1573358400" end:"1573510919" entry:"1572467792" modified:"1573510919" status:"completed" uuid:"13e1b18a-1fe1-4666-bed1-c9067450063f"]
+---
+time 1573511922
+old [description:"discuss dotNZ application" due:"1573531200" entry:"1573258708" modified:"1573258708" project:"dotNZ" status:"pending" uuid:"4e740d9d-1da6-40a1-b105-57cf8d914203"]
+new [description:"discuss dotNZ application" due:"1573531200" end:"1573511922" entry:"1573258708" modified:"1573511922" project:"dotNZ" status:"completed" uuid:"4e740d9d-1da6-40a1-b105-57cf8d914203"]
+---
+time 1573511937
+old [description:"expense steph's thing" due:"1573531200" entry:"1572545941" modified:"1572545941" status:"pending" uuid:"c6570839-343c-406d-9baa-14f84394b939"]
+new [description:"expense steph's thing" due:"1573531200" end:"1573511937" entry:"1572545941" modified:"1573511937" status:"completed" uuid:"c6570839-343c-406d-9baa-14f84394b939"]
+---
+time 1573511952
+new [description:"montreal expenses" due:"1573704000" entry:"1573511952" modified:"1573511952" status:"pending" uuid:"aaae3e29-e8b9-432e-90e3-70eb2782cf10"]
+---
+time 1573581693
+new [description:"doc v docs numbers for jessica" due:"1573617600" entry:"1573581692" modified:"1573581692" status:"pending" uuid:"dbc97701-83c4-4033-bc4a-ba578db60dea"]
+---
+time 1573581715
+new [description:"writeup internal allocation\/reservation process" due:"1573617600" entry:"1573581715" modified:"1573581715" status:"pending" uuid:"b8f554fc-0c02-422d-b97e-998daea904ee"]
+---
+time 1573585884
+new [description:"hook t next into t add and done" entry:"1573585884" modified:"1573585884" status:"pending" uuid:"69dbb579-d4fa-458a-8bbd-989d6934e173"]
+---
+time 1573586594
+old [description:"doc v docs numbers for jessica" due:"1573617600" entry:"1573581692" modified:"1573581692" status:"pending" uuid:"dbc97701-83c4-4033-bc4a-ba578db60dea"]
+new [description:"doc v docs numbers for jessica" due:"1573617600" end:"1573586593" entry:"1573581692" modified:"1573586594" status:"completed" uuid:"dbc97701-83c4-4033-bc4a-ba578db60dea"]
+---
+time 1573586600
+old [description:"writeup internal allocation\/reservation process" due:"1573617600" entry:"1573581715" modified:"1573581715" status:"pending" uuid:"b8f554fc-0c02-422d-b97e-998daea904ee"]
+new [description:"writeup internal allocation\/reservation process" due:"1573617600" entry:"1573581715" modified:"1573586600" start:"1573586600" status:"pending" uuid:"b8f554fc-0c02-422d-b97e-998daea904ee"]
+---
+time 1573587769
+old [description:"writeup internal allocation\/reservation process" due:"1573617600" entry:"1573581715" modified:"1573586600" start:"1573586600" status:"pending" uuid:"b8f554fc-0c02-422d-b97e-998daea904ee"]
+new [description:"writeup internal allocation\/reservation process" due:"1573617600" end:"1573587768" entry:"1573581715" modified:"1573587769" status:"completed" uuid:"b8f554fc-0c02-422d-b97e-998daea904ee"]
+---
+time 1573593435
+new [description:"new faqs for lrp launch" due:"1573790400" entry:"1573593434" modified:"1573593434" status:"pending" uuid:"2cfefae5-0617-4a1e-903a-aa33d62eb2e7"]
+---
+time 1573593544
+new [description:"draft outline for lrp announcement" due:"1574136000" entry:"1573593543" modified:"1573593543" status:"pending" uuid:"483ba37e-572f-46eb-a2bb-264a22d3d897"]
+---
+time 1573593578
+new [description:"ask christina to write .new announcement" due:"1573790400" entry:"1573593578" modified:"1573593578" status:"pending" uuid:"b174b4da-3bfa-418d-9d07-9022979c4b14"]
+---
+time 1573593751
+new [description:"send package promo details to partners" due:"1573790400" entry:"1573593750" modified:"1573593750" status:"pending" uuid:"667b5f02-b2fa-4d26-a945-9341232b46d2"]
+---
+time 1573661004
+new [description:"add snarky comment about mail and email to one pager" due:"1573704000" entry:"1573661003" modified:"1573661003" status:"pending" uuid:"d8fe69e1-2be3-49a4-904d-6fcf67a0e454"]
+---
+time 1573671713
+new [description:"write lrp token one pager" entry:"1573671712" modified:"1573671712" status:"pending" uuid:"f2fee80b-f4a0-43b2-930d-da03e69cb74c"]
+---
+time 1573671970
+old [description:"write lrp token one pager" entry:"1573671712" modified:"1573671712" status:"pending" uuid:"f2fee80b-f4a0-43b2-930d-da03e69cb74c"]
+new [description:"write lrp token one pager" due:"1573704000" entry:"1573671712" modified:"1573671970" status:"pending" uuid:"f2fee80b-f4a0-43b2-930d-da03e69cb74c"]
+---
+time 1573672045
+old [description:"write lrp token one pager" due:"1573704000" entry:"1573671712" modified:"1573671970" status:"pending" uuid:"f2fee80b-f4a0-43b2-930d-da03e69cb74c"]
+new [description:"ping lrp token bug" due:"1573704000" entry:"1573671712" modified:"1573672045" status:"pending" uuid:"f2fee80b-f4a0-43b2-930d-da03e69cb74c"]
+---
+time 1573672074
+old [description:"ping lrp token bug" due:"1573704000" entry:"1573671712" modified:"1573672045" status:"pending" uuid:"f2fee80b-f4a0-43b2-930d-da03e69cb74c"]
+new [annotation_1573672074:"b\/132089256" description:"ping lrp token bug" due:"1573704000" entry:"1573671712" modified:"1573672074" status:"pending" uuid:"f2fee80b-f4a0-43b2-930d-da03e69cb74c"]
+---
+time 1573684950
+old [description:"montreal expenses" due:"1573704000" entry:"1573511952" modified:"1573511952" status:"pending" uuid:"aaae3e29-e8b9-432e-90e3-70eb2782cf10"]
+new [description:"montreal expenses" due:"1573704000" end:"1573684949" entry:"1573511952" modified:"1573684950" status:"completed" uuid:"aaae3e29-e8b9-432e-90e3-70eb2782cf10"]
+---
+time 1573685514
+old [annotation_1573672074:"b\/132089256" description:"ping lrp token bug" due:"1573704000" entry:"1573671712" modified:"1573672074" status:"pending" uuid:"f2fee80b-f4a0-43b2-930d-da03e69cb74c"]
+new [annotation_1573672074:"b\/132089256" description:"ping lrp token bug" due:"1573704000" end:"1573685513" entry:"1573671712" modified:"1573685514" status:"completed" uuid:"f2fee80b-f4a0-43b2-930d-da03e69cb74c"]
+---
+time 1573685671
+old [description:"add snarky comment about mail and email to one pager" due:"1573704000" entry:"1573661003" modified:"1573661003" status:"pending" uuid:"d8fe69e1-2be3-49a4-904d-6fcf67a0e454"]
+new [description:"add snarky comment about mail and email to one pager" due:"1573704000" end:"1573685671" entry:"1573661003" modified:"1573685671" status:"completed" uuid:"d8fe69e1-2be3-49a4-904d-6fcf67a0e454"]
+---
+time 1573685678
+old [description:"make RRAs and ESs for youtube,gle,foo" due:"1572663600" entry:"1572284559" modified:"1572284559" status:"pending" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+new [description:"make RRAs and ESs for youtube,gle,foo" due:"1573876800" entry:"1572284559" modified:"1573685678" status:"pending" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+---
+time 1573754856
+new [description:"2020 okrs" due:"1574222400" entry:"1573754855" modified:"1573754855" status:"pending" uuid:"5997ada8-55fe-4c4d-88ee-7c7e64147542"]
+---
+time 1573754983
+old [description:"2020 okrs" due:"1574222400" entry:"1573754855" modified:"1573754855" status:"pending" uuid:"5997ada8-55fe-4c4d-88ee-7c7e64147542"]
+new [annotation_1573754982:"http:\/\/go\/registry-okrs-2020" description:"2020 okrs" due:"1574222400" entry:"1573754855" modified:"1573754983" status:"pending" uuid:"5997ada8-55fe-4c4d-88ee-7c7e64147542"]
+---
+time 1573760880
+new [description:"email lorenzo api design docs" due:"1573790400" entry:"1573760878" modified:"1573760878" status:"pending" uuid:"27f7195a-0cb8-4847-977c-c98259637d67"]
+---
+time 1573760901
+new [description:"find contact for cloud partnerships for new and dev" due:"1573876800" entry:"1573760900" modified:"1573760900" status:"pending" uuid:"0962a886-5f67-4bf7-aaa2-d6c9eccce29d"]
+---
+time 1573760963
+old [description:"ask christina to write .new announcement" due:"1573790400" entry:"1573593578" modified:"1573593578" status:"pending" uuid:"b174b4da-3bfa-418d-9d07-9022979c4b14"]
+new [description:"ask christina to write .new announcement" due:"1573790400" end:"1573760963" entry:"1573593578" modified:"1573760963" status:"completed" uuid:"b174b4da-3bfa-418d-9d07-9022979c4b14"]
+---
+time 1573769664
+new [description:"contact form or whats.new" entry:"1573769663" modified:"1573769663" status:"pending" uuid:"d5c7537e-2770-4299-b5db-46e58a08e0b0"]
+---
+time 1573769682
+old [description:"contact form or whats.new" entry:"1573769663" modified:"1573769663" status:"pending" uuid:"d5c7537e-2770-4299-b5db-46e58a08e0b0"]
+new [description:"contact form or whats.new" due:"1573876800" entry:"1573769663" modified:"1573769682" status:"pending" uuid:"d5c7537e-2770-4299-b5db-46e58a08e0b0"]
+---
+time 1573846393
+new [description:"email top partners about lrp form being live rpo:new_launch" entry:"1573846392" modified:"1573846392" status:"pending" uuid:"d7ad5f38-5afa-4cec-9453-2bedd771c0fe"]
+---
+time 1573846417
+old [description:"email top partners about lrp form being live rpo:new_launch" entry:"1573846392" modified:"1573846392" status:"pending" uuid:"d7ad5f38-5afa-4cec-9453-2bedd771c0fe"]
+new [description:"email top partners about lrp form being live" entry:"1573846392" modified:"1573846417" status:"pending" uuid:"d7ad5f38-5afa-4cec-9453-2bedd771c0fe"]
+---
+time 1573846433
+old [description:"email top partners about lrp form being live" entry:"1573846392" modified:"1573846417" status:"pending" uuid:"d7ad5f38-5afa-4cec-9453-2bedd771c0fe"]
+new [description:"email top partners about lrp form being live" entry:"1573846392" modified:"1573846433" project:"new_launch" status:"pending" uuid:"d7ad5f38-5afa-4cec-9453-2bedd771c0fe"]
+---
+time 1573846477
+old [description:"contact form or whats.new" due:"1573876800" entry:"1573769663" modified:"1573769682" status:"pending" uuid:"d5c7537e-2770-4299-b5db-46e58a08e0b0"]
+new [description:"contact form or whats.new" due:"1573876800" end:"1573846477" entry:"1573769663" modified:"1573846477" status:"completed" uuid:"d5c7537e-2770-4299-b5db-46e58a08e0b0"]
+---
+time 1573846486
+old [description:"draft outline for lrp announcement" due:"1574136000" entry:"1573593543" modified:"1573593543" status:"pending" uuid:"483ba37e-572f-46eb-a2bb-264a22d3d897"]
+new [description:"draft outline for lrp announcement" due:"1574136000" entry:"1573593543" modified:"1573846486" project:"new_launch" status:"pending" uuid:"483ba37e-572f-46eb-a2bb-264a22d3d897"]
+---
+time 1573846530
+old [description:"update partners on registry.google" entry:"1571248550" modified:"1571248550" project:"new_launch" status:"pending" uuid:"c3d78f67-0221-4b24-a20e-032baff1b173"]
+new [description:"update partners on registry.google" end:"1573846530" entry:"1571248550" modified:"1573846530" project:"new_launch" status:"completed" uuid:"c3d78f67-0221-4b24-a20e-032baff1b173"]
+---
+time 1573846655
+new [description:"ask kirsten what alias for new lrp is and if it's set up in tomo" due:"1573876800" entry:"1573846654" modified:"1573846654" project:"new_launch" status:"pending" uuid:"d67e625b-2183-4d65-9da4-388e1e06ebd6"]
+---
+time 1573847410
+new [description:"reach out to people who have reserved .new names and tell them to apply through go\/domainrequest and blogger and photos" due:"1574136000" entry:"1573847410" modified:"1573847410" status:"pending" uuid:"479992e7-cd54-4dee-8aa8-02a2c0e0fac5"]
+---
+time 1573847742
+old [description:"email top partners about lrp form being live" entry:"1573846392" modified:"1573846433" project:"new_launch" status:"pending" uuid:"d7ad5f38-5afa-4cec-9453-2bedd771c0fe"]
+new [description:"email top partners about lrp form being live" due:"1575345600" entry:"1573846392" modified:"1573847742" project:"new_launch" status:"pending" uuid:"d7ad5f38-5afa-4cec-9453-2bedd771c0fe"]
+---
+time 1573848219
+old [description:"ask kirsten what alias for new lrp is and if it's set up in tomo" due:"1573876800" entry:"1573846654" modified:"1573846654" project:"new_launch" status:"pending" uuid:"d67e625b-2183-4d65-9da4-388e1e06ebd6"]
+new [description:"ask kirsten what alias for new lrp is and if it's set up in tomo" due:"1573876800" end:"1573848219" entry:"1573846654" modified:"1573848219" project:"new_launch" status:"completed" uuid:"d67e625b-2183-4d65-9da4-388e1e06ebd6"]
+---
+time 1573848579
+new [description:"find out PP logo format" due:"1573876800" entry:"1573848579" modified:"1573848579" status:"pending" uuid:"8a30fc96-a0c8-4086-b73f-6a9ddd53154d"]
+---
+time 1573862347
+old [description:"find out PP logo format" due:"1573876800" entry:"1573848579" modified:"1573848579" status:"pending" uuid:"8a30fc96-a0c8-4086-b73f-6a9ddd53154d"]
+new [description:"find out PP logo format" due:"1573876800" end:"1573862346" entry:"1573848579" modified:"1573862347" status:"completed" uuid:"8a30fc96-a0c8-4086-b73f-6a9ddd53154d"]
+---
+time 1573862568
+old [description:"email lorenzo api design docs" due:"1573790400" entry:"1573760878" modified:"1573760878" status:"pending" uuid:"27f7195a-0cb8-4847-977c-c98259637d67"]
+new [description:"email lorenzo api design docs" due:"1573790400" end:"1573862567" entry:"1573760878" modified:"1573862568" status:"completed" uuid:"27f7195a-0cb8-4847-977c-c98259637d67"]
+---
+time 1573862578
+old [description:"send package promo details to partners" due:"1573790400" entry:"1573593750" modified:"1573593750" status:"pending" uuid:"667b5f02-b2fa-4d26-a945-9341232b46d2"]
+new [description:"send package promo details to partners" due:"1574136000" entry:"1573593750" modified:"1573862578" status:"pending" uuid:"667b5f02-b2fa-4d26-a945-9341232b46d2"]
+---
+time 1573862588
+old [description:"new faqs for lrp launch" due:"1573790400" entry:"1573593434" modified:"1573593434" status:"pending" uuid:"2cfefae5-0617-4a1e-903a-aa33d62eb2e7"]
+new [description:"new faqs for lrp launch" due:"1574136000" entry:"1573593434" modified:"1573862588" status:"pending" uuid:"2cfefae5-0617-4a1e-903a-aa33d62eb2e7"]
+---
+time 1573862608
+old [description:"make RRAs and ESs for youtube,gle,foo" due:"1573876800" entry:"1572284559" modified:"1573685678" status:"pending" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+new [description:"make RRAs and ESs for youtube,gle,foo" due:"1575691200" entry:"1572284559" modified:"1573862608" status:"pending" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+---
+time 1573863419
+old [description:"find contact for cloud partnerships for new and dev" due:"1573876800" entry:"1573760900" modified:"1573760900" status:"pending" uuid:"0962a886-5f67-4bf7-aaa2-d6c9eccce29d"]
+new [description:"find contact for cloud partnerships for new and dev" due:"1573876800" end:"1573863419" entry:"1573760900" modified:"1573863419" status:"completed" uuid:"0962a886-5f67-4bf7-aaa2-d6c9eccce29d"]
+---
+time 1574103734
+new [description:"leads topic to discuss whether to drop reserved names upon partner request" due:"1575432000" entry:"1574103733" modified:"1574103733" status:"pending" uuid:"b4a221f3-2741-40ef-b2cc-bbc0174e9b9b"]
+---
+time 1574110790
+new [description:"follow up with dharam" due:"1575345600" entry:"1574110790" modified:"1574110790" status:"pending" uuid:"b82a22ac-e54e-44ea-8591-93b569749f5f"]
+---
+time 1574115909
+new [description:"read Registry lock RRA" due:"1575518400" entry:"1574115909" modified:"1574115909" status:"pending" uuid:"9f02bbb6-9ee8-4598-add0-31b397930d0f"]
+---
+time 1574115960
+old [description:"read Registry lock RRA" due:"1575518400" entry:"1574115909" modified:"1574115909" status:"pending" uuid:"9f02bbb6-9ee8-4598-add0-31b397930d0f"]
+new [annotation_1574115959:"http:\/\/go\/registry-lock-rra" description:"read Registry lock RRA" due:"1575518400" entry:"1574115909" modified:"1574115960" status:"pending" uuid:"9f02bbb6-9ee8-4598-add0-31b397930d0f"]
+---
+time 1574119795
+old [description:"send package promo details to partners" due:"1574136000" entry:"1573593750" modified:"1573862578" status:"pending" uuid:"667b5f02-b2fa-4d26-a945-9341232b46d2"]
+new [description:"send package promo details to partners" due:"1575345600" entry:"1573593750" modified:"1574119795" status:"pending" uuid:"667b5f02-b2fa-4d26-a945-9341232b46d2"]
+---
+time 1574207182
+old [description:"reach out to people who have reserved .new names and tell them to apply through go\/domainrequest and blogger and photos" due:"1574136000" entry:"1573847410" modified:"1573847410" status:"pending" uuid:"479992e7-cd54-4dee-8aa8-02a2c0e0fac5"]
+new [description:"reach out to people who have reserved .new names and tell them to apply through go\/domainrequest and blogger and photos" due:"1574136000" end:"1574207179" entry:"1573847410" modified:"1574207182" status:"completed" uuid:"479992e7-cd54-4dee-8aa8-02a2c0e0fac5"]
+---
+time 1574207190
+old [annotation_1573754982:"http:\/\/go\/registry-okrs-2020" description:"2020 okrs" due:"1574222400" entry:"1573754855" modified:"1573754983" status:"pending" uuid:"5997ada8-55fe-4c4d-88ee-7c7e64147542"]
+new [annotation_1573754982:"http:\/\/go\/registry-okrs-2020" description:"2020 okrs" due:"1574222400" end:"1574207190" entry:"1573754855" modified:"1574207190" status:"completed" uuid:"5997ada8-55fe-4c4d-88ee-7c7e64147542"]
+---
+time 1574223868
+old [description:"new faqs for lrp launch" due:"1574136000" entry:"1573593434" modified:"1573862588" status:"pending" uuid:"2cfefae5-0617-4a1e-903a-aa33d62eb2e7"]
+new [description:"new faqs for lrp launch" due:"1574136000" end:"1574223867" entry:"1573593434" modified:"1574223868" status:"completed" uuid:"2cfefae5-0617-4a1e-903a-aa33d62eb2e7"]
+---
+time 1574225273
+old [description:"draft outline for lrp announcement" due:"1574136000" entry:"1573593543" modified:"1573846486" project:"new_launch" status:"pending" uuid:"483ba37e-572f-46eb-a2bb-264a22d3d897"]
+new [description:"draft outline for lrp announcement" due:"1574136000" end:"1574225271" entry:"1573593543" modified:"1574225273" project:"new_launch" status:"completed" uuid:"483ba37e-572f-46eb-a2bb-264a22d3d897"]
+---
+time 1574225295
+new [description:"publish lrp announcement to registry.google" due:"1575345600" entry:"1574225295" modified:"1574225295" status:"pending" uuid:"00159aec-eb87-46ae-8675-0464db689e76"]
+---
+time 1574225334
+old [description:"publish lrp announcement to registry.google" due:"1575345600" entry:"1574225295" modified:"1574225295" status:"pending" uuid:"00159aec-eb87-46ae-8675-0464db689e76"]
+new [annotation_1574225334:"http:\/\/go\/new-lrp-announcement" description:"publish lrp announcement to registry.google" due:"1575345600" entry:"1574225295" modified:"1574225334" status:"pending" uuid:"00159aec-eb87-46ae-8675-0464db689e76"]
+---
+time 1574225360
+old [annotation_1574225334:"http:\/\/go\/new-lrp-announcement" description:"publish lrp announcement to registry.google" due:"1575345600" entry:"1574225295" modified:"1574225334" status:"pending" uuid:"00159aec-eb87-46ae-8675-0464db689e76"]
+new [annotation_1574225334:"http:\/\/go\/new-lrp-announcement" description:"publish lrp announcement to registry.google" due:"1575345600" entry:"1574225295" modified:"1574225360" project:"new_launch" status:"pending" uuid:"00159aec-eb87-46ae-8675-0464db689e76"]
+---
+time 1575406843
+new [description:"template for unsuccessful new lrp application" due:"1575604800" entry:"1575406841" modified:"1575406841" project:"new_launch" status:"pending" uuid:"11f905b3-a964-4511-921f-e697dca3961d"]
+---
+time 1575406879
+old [description:"template for unsuccessful new lrp application" due:"1575604800" entry:"1575406841" modified:"1575406841" project:"new_launch" status:"pending" uuid:"11f905b3-a964-4511-921f-e697dca3961d"]
+new [annotation_1575406879:"http:\/\/go\/new-lrp-process" description:"template for unsuccessful new lrp application" due:"1575604800" entry:"1575406841" modified:"1575406879" project:"new_launch" status:"pending" uuid:"11f905b3-a964-4511-921f-e697dca3961d"]
+---
+time 1575495046
+new [description:"draft three line dot new lrp requirement and send to lauren and carl" due:"1575518400" entry:"1575495044" modified:"1575495044" status:"pending" uuid:"bee06fc6-8c7d-433a-8a3b-3195ea0573d7"]
+---
+time 1575643871
+old [annotation_1574225334:"http:\/\/go\/new-lrp-announcement" description:"publish lrp announcement to registry.google" due:"1575345600" entry:"1574225295" modified:"1574225360" project:"new_launch" status:"pending" uuid:"00159aec-eb87-46ae-8675-0464db689e76"]
+new [annotation_1574225334:"http:\/\/go\/new-lrp-announcement" description:"publish lrp announcement to registry.google" due:"1575345600" end:"1575643869" entry:"1574225295" modified:"1575643871" project:"new_launch" status:"completed" uuid:"00159aec-eb87-46ae-8675-0464db689e76"]
+---
+time 1575643978
+old [description:"leads topic to discuss whether to drop reserved names upon partner request" due:"1575432000" entry:"1574103733" modified:"1574103733" status:"pending" uuid:"b4a221f3-2741-40ef-b2cc-bbc0174e9b9b"]
+new [description:"leads topic to discuss whether to drop reserved names upon partner request" due:"1575432000" end:"1575643977" entry:"1574103733" modified:"1575643978" status:"completed" uuid:"b4a221f3-2741-40ef-b2cc-bbc0174e9b9b"]
+---
+time 1575644042
+old [annotation_1574115959:"http:\/\/go\/registry-lock-rra" description:"read Registry lock RRA" due:"1575518400" entry:"1574115909" modified:"1574115960" status:"pending" uuid:"9f02bbb6-9ee8-4598-add0-31b397930d0f"]
+new [annotation_1574115959:"http:\/\/go\/registry-lock-rra" description:"read Registry lock RRA" due:"1578369600" entry:"1574115909" modified:"1575644042" status:"pending" uuid:"9f02bbb6-9ee8-4598-add0-31b397930d0f"]
+---
+time 1575644049
+old [description:"email top partners about lrp form being live" due:"1575345600" entry:"1573846392" modified:"1573847742" project:"new_launch" status:"pending" uuid:"d7ad5f38-5afa-4cec-9453-2bedd771c0fe"]
+new [description:"email top partners about lrp form being live" due:"1575345600" end:"1575644048" entry:"1573846392" modified:"1575644049" project:"new_launch" status:"completed" uuid:"d7ad5f38-5afa-4cec-9453-2bedd771c0fe"]
+---
+time 1575645638
+new [description:"fix minna,how,soy RRAs" entry:"1575645638" modified:"1575645638" status:"pending" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+---
+time 1575645643
+old [description:"fix minna,how,soy RRAs" entry:"1575645638" modified:"1575645638" status:"pending" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+new [description:"fix minna,how,soy RRAs" due:"1575691200" entry:"1575645638" modified:"1575645643" status:"pending" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+---
+time 1576295214
+new [description:"GMO RRA instructions for Jermaine" due:"1576555200" entry:"1576295213" modified:"1576295213" status:"pending" uuid:"9b182cbb-a4e7-4723-b8c5-d3a091c1dca9"]
+---
+time 1576608828
+old [annotation_1575406879:"http:\/\/go\/new-lrp-process" description:"template for unsuccessful new lrp application" due:"1575604800" entry:"1575406841" modified:"1575406879" project:"new_launch" status:"pending" uuid:"11f905b3-a964-4511-921f-e697dca3961d"]
+new [annotation_1575406879:"http:\/\/go\/new-lrp-process" description:"template for unsuccessful new lrp application" due:"1575604800" end:"1576608827" entry:"1575406841" modified:"1576608828" project:"new_launch" status:"completed" uuid:"11f905b3-a964-4511-921f-e697dca3961d"]
+---
+time 1576608839
+old [description:"draft three line dot new lrp requirement and send to lauren and carl" due:"1575518400" entry:"1575495044" modified:"1575495044" status:"pending" uuid:"bee06fc6-8c7d-433a-8a3b-3195ea0573d7"]
+new [description:"draft three line dot new lrp requirement and send to lauren and carl" due:"1575518400" end:"1576608838" entry:"1575495044" modified:"1576608839" status:"completed" uuid:"bee06fc6-8c7d-433a-8a3b-3195ea0573d7"]
+---
+time 1576788057
+new [description:"reaching out to RRs that havent signed RRA amendments" due:"1578369600" entry:"1576788054" modified:"1576788054" status:"pending" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+---
+time 1577111275
+old [description:"follow up with dharam" due:"1575345600" entry:"1574110790" modified:"1574110790" status:"pending" uuid:"b82a22ac-e54e-44ea-8591-93b569749f5f"]
+new [description:"follow up with dharam" due:"1575345600" end:"1577111274" entry:"1574110790" modified:"1577111275" status:"completed" uuid:"b82a22ac-e54e-44ea-8591-93b569749f5f"]
+---
+time 1577111375
+old [description:"GMO RRA instructions for Jermaine" due:"1576555200" entry:"1576295213" modified:"1576295213" status:"pending" uuid:"9b182cbb-a4e7-4723-b8c5-d3a091c1dca9"]
+new [description:"2019-12-30" entry:"1576295213" modified:"1577111375" status:"pending" uuid:"9b182cbb-a4e7-4723-b8c5-d3a091c1dca9"]
+---
+time 1577111382
+old [description:"clean up inbox" entry:"1571101413" modified:"1571101413" priority:"H" status:"pending" uuid:"fd059849-a314-499f-828c-ab739b26a392"]
+new [description:"clean up inbox" end:"1577111382" entry:"1571101413" modified:"1577111382" priority:"H" status:"completed" uuid:"fd059849-a314-499f-828c-ab739b26a392"]
+---
+time 1577111408
+old [description:"2019-12-30" entry:"1576295213" modified:"1577111375" status:"pending" uuid:"9b182cbb-a4e7-4723-b8c5-d3a091c1dca9"]
+new [description:"2019-12-30" due:"1577764800" entry:"1576295213" modified:"1577111408" status:"pending" uuid:"9b182cbb-a4e7-4723-b8c5-d3a091c1dca9"]
+---
+time 1577111426
+old [description:"2019-12-30" due:"1577764800" entry:"1576295213" modified:"1577111408" status:"pending" uuid:"9b182cbb-a4e7-4723-b8c5-d3a091c1dca9"]
+new [description:"2019-12-30" due:"1577764800" end:"1577111424" entry:"1576295213" modified:"1577111426" status:"deleted" uuid:"9b182cbb-a4e7-4723-b8c5-d3a091c1dca9"]
+---
+time 1577111460
+new [description:"GMO RRA instructions for Jermaine" due:"1577764800" entry:"1577111460" modified:"1577111460" status:"pending" uuid:"f0e8b7e7-7e0b-4f42-991e-83a060259eb9"]
+---
+time 1578342051
+new [description:"reach out to godaddy re weird domains" entry:"1578342050" modified:"1578342050" status:"pending" uuid:"cac9f9b2-b2b0-465e-970e-651f2c700006"]
+---
+time 1578342151
+old [description:"reach out to godaddy re weird domains" entry:"1578342050" modified:"1578342050" status:"pending" uuid:"cac9f9b2-b2b0-465e-970e-651f2c700006"]
+new [description:"reach out to godaddy re weird domains" due:"1578456000" entry:"1578342050" modified:"1578342151" status:"pending" uuid:"cac9f9b2-b2b0-465e-970e-651f2c700006"]
+---
+time 1578342442
+old [annotation_1574115959:"http:\/\/go\/registry-lock-rra" description:"read Registry lock RRA" due:"1578369600" entry:"1574115909" modified:"1575644042" status:"pending" uuid:"9f02bbb6-9ee8-4598-add0-31b397930d0f"]
+new [annotation_1574115959:"http:\/\/go\/registry-lock-rra" description:"read Registry lock RRA" due:"1578456000" entry:"1574115909" modified:"1578342442" status:"pending" uuid:"9f02bbb6-9ee8-4598-add0-31b397930d0f"]
+---
+time 1578342453
+old [description:"send package promo details to partners" due:"1575345600" entry:"1573593750" modified:"1574119795" status:"pending" uuid:"667b5f02-b2fa-4d26-a945-9341232b46d2"]
+new [description:"send package promo details to partners" due:"1578542400" entry:"1573593750" modified:"1578342453" status:"pending" uuid:"667b5f02-b2fa-4d26-a945-9341232b46d2"]
+---
+time 1578342467
+old [description:"make RRAs and ESs for youtube,gle,foo" due:"1575691200" entry:"1572284559" modified:"1573862608" status:"pending" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+new [description:"due tomorrow" due:"1575691200" entry:"1572284559" modified:"1578342467" status:"pending" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+---
+time 1578342486
+old [description:"due tomorrow" due:"1575691200" entry:"1572284559" modified:"1578342467" status:"pending" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+new [description:"make RRAs and ESs for youtube,gle,foo" due:"1578456000" entry:"1572284559" modified:"1578342486" status:"pending" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+---
+time 1578342495
+old [description:"fix minna,how,soy RRAs" due:"1575691200" entry:"1575645638" modified:"1575645643" status:"pending" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+new [description:"fix minna,how,soy RRAs" due:"1578456000" entry:"1575645638" modified:"1578342495" status:"pending" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+---
+time 1578342510
+old [description:"GMO RRA instructions for Jermaine" due:"1577764800" entry:"1577111460" modified:"1577111460" status:"pending" uuid:"f0e8b7e7-7e0b-4f42-991e-83a060259eb9"]
+new [description:"process GMO contracts" due:"1578542400" entry:"1577111460" modified:"1578342510" status:"pending" uuid:"f0e8b7e7-7e0b-4f42-991e-83a060259eb9"]
+---
+time 1578342551
+new [description:"follow up for registry lock feedback" due:"1578369600" entry:"1578342551" modified:"1578342551" status:"pending" uuid:"07240db5-9fa0-46e3-9515-3dd037b9a25c"]
+---
+time 1578342568
+old [description:"reaching out to RRs that havent signed RRA amendments" due:"1578369600" entry:"1576788054" modified:"1576788054" status:"pending" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+new [description:"reaching out to RRs that havent signed RRA amendments" due:"1578456000" entry:"1576788054" modified:"1578342568" status:"pending" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+---
+time 1578342607
+old [description:"reach out to godaddy re weird domains" due:"1578456000" entry:"1578342050" modified:"1578342151" status:"pending" uuid:"cac9f9b2-b2b0-465e-970e-651f2c700006"]
+new [description:"reach out to godaddy re weird domains" due:"1578369600" entry:"1578342050" modified:"1578342607" status:"pending" uuid:"cac9f9b2-b2b0-465e-970e-651f2c700006"]
+---
+time 1578342640
+new [description:"ask any about okg.new" due:"1578369600" entry:"1578342640" modified:"1578342640" status:"pending" uuid:"49c35314-b2ae-43c9-9cb4-4b824080fede"]
+---
+time 1578342700
+new [description:"set up call with adobe" due:"1578369600" entry:"1578342699" modified:"1578342699" status:"pending" uuid:"ecee6b24-89cb-4e01-9f4e-f4b9a39d4dd8"]
+---
+time 1578343781
+new [description:"check if registry lock one pager is up to date" due:"1578369600" entry:"1578343780" modified:"1578343780" project:"registry_lock" status:"pending" uuid:"61953a98-0caa-4c97-b284-fa9c44509ff9"]
+---
+time 1578343791
+old [annotation_1574115959:"http:\/\/go\/registry-lock-rra" description:"read Registry lock RRA" due:"1578456000" entry:"1574115909" modified:"1578342442" status:"pending" uuid:"9f02bbb6-9ee8-4598-add0-31b397930d0f"]
+new [annotation_1574115959:"http:\/\/go\/registry-lock-rra" description:"read Registry lock RRA" due:"1578456000" entry:"1574115909" modified:"1578343791" project:"registry_lock" status:"pending" uuid:"9f02bbb6-9ee8-4598-add0-31b397930d0f"]
+---
+time 1578343811
+old [description:"follow up for registry lock feedback" due:"1578369600" entry:"1578342551" modified:"1578342551" status:"pending" uuid:"07240db5-9fa0-46e3-9515-3dd037b9a25c"]
+new [description:"follow up for registry lock feedback" due:"1578369600" entry:"1578342551" modified:"1578343811" project:"registry_lock" status:"pending" uuid:"07240db5-9fa0-46e3-9515-3dd037b9a25c"]
+---
+time 1578346259
+old [description:"follow up for registry lock feedback" due:"1578369600" entry:"1578342551" modified:"1578343811" project:"registry_lock" status:"pending" uuid:"07240db5-9fa0-46e3-9515-3dd037b9a25c"]
+new [description:"follow up for registry lock feedback" due:"1578369600" end:"1578346258" entry:"1578342551" modified:"1578346259" project:"registry_lock" status:"completed" uuid:"07240db5-9fa0-46e3-9515-3dd037b9a25c"]
+---
+time 1578346393
+new [description:"review registry lock PRD" due:"1578456000" entry:"1578346392" modified:"1578346392" project:"registry_lock" status:"pending" uuid:"7b9e3eb7-fe62-4e68-bfcd-0abc0b1f7918"]
+---
+time 1578346411
+old [description:"review registry lock PRD" due:"1578456000" entry:"1578346392" modified:"1578346392" project:"registry_lock" status:"pending" uuid:"7b9e3eb7-fe62-4e68-bfcd-0abc0b1f7918"]
+new [annotation_1578346410:"httP" description:"review registry lock PRD" due:"1578456000" entry:"1578346392" modified:"1578346411" project:"registry_lock" status:"pending" uuid:"7b9e3eb7-fe62-4e68-bfcd-0abc0b1f7918"]
+---
+time 1578346437
+old [annotation_1578346410:"httP" description:"review registry lock PRD" due:"1578456000" entry:"1578346392" modified:"1578346411" project:"registry_lock" status:"pending" uuid:"7b9e3eb7-fe62-4e68-bfcd-0abc0b1f7918"]
+new [annotation_1578346410:"http:\/\/go\/registry-lock" description:"review registry lock PRD" due:"1578456000" entry:"1578346392" modified:"1578346437" project:"registry_lock" status:"pending" uuid:"7b9e3eb7-fe62-4e68-bfcd-0abc0b1f7918"]
+---
+time 1578346447
+old [description:"check if registry lock one pager is up to date" due:"1578369600" entry:"1578343780" modified:"1578343780" project:"registry_lock" status:"pending" uuid:"61953a98-0caa-4c97-b284-fa9c44509ff9"]
+new [description:"check if registry lock one pager is up to date" due:"1578369600" end:"1578346447" entry:"1578343780" modified:"1578346447" project:"registry_lock" status:"completed" uuid:"61953a98-0caa-4c97-b284-fa9c44509ff9"]
+---
+time 1578347972
+old [description:"ask any about okg.new" due:"1578369600" entry:"1578342640" modified:"1578342640" status:"pending" uuid:"49c35314-b2ae-43c9-9cb4-4b824080fede"]
+new [description:"ask any about okg.new" due:"1578369600" entry:"1578342640" modified:"1578347972" project:"registry_lock" status:"pending" uuid:"49c35314-b2ae-43c9-9cb4-4b824080fede"]
+---
+time 1578347974
+old [description:"ask any about okg.new" due:"1578369600" entry:"1578342640" modified:"1578347972" project:"registry_lock" status:"pending" uuid:"49c35314-b2ae-43c9-9cb4-4b824080fede"]
+new [description:"ask any about okg.new" due:"1578369600" end:"1578347974" entry:"1578342640" modified:"1578347974" project:"registry_lock" status:"completed" uuid:"49c35314-b2ae-43c9-9cb4-4b824080fede"]
+---
+time 1578348023
+old [description:"ask any about okg.new" due:"1578369600" end:"1578347974" entry:"1578342640" modified:"1578347974" project:"registry_lock" status:"completed" uuid:"49c35314-b2ae-43c9-9cb4-4b824080fede"]
+new [description:"ask andy about okg.new" due:"1578369600" end:"1578347974" entry:"1578342640" modified:"1578348023" status:"completed" uuid:"49c35314-b2ae-43c9-9cb4-4b824080fede"]
+---
+time 1578348058
+new [description:"new lrp hashtag" entry:"1578348058" modified:"1578348058" status:"pending" uuid:"775afcff-b685-4656-9291-a5501eba77a1"]
+---
+time 1578348364
+old [description:"reach out to godaddy re weird domains" due:"1578369600" entry:"1578342050" modified:"1578342607" status:"pending" uuid:"cac9f9b2-b2b0-465e-970e-651f2c700006"]
+new [description:"reach out to godaddy re weird domains" due:"1578369600" end:"1578348363" entry:"1578342050" modified:"1578348364" status:"completed" uuid:"cac9f9b2-b2b0-465e-970e-651f2c700006"]
+---
+time 1578348737
+old [description:"set up call with adobe" due:"1578369600" entry:"1578342699" modified:"1578342699" status:"pending" uuid:"ecee6b24-89cb-4e01-9f4e-f4b9a39d4dd8"]
+new [description:"set up call with adobe" due:"1578369600" end:"1578348737" entry:"1578342699" modified:"1578348737" status:"completed" uuid:"ecee6b24-89cb-4e01-9f4e-f4b9a39d4dd8"]
+---
+time 1578405900
+new [description:"agenda for mtg w\/ ritu" due:"1578542400" entry:"1578405899" modified:"1578405899" status:"pending" uuid:"e9d756ac-88b4-4ee4-940d-12d163715af4"]
+---
+time 1578406848
+old [description:"include .task .taskrc in dotfiles" entry:"1571102220" modified:"1571102220" scheduled:"1571554800" status:"pending" uuid:"3d4f54ee-dc08-4000-9e12-de9091bafe69"]
+new [description:"include .task .taskrc in dotfiles" end:"1578406846" entry:"1571102220" modified:"1578406848" scheduled:"1571554800" status:"completed" uuid:"3d4f54ee-dc08-4000-9e12-de9091bafe69"]
+---
+time 1578406921
+old [description:"make RRAs and ESs for youtube,gle,foo" due:"1578456000" entry:"1572284559" modified:"1578342486" status:"pending" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+new [description:"make RRAs and ESs for youtube,gle,foo" due:"1578542400" entry:"1572284559" modified:"1578406921" status:"pending" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+---
+time 1578406933
+old [annotation_1574115959:"http:\/\/go\/registry-lock-rra" description:"read Registry lock RRA" due:"1578456000" entry:"1574115909" modified:"1578343791" project:"registry_lock" status:"pending" uuid:"9f02bbb6-9ee8-4598-add0-31b397930d0f"]
+new [annotation_1574115959:"http:\/\/go\/registry-lock-rra" description:"read Registry lock RRA" due:"1578542400" entry:"1574115909" modified:"1578406933" project:"registry_lock" status:"pending" uuid:"9f02bbb6-9ee8-4598-add0-31b397930d0f"]
+---
+time 1578406951
+old [description:"fix minna,how,soy RRAs" due:"1578456000" entry:"1575645638" modified:"1578342495" status:"pending" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+new [description:"fix minna,how,soy RRAs" due:"1578542400" entry:"1575645638" modified:"1578406951" status:"pending" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+---
+time 1578406972
+old [annotation_1574115959:"http:\/\/go\/registry-lock-rra" description:"read Registry lock RRA" due:"1578542400" entry:"1574115909" modified:"1578406933" project:"registry_lock" status:"pending" uuid:"9f02bbb6-9ee8-4598-add0-31b397930d0f"]
+new [annotation_1574115959:"http:\/\/go\/registry-lock-rra" depends:"7b9e3eb7-fe62-4e68-bfcd-0abc0b1f7918" description:"read Registry lock RRA" due:"1578542400" entry:"1574115909" modified:"1578406972" project:"registry_lock" status:"pending" uuid:"9f02bbb6-9ee8-4598-add0-31b397930d0f"]
+---
+time 1578406994
+old [annotation_1574115959:"http:\/\/go\/registry-lock-rra" depends:"7b9e3eb7-fe62-4e68-bfcd-0abc0b1f7918" description:"read Registry lock RRA" due:"1578542400" entry:"1574115909" modified:"1578406972" project:"registry_lock" status:"pending" uuid:"9f02bbb6-9ee8-4598-add0-31b397930d0f"]
+new [annotation_1574115959:"http:\/\/go\/registry-lock-rra" description:"read Registry lock RRA" due:"1578542400" entry:"1574115909" modified:"1578406994" project:"registry_lock" status:"pending" uuid:"9f02bbb6-9ee8-4598-add0-31b397930d0f"]
+---
+time 1578407069
+old [annotation_1574115959:"http:\/\/go\/registry-lock-rra" description:"read Registry lock RRA" due:"1578542400" entry:"1574115909" modified:"1578406994" project:"registry_lock" status:"pending" uuid:"9f02bbb6-9ee8-4598-add0-31b397930d0f"]
+new [annotation_1574115959:"http:\/\/go\/registry-lock-rra" description:"read Registry lock RRA" due:"1578542400" entry:"1574115909" modified:"1578407069" project:"registry_lock" status:"pending" tags:"ritu" uuid:"9f02bbb6-9ee8-4598-add0-31b397930d0f"]
+---
+time 1578407079
+old [annotation_1574115959:"http:\/\/go\/registry-lock-rra" description:"read Registry lock RRA" due:"1578542400" entry:"1574115909" modified:"1578407069" project:"registry_lock" status:"pending" tags:"ritu" uuid:"9f02bbb6-9ee8-4598-add0-31b397930d0f"]
+new [annotation_1574115959:"http:\/\/go\/registry-lock-rra" description:"read Registry lock RRA" due:"1578542400" entry:"1574115909" modified:"1578407079" project:"registry_lock" status:"pending" tags:"legal" uuid:"9f02bbb6-9ee8-4598-add0-31b397930d0f"]
+---
+time 1578407089
+old [description:"reaching out to RRs that havent signed RRA amendments" due:"1578456000" entry:"1576788054" modified:"1578342568" status:"pending" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+new [description:"reaching out to RRs that havent signed RRA amendments" due:"1578456000" entry:"1576788054" modified:"1578407089" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+---
+time 1578407106
+old [description:"make RRAs and ESs for youtube,gle,foo" due:"1578542400" entry:"1572284559" modified:"1578406921" status:"pending" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+new [description:"make RRAs and ESs for youtube,gle,foo" due:"1578542400" entry:"1572284559" modified:"1578407106" status:"pending" tags:"legal" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+---
+time 1578407121
+old [description:"fix minna,how,soy RRAs" due:"1578542400" entry:"1575645638" modified:"1578406951" status:"pending" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+new [description:"fix minna,how,soy RRAs" due:"1578542400" entry:"1575645638" modified:"1578407121" status:"pending" tags:"legal" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+---
+time 1578407135
+old [description:"agenda for mtg w\/ ritu" due:"1578542400" entry:"1578405899" modified:"1578405899" status:"pending" uuid:"e9d756ac-88b4-4ee4-940d-12d163715af4"]
+new [description:"agenda for mtg w\/ ritu" due:"1578542400" entry:"1578405899" modified:"1578407135" status:"pending" tags:"legal" uuid:"e9d756ac-88b4-4ee4-940d-12d163715af4"]
+---
+time 1578407140
+old [annotation_1571165688:"http:\/\/go\/crr-ff-process-sync" description:"rahael one-pager" entry:"1571094115" modified:"1571945580" status:"pending" tags:"ff" uuid:"0a517903-7a82-417c-8c0c-bd216c47cc01"]
+new [annotation_1571165688:"http:\/\/go\/crr-ff-process-sync" description:"rahael one-pager" entry:"1571094115" modified:"1578407140" status:"pending" tags:"legal,ff" uuid:"0a517903-7a82-417c-8c0c-bd216c47cc01"]
+---
+time 1578407157
+old [description:"send package promo details to partners" due:"1578542400" entry:"1573593750" modified:"1578342453" status:"pending" uuid:"667b5f02-b2fa-4d26-a945-9341232b46d2"]
+new [description:"send package promo details to partners" due:"1578542400" entry:"1573593750" modified:"1578407157" status:"pending" tags:"gtech" uuid:"667b5f02-b2fa-4d26-a945-9341232b46d2"]
+---
+time 1578407275
+new [description:"check all RRAs in SIMBA" due:"1578542400" entry:"1578407275" modified:"1578407275" status:"pending" tags:"gtech" uuid:"58c6af44-cb39-4d8c-b582-e00f9052755d"]
+---
+time 1578407331
+new [description:"RR and AT enforcement" due:"1578542400" entry:"1578407331" modified:"1578407331" status:"pending" tags:"gtech" uuid:"a9118ed5-63d5-4bce-8b64-bab44c2b4022"]
+---
+time 1578407350
+new [description:".new enforcement" due:"1578542400" entry:"1578407350" modified:"1578407350" project:"new_launch" status:"pending" tags:"gtech" uuid:"8c676351-7f73-45d8-bc16-487aadd32c13"]
+---
+time 1578407494
+old [description:"hook t next into t add and done" entry:"1573585884" modified:"1573585884" status:"pending" uuid:"69dbb579-d4fa-458a-8bbd-989d6934e173"]
+new [description:"hook t next into t add and done" end:"1578407494" entry:"1573585884" modified:"1578407494" status:"completed" uuid:"69dbb579-d4fa-458a-8bbd-989d6934e173"]
+---
+time 1578407529
+old [description:"include .task .taskrc in dotfiles" end:"1578406846" entry:"1571102220" modified:"1578406848" scheduled:"1571554800" status:"completed" uuid:"3d4f54ee-dc08-4000-9e12-de9091bafe69"]
+new [description:"include .task .taskrc in dotfiles" end:"1578406846" entry:"1571102220" modified:"1578407529" scheduled:"1571554800" status:"pending" uuid:"3d4f54ee-dc08-4000-9e12-de9091bafe69"]
+---
+time 1578419304
+new [description:"reach out to firebase for app\/dev integration" due:"1578456000" entry:"1578419302" modified:"1578419302" status:"pending" tags:"matt" uuid:"50f26e79-6cdd-4c52-b204-8c5886417e21"]
+---
+time 1578453128
+old [description:"reach out to firebase for app\/dev integration" due:"1578456000" entry:"1578419302" modified:"1578419302" status:"pending" tags:"matt" uuid:"50f26e79-6cdd-4c52-b204-8c5886417e21"]
+new [description:"reach out to firebase for app\/dev integration" due:"1578456000" end:"1578453127" entry:"1578419302" modified:"1578453128" status:"completed" tags:"matt" uuid:"50f26e79-6cdd-4c52-b204-8c5886417e21"]
+---
+time 1578453167
+new [description:"reach out to firebase (bleigh@ and gcp contact)" due:"1578542400" entry:"1578453167" modified:"1578453167" status:"pending" uuid:"d2faf85b-8eca-46b3-85df-3c45d6f1b3ec"]
+---
+time 1578453187
+old [annotation_1578346410:"http:\/\/go\/registry-lock" description:"review registry lock PRD" due:"1578456000" entry:"1578346392" modified:"1578346437" project:"registry_lock" status:"pending" uuid:"7b9e3eb7-fe62-4e68-bfcd-0abc0b1f7918"]
+new [annotation_1578346410:"http:\/\/go\/registry-lock" description:"review registry lock PRD" due:"1578542400" entry:"1578346392" modified:"1578453187" project:"registry_lock" status:"pending" uuid:"7b9e3eb7-fe62-4e68-bfcd-0abc0b1f7918"]
+---
+time 1578453258
+old [description:"reaching out to RRs that havent signed RRA amendments" due:"1578456000" entry:"1576788054" modified:"1578407089" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+new [description:"reaching out to RRs that havent signed RRA amendments" due:"1578542400" entry:"1576788054" modified:"1578453258" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+---
+time 1578515607
+new [description:"telegram use case" entry:"1578515606" modified:"1578515606" status:"pending" tags:"matt" uuid:"b82ae68b-4015-43ba-bae4-bb5706a0ac83"]
+---
+time 1578515614
+old [description:"telegram use case" entry:"1578515606" modified:"1578515606" status:"pending" tags:"matt" uuid:"b82ae68b-4015-43ba-bae4-bb5706a0ac83"]
+new [description:"telegram use case" due:"1578542400" entry:"1578515606" modified:"1578515614" status:"pending" tags:"matt" uuid:"b82ae68b-4015-43ba-bae4-bb5706a0ac83"]
+---
+time 1578519800
+new [description:"draft email for package promo messaging from agents" due:"1578628800" entry:"1578519800" modified:"1578519800" status:"pending" uuid:"10b45b98-5f71-445c-939a-8adda99f60d7"]
+---
+time 1578520106
+old [description:"send package promo details to partners" due:"1578542400" entry:"1573593750" modified:"1578407157" status:"pending" tags:"gtech" uuid:"667b5f02-b2fa-4d26-a945-9341232b46d2"]
+new [description:"send package promo details to partners" due:"1578542400" end:"1578520094" entry:"1573593750" modified:"1578520106" status:"completed" tags:"gtech" uuid:"667b5f02-b2fa-4d26-a945-9341232b46d2"]
+---
+time 1578520106
+old [description:"check all RRAs in SIMBA" due:"1578542400" entry:"1578407275" modified:"1578407275" status:"pending" tags:"gtech" uuid:"58c6af44-cb39-4d8c-b582-e00f9052755d"]
+new [description:"check all RRAs in SIMBA" due:"1578542400" end:"1578520106" entry:"1578407275" modified:"1578520106" status:"completed" tags:"gtech" uuid:"58c6af44-cb39-4d8c-b582-e00f9052755d"]
+---
+time 1578520106
+old [description:".new enforcement" due:"1578542400" entry:"1578407350" modified:"1578407350" project:"new_launch" status:"pending" tags:"gtech" uuid:"8c676351-7f73-45d8-bc16-487aadd32c13"]
+new [description:".new enforcement" due:"1578542400" end:"1578520106" entry:"1578407350" modified:"1578520106" project:"new_launch" status:"completed" tags:"gtech" uuid:"8c676351-7f73-45d8-bc16-487aadd32c13"]
+---
+time 1578520164
+old [description:"RR and AT enforcement" due:"1578542400" entry:"1578407331" modified:"1578407331" status:"pending" tags:"gtech" uuid:"a9118ed5-63d5-4bce-8b64-bab44c2b4022"]
+new [description:"RR and AT enforcement" due:"1578542400" entry:"1578407331" modified:"1578520164" status:"waiting" tags:"gtech" uuid:"a9118ed5-63d5-4bce-8b64-bab44c2b4022" wait:"1579729764"]
+---
+time 1578520174
+old [description:"RR and AT enforcement" due:"1578542400" entry:"1578407331" modified:"1578520164" status:"waiting" tags:"gtech" uuid:"a9118ed5-63d5-4bce-8b64-bab44c2b4022" wait:"1579729764"]
+new [description:"RR and AT enforcement" entry:"1578407331" modified:"1578520174" status:"waiting" tags:"gtech" uuid:"a9118ed5-63d5-4bce-8b64-bab44c2b4022" wait:"1579729774"]
+---
+time 1578520191
+old [description:"telegram use case" due:"1578542400" entry:"1578515606" modified:"1578515614" status:"pending" tags:"matt" uuid:"b82ae68b-4015-43ba-bae4-bb5706a0ac83"]
+new [description:"telegram use case" due:"1578542400" end:"1578520191" entry:"1578515606" modified:"1578520191" status:"completed" tags:"matt" uuid:"b82ae68b-4015-43ba-bae4-bb5706a0ac83"]
+---
+time 1578601638
+new [description:"email staralliance people" entry:"1578601637" modified:"1578601637" status:"pending" uuid:"1162d162-7fb5-40e0-823d-d552f8ec6269"]
+---
+time 1578605272
+old [description:"email staralliance people" entry:"1578601637" modified:"1578601637" status:"pending" uuid:"1162d162-7fb5-40e0-823d-d552f8ec6269"]
+new [description:"email staralliance people" due:"1578715200" entry:"1578601637" modified:"1578605272" status:"pending" uuid:"1162d162-7fb5-40e0-823d-d552f8ec6269"]
+---
+time 1578606611
+old [annotation_1574115959:"http:\/\/go\/registry-lock-rra" description:"read Registry lock RRA" due:"1578542400" entry:"1574115909" modified:"1578407079" project:"registry_lock" status:"pending" tags:"legal" uuid:"9f02bbb6-9ee8-4598-add0-31b397930d0f"]
+new [annotation_1574115959:"http:\/\/go\/registry-lock-rra" description:"read Registry lock RRA" due:"1578542400" end:"1578606611" entry:"1574115909" modified:"1578606611" project:"registry_lock" status:"completed" tags:"legal" uuid:"9f02bbb6-9ee8-4598-add0-31b397930d0f"]
+---
+time 1578606706
+new [description:"follow up with ramsey on namescon contract" due:"1578715200" entry:"1578606705" modified:"1578606705" status:"pending" tags:"namescon" uuid:"86a4ea77-4945-48f7-b7b2-104551ec8337"]
+---
+time 1578606720
+new [description:"start planning namescon meetings" due:"1578715200" entry:"1578606720" modified:"1578606720" status:"pending" tags:"namescon" uuid:"ec517d93-c73f-4b88-a15b-8cbbe4bd0ef9"]
+---
+time 1578606730
+new [description:"namescon flights" due:"1578628800" entry:"1578606730" modified:"1578606730" status:"pending" tags:"namescon" uuid:"e27ce0c3-9035-42a2-b607-15488e6532b1"]
+---
+time 1578607296
+old [annotation_1578346410:"http:\/\/go\/registry-lock" description:"review registry lock PRD" due:"1578542400" entry:"1578346392" modified:"1578453187" project:"registry_lock" status:"pending" uuid:"7b9e3eb7-fe62-4e68-bfcd-0abc0b1f7918"]
+new [annotation_1578346410:"http:\/\/go\/registry-lock" description:"review registry lock PRD" due:"1578542400" end:"1578607296" entry:"1578346392" modified:"1578607296" project:"registry_lock" status:"completed" uuid:"7b9e3eb7-fe62-4e68-bfcd-0abc0b1f7918"]
+---
+time 1578608054
+old [description:"agenda for mtg w\/ ritu" due:"1578542400" entry:"1578405899" modified:"1578407135" status:"pending" tags:"legal" uuid:"e9d756ac-88b4-4ee4-940d-12d163715af4"]
+new [description:"agenda for mtg w\/ ritu" due:"1578542400" end:"1578608054" entry:"1578405899" modified:"1578608054" status:"completed" tags:"legal" uuid:"e9d756ac-88b4-4ee4-940d-12d163715af4"]
+---
+time 1578614908
+new [description:"registry lock contract" due:"1578715200" entry:"1578614908" modified:"1578614908" project:"registry_lock" status:"pending" uuid:"b9b05aa1-6c19-41df-b03d-c97fe7e83c6e"]
+---
+time 1578614922
+old [description:"make RRAs and ESs for youtube,gle,foo" due:"1578542400" entry:"1572284559" modified:"1578407106" status:"pending" tags:"legal" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+new [description:"make RRAs and ESs for youtube,gle,foo" due:"1578715200" entry:"1572284559" modified:"1578614922" status:"pending" tags:"legal" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+---
+time 1578614922
+old [description:"fix minna,how,soy RRAs" due:"1578542400" entry:"1575645638" modified:"1578407121" status:"pending" tags:"legal" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+new [description:"fix minna,how,soy RRAs" due:"1578715200" entry:"1575645638" modified:"1578614922" status:"pending" tags:"legal" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+---
+time 1578614923
+old [description:"reaching out to RRs that havent signed RRA amendments" due:"1578542400" entry:"1576788054" modified:"1578453258" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+new [description:"reaching out to RRs that havent signed RRA amendments" due:"1578715200" entry:"1576788054" modified:"1578614923" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+---
+time 1578614923
+old [description:"process GMO contracts" due:"1578542400" entry:"1577111460" modified:"1578342510" status:"pending" uuid:"f0e8b7e7-7e0b-4f42-991e-83a060259eb9"]
+new [description:"process GMO contracts" due:"1578715200" entry:"1577111460" modified:"1578614923" status:"pending" uuid:"f0e8b7e7-7e0b-4f42-991e-83a060259eb9"]
+---
+time 1578614930
+old [description:"draft email for package promo messaging from agents" due:"1578628800" entry:"1578519800" modified:"1578519800" status:"pending" uuid:"10b45b98-5f71-445c-939a-8adda99f60d7"]
+new [description:"draft email for package promo messaging from agents" due:"1578628800" end:"1578614930" entry:"1578519800" modified:"1578614930" status:"completed" uuid:"10b45b98-5f71-445c-939a-8adda99f60d7"]
+---
+time 1578683513
+new [description:"update logos on whats.new" due:"1579060800" entry:"1578683511" modified:"1578683511" status:"pending" uuid:"89074d22-8fdf-44cc-bce8-2ed59658a0a2"]
+---
+time 1578683547
+old [description:"update logos on whats.new" due:"1579060800" entry:"1578683511" modified:"1578683511" status:"pending" uuid:"89074d22-8fdf-44cc-bce8-2ed59658a0a2"]
+new [description:"update logos on whats.new" due:"1579060800" entry:"1578683511" modified:"1578683547" project:"new_launch" status:"pending" uuid:"89074d22-8fdf-44cc-bce8-2ed59658a0a2"]
+---
+time 1578683819
+old [description:"email staralliance people" due:"1578715200" entry:"1578601637" modified:"1578605272" status:"pending" uuid:"1162d162-7fb5-40e0-823d-d552f8ec6269"]
+new [description:"email staralliance people" due:"1578715200" end:"1578683819" entry:"1578601637" modified:"1578683819" status:"completed" uuid:"1162d162-7fb5-40e0-823d-d552f8ec6269"]
+---
+time 1578683843
+new [description:"get list of reservations from whitney" due:"1578974400" entry:"1578683843" modified:"1578683843" status:"pending" tags:"newlrp" uuid:"c008d2fd-ac4c-44de-911e-9a7a928dc089"]
+---
+time 1578683868
+old [description:"follow up with ramsey on namescon contract" due:"1578715200" entry:"1578606705" modified:"1578606705" status:"pending" tags:"namescon" uuid:"86a4ea77-4945-48f7-b7b2-104551ec8337"]
+new [description:"follow up with ramsey on namescon contract" due:"1578715200" end:"1578683868" entry:"1578606705" modified:"1578683868" status:"completed" tags:"namescon" uuid:"86a4ea77-4945-48f7-b7b2-104551ec8337"]
+---
+time 1578683963
+old [description:"email staralliance people" due:"1578715200" end:"1578683819" entry:"1578601637" modified:"1578683819" status:"completed" uuid:"1162d162-7fb5-40e0-823d-d552f8ec6269"]
+new [description:"email staralliance people" due:"1578715200" end:"1578683819" entry:"1578601637" modified:"1578683963" status:"completed" tags:"newlrp" uuid:"1162d162-7fb5-40e0-823d-d552f8ec6269"]
+---
+time 1578683964
+old [description:"telegram use case" due:"1578542400" end:"1578520191" entry:"1578515606" modified:"1578520191" status:"completed" tags:"matt" uuid:"b82ae68b-4015-43ba-bae4-bb5706a0ac83"]
+new [description:"telegram use case" due:"1578542400" end:"1578520191" entry:"1578515606" modified:"1578683964" status:"completed" tags:"matt,newlrp" uuid:"b82ae68b-4015-43ba-bae4-bb5706a0ac83"]
+---
+time 1578683964
+old [description:"set up call with adobe" due:"1578369600" end:"1578348737" entry:"1578342699" modified:"1578348737" status:"completed" uuid:"ecee6b24-89cb-4e01-9f4e-f4b9a39d4dd8"]
+new [description:"set up call with adobe" due:"1578369600" end:"1578348737" entry:"1578342699" modified:"1578683964" status:"completed" tags:"newlrp" uuid:"ecee6b24-89cb-4e01-9f4e-f4b9a39d4dd8"]
+---
+time 1578683964
+old [description:"ask andy about okg.new" due:"1578369600" end:"1578347974" entry:"1578342640" modified:"1578348023" status:"completed" uuid:"49c35314-b2ae-43c9-9cb4-4b824080fede"]
+new [description:"ask andy about okg.new" due:"1578369600" end:"1578347974" entry:"1578342640" modified:"1578683964" status:"completed" tags:"newlrp" uuid:"49c35314-b2ae-43c9-9cb4-4b824080fede"]
+---
+time 1578683964
+old [description:"draft three line dot new lrp requirement and send to lauren and carl" due:"1575518400" end:"1576608838" entry:"1575495044" modified:"1576608839" status:"completed" uuid:"bee06fc6-8c7d-433a-8a3b-3195ea0573d7"]
+new [description:"draft three line dot new lrp requirement and send to lauren and carl" due:"1575518400" end:"1576608838" entry:"1575495044" modified:"1578683964" status:"completed" tags:"newlrp" uuid:"bee06fc6-8c7d-433a-8a3b-3195ea0573d7"]
+---
+time 1578683980
+old [description:"new lrp hashtag" entry:"1578348058" modified:"1578348058" status:"pending" uuid:"775afcff-b685-4656-9291-a5501eba77a1"]
+new [description:"new lrp hashtag" end:"1578683980" entry:"1578348058" modified:"1578683980" status:"completed" uuid:"775afcff-b685-4656-9291-a5501eba77a1"]
+---
+time 1578688056
+old [description:"namescon flights" due:"1578628800" entry:"1578606730" modified:"1578606730" status:"pending" tags:"namescon" uuid:"e27ce0c3-9035-42a2-b607-15488e6532b1"]
+new [description:"namescon flights" due:"1578628800" end:"1578688055" entry:"1578606730" modified:"1578688056" status:"completed" tags:"namescon" uuid:"e27ce0c3-9035-42a2-b607-15488e6532b1"]
+---
+time 1579113840
+new [description:"prepare registrant confirmation one pager" due:"1579924800" entry:"1579113838" modified:"1579113838" project:"reg_conf" status:"pending" uuid:"c7aa1538-9c8d-4614-a4b7-7101ff01e3b1"]
+---
+time 1579113862
+new [description:"draft namescon brief" due:"1579320000" entry:"1579113861" modified:"1579113861" status:"pending" uuid:"4771065c-4898-48a6-9ef7-5882d0d5bdea"]
+---
+time 1579116377
+old [description:"get list of reservations from whitney" due:"1578974400" entry:"1578683843" modified:"1578683843" status:"pending" tags:"newlrp" uuid:"c008d2fd-ac4c-44de-911e-9a7a928dc089"]
+new [description:"get list of reservations from whitney" due:"1578974400" end:"1579116377" entry:"1578683843" modified:"1579116377" status:"completed" tags:"newlrp" uuid:"c008d2fd-ac4c-44de-911e-9a7a928dc089"]
+---
+time 1579118867
+new [description:"email gcp lorenzo" due:"1579147200" entry:"1579118866" modified:"1579118866" status:"pending" uuid:"e30aaf1a-4b06-4bdf-8ec8-1f8d4ac62771"]
+---
+time 1579214867
+old [description:"email gcp lorenzo" due:"1579147200" entry:"1579118866" modified:"1579118866" status:"pending" uuid:"e30aaf1a-4b06-4bdf-8ec8-1f8d4ac62771"]
+new [description:"email gcp lorenzo" due:"1579147200" end:"1579214866" entry:"1579118866" modified:"1579214867" status:"completed" uuid:"e30aaf1a-4b06-4bdf-8ec8-1f8d4ac62771"]
+---
+time 1579215744
+old [description:"reach out to firebase (bleigh@ and gcp contact)" due:"1578542400" entry:"1578453167" modified:"1578453167" status:"pending" uuid:"d2faf85b-8eca-46b3-85df-3c45d6f1b3ec"]
+new [description:"reach out to firebase (bleigh@ and gcp contact)" due:"1578542400" end:"1579215744" entry:"1578453167" modified:"1579215744" status:"completed" uuid:"d2faf85b-8eca-46b3-85df-3c45d6f1b3ec"]
+---
+time 1579219497
+old [description:"registry lock contract" due:"1578715200" entry:"1578614908" modified:"1578614908" project:"registry_lock" status:"pending" uuid:"b9b05aa1-6c19-41df-b03d-c97fe7e83c6e"]
+new [description:"registry lock contract" due:"1578715200" end:"1579219496" entry:"1578614908" modified:"1579219497" project:"registry_lock" status:"completed" uuid:"b9b05aa1-6c19-41df-b03d-c97fe7e83c6e"]
+---
+time 1579284274
+old [description:"process GMO contracts" due:"1578715200" entry:"1577111460" modified:"1578614923" status:"pending" uuid:"f0e8b7e7-7e0b-4f42-991e-83a060259eb9"]
+new [description:"process GMO contracts" due:"1579665600" entry:"1577111460" modified:"1579284274" status:"pending" uuid:"f0e8b7e7-7e0b-4f42-991e-83a060259eb9"]
+---
+time 1579284283
+old [description:"update logos on whats.new" due:"1579060800" entry:"1578683511" modified:"1578683547" project:"new_launch" status:"pending" uuid:"89074d22-8fdf-44cc-bce8-2ed59658a0a2"]
+new [description:"update logos on whats.new" due:"1579320000" entry:"1578683511" modified:"1579284283" project:"new_launch" status:"pending" uuid:"89074d22-8fdf-44cc-bce8-2ed59658a0a2"]
+---
+time 1579284301
+old [description:"reaching out to RRs that havent signed RRA amendments" due:"1578715200" entry:"1576788054" modified:"1578614923" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+new [description:"reaching out to RRs that havent signed RRA amendments" due:"1579665600" entry:"1576788054" modified:"1579284301" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+---
+time 1579284330
+old [description:"make RRAs and ESs for youtube,gle,foo" due:"1578715200" entry:"1572284559" modified:"1578614922" status:"pending" tags:"legal" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+new [description:"make RRAs and ESs for youtube,gle,foo" due:"1579752000" entry:"1572284559" modified:"1579284330" status:"pending" tags:"legal" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+---
+time 1579284330
+old [description:"fix minna,how,soy RRAs" due:"1578715200" entry:"1575645638" modified:"1578614922" status:"pending" tags:"legal" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+new [description:"fix minna,how,soy RRAs" due:"1579752000" entry:"1575645638" modified:"1579284330" status:"pending" tags:"legal" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+---
+time 1579284340
+old [description:"start planning namescon meetings" due:"1578715200" entry:"1578606720" modified:"1578606720" status:"pending" tags:"namescon" uuid:"ec517d93-c73f-4b88-a15b-8cbbe4bd0ef9"]
+new [description:"start planning namescon meetings" due:"1579320000" entry:"1578606720" modified:"1579284340" status:"pending" tags:"namescon" uuid:"ec517d93-c73f-4b88-a15b-8cbbe4bd0ef9"]
+---
+time 1579290153
+old [description:"draft namescon brief" due:"1579320000" entry:"1579113861" modified:"1579113861" status:"pending" uuid:"4771065c-4898-48a6-9ef7-5882d0d5bdea"]
+new [description:"draft namescon brief" due:"1579320000" end:"1579290153" entry:"1579113861" modified:"1579290153" status:"completed" uuid:"4771065c-4898-48a6-9ef7-5882d0d5bdea"]
+---
+time 1579635482
+new [description:"add .new onto registry.google" entry:"1579635480" modified:"1579635480" status:"pending" uuid:"205ffb09-8ec4-40a1-9fae-905e59470378"]
+---
+time 1579656659
+old [description:"reaching out to RRs that havent signed RRA amendments" due:"1579665600" entry:"1576788054" modified:"1579284301" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+new [description:"reaching out to RRs that havent signed RRA amendments" due:"1579752000" entry:"1576788054" modified:"1579656659" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+---
+time 1579656659
+old [description:"process GMO contracts" due:"1579665600" entry:"1577111460" modified:"1579284274" status:"pending" uuid:"f0e8b7e7-7e0b-4f42-991e-83a060259eb9"]
+new [description:"process GMO contracts" due:"1579752000" entry:"1577111460" modified:"1579656659" status:"pending" uuid:"f0e8b7e7-7e0b-4f42-991e-83a060259eb9"]
+---
+time 1579656667
+old [description:"add .new onto registry.google" entry:"1579635480" modified:"1579635480" status:"pending" uuid:"205ffb09-8ec4-40a1-9fae-905e59470378"]
+new [description:"add .new onto registry.google" due:"1579665600" entry:"1579635480" modified:"1579656667" status:"pending" uuid:"205ffb09-8ec4-40a1-9fae-905e59470378"]
+---
+time 1579656706
+old [description:"start planning namescon meetings" due:"1579320000" entry:"1578606720" modified:"1579284340" status:"pending" tags:"namescon" uuid:"ec517d93-c73f-4b88-a15b-8cbbe4bd0ef9"]
+new [description:"start planning namescon meetings" due:"1579320000" end:"1579656706" entry:"1578606720" modified:"1579656706" status:"completed" tags:"namescon" uuid:"ec517d93-c73f-4b88-a15b-8cbbe4bd0ef9"]
+---
+time 1579821312
+new [description:"draft email for sandbox testing" due:"1579924800" entry:"1579821310" modified:"1579821310" project:"new_launch" status:"pending" uuid:"1a556446-2813-4a4f-938f-5ea86fad3e73"]
+---
+time 1579821315
+old [description:"update logos on whats.new" due:"1579320000" entry:"1578683511" modified:"1579284283" project:"new_launch" status:"pending" uuid:"89074d22-8fdf-44cc-bce8-2ed59658a0a2"]
+new [description:"update logos on whats.new" due:"1579320000" end:"1579821315" entry:"1578683511" modified:"1579821315" project:"new_launch" status:"completed" uuid:"89074d22-8fdf-44cc-bce8-2ed59658a0a2"]
+---
+time 1579821338
+old [description:"add .new onto registry.google" due:"1579665600" entry:"1579635480" modified:"1579656667" status:"pending" uuid:"205ffb09-8ec4-40a1-9fae-905e59470378"]
+new [description:"add .new onto registry.google" due:"1579665600" end:"1579821338" entry:"1579635480" modified:"1579821338" status:"completed" uuid:"205ffb09-8ec4-40a1-9fae-905e59470378"]
+---
+time 1579821578
+new [description:"new launch postmorten" due:"1579838400" entry:"1579821578" modified:"1579821578" project:"new_launch" status:"pending" uuid:"f716c318-2477-418c-be30-5646673a6780"]
+---
+time 1579821654
+old [description:"new launch postmorten" due:"1579838400" entry:"1579821578" modified:"1579821578" project:"new_launch" status:"pending" uuid:"f716c318-2477-418c-be30-5646673a6780"]
+new [annotation_1579821654:"http:\/\/go\/new-lrp-launch-pm" description:"new launch postmorten" due:"1579838400" entry:"1579821578" modified:"1579821654" project:"new_launch" status:"pending" uuid:"f716c318-2477-418c-be30-5646673a6780"]
+---
+time 1579823716
+old [description:"make RRAs and ESs for youtube,gle,foo" due:"1579752000" entry:"1572284559" modified:"1579284330" status:"pending" tags:"legal" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+new [description:"make RRAs and ESs for youtube,gle,foo" due:"1579924800" entry:"1572284559" modified:"1579823716" status:"pending" tags:"legal" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+---
+time 1579823717
+old [description:"fix minna,how,soy RRAs" due:"1579752000" entry:"1575645638" modified:"1579284330" status:"pending" tags:"legal" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+new [description:"fix minna,how,soy RRAs" due:"1579924800" entry:"1575645638" modified:"1579823717" status:"pending" tags:"legal" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+---
+time 1579823717
+old [description:"reaching out to RRs that havent signed RRA amendments" due:"1579752000" entry:"1576788054" modified:"1579656659" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+new [description:"reaching out to RRs that havent signed RRA amendments" due:"1579924800" entry:"1576788054" modified:"1579823717" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+---
+time 1579899504
+old [description:"reaching out to RRs that havent signed RRA amendments" due:"1579924800" entry:"1576788054" modified:"1579823717" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+new [annotation_1579899502:"http:\/\/go\/rra-amendment-tracker" description:"reaching out to RRs that havent signed RRA amendments" due:"1579924800" entry:"1576788054" modified:"1579899504" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+---
+time 1579899546
+new [description:"look into hkdomainname" due:"1580270400" entry:"1579899546" modified:"1579899546" status:"pending" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+---
+time 1579899551
+old [description:"look into hkdomainname" due:"1580270400" entry:"1579899546" modified:"1579899546" status:"pending" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+new [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" description:"look into hkdomainname" due:"1580270400" entry:"1579899546" modified:"1579899551" status:"pending" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+---
+time 1579899625
+old [description:"make RRAs and ESs for youtube,gle,foo" due:"1579924800" entry:"1572284559" modified:"1579823716" status:"pending" tags:"legal" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+new [annotation_1579899625:"http:\/\/go\/20190918-youtube-rra" description:"make RRAs and ESs for youtube,gle,foo" due:"1579924800" entry:"1572284559" modified:"1579899625" status:"pending" tags:"legal" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+---
+time 1579899779
+old [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" description:"look into hkdomainname" due:"1580270400" entry:"1579899546" modified:"1579899551" status:"pending" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+new [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" description:"look into hkdomainname" due:"1580270400" entry:"1579899546" modified:"1579899779" status:"pending" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+---
+time 1579899828
+old [annotation_1579899625:"http:\/\/go\/20190918-youtube-rra" description:"make RRAs and ESs for youtube,gle,foo" due:"1579924800" entry:"1572284559" modified:"1579899625" status:"pending" tags:"legal" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+new [annotation_1579899625:"http:\/\/go\/20190918-youtube-rra" annotation_1579899827:"https:\/\/doccompare.googleplex.com\/" description:"make RRAs and ESs for youtube,gle,foo" due:"1579924800" entry:"1572284559" modified:"1579899828" status:"pending" tags:"legal" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+---
+time 1579901032
+old [description:"process GMO contracts" due:"1579752000" entry:"1577111460" modified:"1579656659" status:"pending" uuid:"f0e8b7e7-7e0b-4f42-991e-83a060259eb9"]
+new [description:"process GMO contracts" due:"1579752000" end:"1579901032" entry:"1577111460" modified:"1579901032" status:"completed" uuid:"f0e8b7e7-7e0b-4f42-991e-83a060259eb9"]
+---
+time 1579901055
+new [description:"update namescon talking points" entry:"1579901055" modified:"1579901055" status:"pending" uuid:"96d217c8-b01a-4e0d-8402-0c3168f6f322"]
+---
+time 1579901108
+old [description:"update namescon talking points" entry:"1579901055" modified:"1579901055" status:"pending" uuid:"96d217c8-b01a-4e0d-8402-0c3168f6f322"]
+new [description:"update namescon talking points" due:"1579924800" entry:"1579901055" modified:"1579901108" status:"pending" tags:"namescon" uuid:"96d217c8-b01a-4e0d-8402-0c3168f6f322"]
+---
+time 1579901183
+old [annotation_1579899625:"http:\/\/go\/20190918-youtube-rra" annotation_1579899827:"https:\/\/doccompare.googleplex.com\/" description:"make RRAs and ESs for youtube,gle,foo" due:"1579924800" entry:"1572284559" modified:"1579899828" status:"pending" tags:"legal" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+new [annotation_1579899625:"http:\/\/go\/20190918-youtube-rra" annotation_1579899827:"https:\/\/doccompare.googleplex.com\/" description:"make RRAs and ESs for youtube,gle,foo" due:"1580184000" entry:"1572284559" modified:"1579901183" status:"pending" tags:"legal" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+---
+time 1579901183
+old [description:"fix minna,how,soy RRAs" due:"1579924800" entry:"1575645638" modified:"1579823717" status:"pending" tags:"legal" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+new [description:"fix minna,how,soy RRAs" due:"1580184000" entry:"1575645638" modified:"1579901183" status:"pending" tags:"legal" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+---
+time 1579901183
+old [annotation_1579899502:"http:\/\/go\/rra-amendment-tracker" description:"reaching out to RRs that havent signed RRA amendments" due:"1579924800" entry:"1576788054" modified:"1579899504" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+new [annotation_1579899502:"http:\/\/go\/rra-amendment-tracker" description:"reaching out to RRs that havent signed RRA amendments" due:"1580184000" entry:"1576788054" modified:"1579901183" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+---
+time 1579901195
+old [annotation_1579821654:"http:\/\/go\/new-lrp-launch-pm" description:"new launch postmorten" due:"1579838400" entry:"1579821578" modified:"1579821654" project:"new_launch" status:"pending" uuid:"f716c318-2477-418c-be30-5646673a6780"]
+new [annotation_1579821654:"http:\/\/go\/new-lrp-launch-pm" description:"new launch postmorten" due:"1579924800" entry:"1579821578" modified:"1579901195" project:"new_launch" status:"pending" uuid:"f716c318-2477-418c-be30-5646673a6780"]
+---
+time 1579912655
+old [description:"prepare registrant confirmation one pager" due:"1579924800" entry:"1579113838" modified:"1579113838" project:"reg_conf" status:"pending" uuid:"c7aa1538-9c8d-4614-a4b7-7101ff01e3b1"]
+new [description:"prepare registrant confirmation one pager" due:"1580184000" entry:"1579113838" modified:"1579912655" project:"reg_conf" status:"pending" uuid:"c7aa1538-9c8d-4614-a4b7-7101ff01e3b1"]
+---
+time 1579912708
+new [description:"finalise registry lock amendment" due:"1579924800" entry:"1579912708" modified:"1579912708" project:"registry_lock" status:"pending" uuid:"2e7a20ce-0d4e-4444-89bf-ca5aa6d6e1d4"]
+---
+time 1579912715
+old [description:"draft email for sandbox testing" due:"1579924800" entry:"1579821310" modified:"1579821310" project:"new_launch" status:"pending" uuid:"1a556446-2813-4a4f-938f-5ea86fad3e73"]
+new [description:"draft email for sandbox testing" due:"1579924800" end:"1579912715" entry:"1579821310" modified:"1579912715" project:"new_launch" status:"completed" uuid:"1a556446-2813-4a4f-938f-5ea86fad3e73"]
+---
+time 1579912728
+old [description:"finalise registry lock amendment" due:"1579924800" entry:"1579912708" modified:"1579912708" project:"registry_lock" status:"pending" uuid:"2e7a20ce-0d4e-4444-89bf-ca5aa6d6e1d4"]
+new [annotation_1579912728:"http:\/\/go\/registry-lock-rra" description:"finalise registry lock amendment" due:"1579924800" entry:"1579912708" modified:"1579912728" project:"registry_lock" status:"pending" uuid:"2e7a20ce-0d4e-4444-89bf-ca5aa6d6e1d4"]
+---
+time 1579914125
+old [annotation_1579821654:"http:\/\/go\/new-lrp-launch-pm" description:"new launch postmorten" due:"1579924800" entry:"1579821578" modified:"1579901195" project:"new_launch" status:"pending" uuid:"f716c318-2477-418c-be30-5646673a6780"]
+new [annotation_1579821654:"http:\/\/go\/new-lrp-launch-pm" description:"new launch postmorten" due:"1579924800" end:"1579914124" entry:"1579821578" modified:"1579914125" project:"new_launch" status:"completed" uuid:"f716c318-2477-418c-be30-5646673a6780"]
+---
+time 1579920297
+old [annotation_1579912728:"http:\/\/go\/registry-lock-rra" description:"finalise registry lock amendment" due:"1579924800" entry:"1579912708" modified:"1579912728" project:"registry_lock" status:"pending" uuid:"2e7a20ce-0d4e-4444-89bf-ca5aa6d6e1d4"]
+new [annotation_1579912728:"http:\/\/go\/registry-lock-rra" description:"finalise registry lock amendment" due:"1580184000" entry:"1579912708" modified:"1579920297" project:"registry_lock" status:"pending" uuid:"2e7a20ce-0d4e-4444-89bf-ca5aa6d6e1d4"]
+---
+time 1579921275
+old [description:"update namescon talking points" due:"1579924800" entry:"1579901055" modified:"1579901108" status:"pending" tags:"namescon" uuid:"96d217c8-b01a-4e0d-8402-0c3168f6f322"]
+new [description:"update namescon talking points" due:"1579924800" end:"1579921274" entry:"1579901055" modified:"1579921275" status:"completed" tags:"namescon" uuid:"96d217c8-b01a-4e0d-8402-0c3168f6f322"]
+---
+time 1580244165
+new [description:"get screenshot of registrar contact onboarding flow" due:"1581393600" entry:"1580244163" modified:"1580244163" project:"registry_lock" status:"pending" uuid:"a931b41e-b152-489e-b133-b529cbb47b94"]
+---
+time 1580244220
+new [depends:"a931b41e-b152-489e-b133-b529cbb47b94" description:"create shortlink for registrar contact onboarding form" due:"1602558000" entry:"1580244219" modified:"1580244219" project:"registry_lock" status:"pending" uuid:"f67ee2b0-8f02-4eb5-a309-8e9ccd705fe4"]
+---
+time 1580244235
+old [depends:"a931b41e-b152-489e-b133-b529cbb47b94" description:"create shortlink for registrar contact onboarding form" due:"1602558000" entry:"1580244219" modified:"1580244219" project:"registry_lock" status:"pending" uuid:"f67ee2b0-8f02-4eb5-a309-8e9ccd705fe4"]
+new [description:"create shortlink for registrar contact onboarding form" due:"1602558000" entry:"1580244219" modified:"1580244235" project:"registry_lock" status:"pending" uuid:"f67ee2b0-8f02-4eb5-a309-8e9ccd705fe4"]
+---
+time 1580244261
+old [description:"create shortlink for registrar contact onboarding form" due:"1602558000" entry:"1580244219" modified:"1580244235" project:"registry_lock" status:"pending" uuid:"f67ee2b0-8f02-4eb5-a309-8e9ccd705fe4"]
+new [description:"create shortlink for registrar contact onboarding form" due:"1581566400" entry:"1580244219" modified:"1580244261" project:"registry_lock" status:"pending" uuid:"f67ee2b0-8f02-4eb5-a309-8e9ccd705fe4"]
+---
+time 1580244404
+old [description:"create shortlink for registrar contact onboarding form" due:"1581566400" entry:"1580244219" modified:"1580244261" project:"registry_lock" status:"pending" uuid:"f67ee2b0-8f02-4eb5-a309-8e9ccd705fe4"]
+new [annotation_1580244404:"https:\/\/b\/148409524" description:"create shortlink for registrar contact onboarding form" due:"1581566400" entry:"1580244219" modified:"1580244404" project:"registry_lock" status:"pending" uuid:"f67ee2b0-8f02-4eb5-a309-8e9ccd705fe4"]
+---
+time 1580847528
+new [description:"set up time with gus and kirsten to figure out registrar contact onboarding" due:"1580875200" entry:"1580847527" modified:"1580847527" project:"registry_lock" status:"pending" uuid:"147a8087-51ae-4caa-9312-7c3f68281858"]
+---
+time 1580933528
+new [description:"identify company for new video case study" due:"1580961600" entry:"1580933526" modified:"1580933526" status:"pending" uuid:"e65c108d-5bc1-4c52-883b-d5e0a5d35010"]
+---
+time 1580933561
+new [description:"book nyc flights" due:"1581048000" entry:"1580933561" modified:"1580933561" status:"pending" uuid:"8934219d-f415-41d7-b962-ec83b596dee2"]
+---
+time 1581023861
+old [description:"set up time with gus and kirsten to figure out registrar contact onboarding" due:"1580875200" entry:"1580847527" modified:"1580847527" project:"registry_lock" status:"pending" uuid:"147a8087-51ae-4caa-9312-7c3f68281858"]
+new [description:"set up time with gus and kirsten to figure out registrar contact onboarding" due:"1580875200" end:"1581023860" entry:"1580847527" modified:"1581023861" project:"registry_lock" status:"completed" uuid:"147a8087-51ae-4caa-9312-7c3f68281858"]
+---
+time 1581034791
+new [description:"update registrar lists for lrp in emails and site" due:"1581393600" entry:"1581034789" modified:"1581034789" status:"pending" tags:"newlrp" uuid:"9b9d1557-938b-4357-8e75-604c69846091"]
+---
+time 1581035199
+new [description:"look into trusted testers" due:"1581393600" entry:"1581035198" modified:"1581035198" status:"pending" uuid:"090bcd1f-27ad-4b1c-9aa2-5e87c2084f28"]
+---
+time 1581036252
+old [annotation_1579899625:"http:\/\/go\/20190918-youtube-rra" annotation_1579899827:"https:\/\/doccompare.googleplex.com\/" description:"make RRAs and ESs for youtube,gle,foo" due:"1580184000" entry:"1572284559" modified:"1579901183" status:"pending" tags:"legal" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+new [annotation_1579899625:"http:\/\/go\/20190918-youtube-rra" annotation_1579899827:"https:\/\/doccompare.googleplex.com\/" description:"make RRAs and ESs for youtube,gle,foo" due:"1581393600" entry:"1572284559" modified:"1581036252" status:"pending" tags:"legal" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+---
+time 1581036253
+old [description:"fix minna,how,soy RRAs" due:"1580184000" entry:"1575645638" modified:"1579901183" status:"pending" tags:"legal" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+new [description:"fix minna,how,soy RRAs" due:"1581393600" entry:"1575645638" modified:"1581036253" status:"pending" tags:"legal" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+---
+time 1581036253
+old [description:"prepare registrant confirmation one pager" due:"1580184000" entry:"1579113838" modified:"1579912655" project:"reg_conf" status:"pending" uuid:"c7aa1538-9c8d-4614-a4b7-7101ff01e3b1"]
+new [description:"prepare registrant confirmation one pager" due:"1581393600" entry:"1579113838" modified:"1581036253" project:"reg_conf" status:"pending" uuid:"c7aa1538-9c8d-4614-a4b7-7101ff01e3b1"]
+---
+time 1581036253
+old [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" description:"look into hkdomainname" due:"1580270400" entry:"1579899546" modified:"1579899779" status:"pending" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+new [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" description:"look into hkdomainname" due:"1581393600" entry:"1579899546" modified:"1581036253" status:"pending" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+---
+time 1581036281
+old [annotation_1579899502:"http:\/\/go\/rra-amendment-tracker" description:"reaching out to RRs that havent signed RRA amendments" due:"1580184000" entry:"1576788054" modified:"1579901183" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+new [annotation_1579899502:"http:\/\/go\/rra-amendment-tracker" description:"reaching out to RRs that havent signed RRA amendments" due:"1581134400" entry:"1576788054" modified:"1581036281" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+---
+time 1581036282
+old [description:"identify company for new video case study" due:"1580961600" entry:"1580933526" modified:"1580933526" status:"pending" uuid:"e65c108d-5bc1-4c52-883b-d5e0a5d35010"]
+new [description:"identify company for new video case study" due:"1581134400" entry:"1580933526" modified:"1581036282" status:"pending" uuid:"e65c108d-5bc1-4c52-883b-d5e0a5d35010"]
+---
+time 1581036282
+old [description:"book nyc flights" due:"1581048000" entry:"1580933561" modified:"1580933561" status:"pending" uuid:"8934219d-f415-41d7-b962-ec83b596dee2"]
+new [description:"book nyc flights" due:"1581134400" entry:"1580933561" modified:"1581036282" status:"pending" uuid:"8934219d-f415-41d7-b962-ec83b596dee2"]
+---
+time 1581036364
+old [annotation_1579912728:"http:\/\/go\/registry-lock-rra" description:"finalise registry lock amendment" due:"1580184000" entry:"1579912708" modified:"1579920297" project:"registry_lock" status:"pending" uuid:"2e7a20ce-0d4e-4444-89bf-ca5aa6d6e1d4"]
+new [annotation_1579912728:"http:\/\/go\/registry-lock-rra" description:"finalise registry lock amendment" due:"1581134400" entry:"1579912708" modified:"1581036364" project:"registry_lock" status:"pending" uuid:"2e7a20ce-0d4e-4444-89bf-ca5aa6d6e1d4"]
+---
+time 1581408807
+old [description:"book nyc flights" due:"1581134400" entry:"1580933561" modified:"1581036282" status:"pending" uuid:"8934219d-f415-41d7-b962-ec83b596dee2"]
+new [description:"book nyc flights" due:"1581134400" end:"1581408806" entry:"1580933561" modified:"1581408807" status:"completed" uuid:"8934219d-f415-41d7-b962-ec83b596dee2"]
+---
+time 1581408826
+old [description:"look into trusted testers" due:"1581393600" entry:"1581035198" modified:"1581035198" status:"pending" uuid:"090bcd1f-27ad-4b1c-9aa2-5e87c2084f28"]
+new [description:"look into trusted testers" due:"1581566400" entry:"1581035198" modified:"1581408826" status:"pending" uuid:"090bcd1f-27ad-4b1c-9aa2-5e87c2084f28"]
+---
+time 1581408908
+old [annotation_1579912728:"http:\/\/go\/registry-lock-rra" description:"finalise registry lock amendment" due:"1581134400" entry:"1579912708" modified:"1581036364" project:"registry_lock" status:"pending" uuid:"2e7a20ce-0d4e-4444-89bf-ca5aa6d6e1d4"]
+new [annotation_1579912728:"http:\/\/go\/registry-lock-rra" description:"finalise registry lock amendment" due:"1581134400" end:"1581408908" entry:"1579912708" modified:"1581408908" project:"registry_lock" status:"completed" uuid:"2e7a20ce-0d4e-4444-89bf-ca5aa6d6e1d4"]
+---
+time 1581408952
+old [description:"get screenshot of registrar contact onboarding flow" due:"1581393600" entry:"1580244163" modified:"1580244163" project:"registry_lock" status:"pending" uuid:"a931b41e-b152-489e-b133-b529cbb47b94"]
+new [description:"get screenshot of registrar contact onboarding flow" due:"1581480000" entry:"1580244163" modified:"1581408952" project:"registry_lock" status:"pending" uuid:"a931b41e-b152-489e-b133-b529cbb47b94"]
+---
+time 1581408953
+old [description:"identify company for new video case study" due:"1581134400" entry:"1580933526" modified:"1581036282" status:"pending" uuid:"e65c108d-5bc1-4c52-883b-d5e0a5d35010"]
+new [description:"identify company for new video case study" due:"1581480000" entry:"1580933526" modified:"1581408953" status:"pending" uuid:"e65c108d-5bc1-4c52-883b-d5e0a5d35010"]
+---
+time 1581408953
+old [description:"update registrar lists for lrp in emails and site" due:"1581393600" entry:"1581034789" modified:"1581034789" status:"pending" tags:"newlrp" uuid:"9b9d1557-938b-4357-8e75-604c69846091"]
+new [description:"update registrar lists for lrp in emails and site" due:"1581480000" entry:"1581034789" modified:"1581408953" status:"pending" tags:"newlrp" uuid:"9b9d1557-938b-4357-8e75-604c69846091"]
+---
+time 1581408979
+old [annotation_1579899625:"http:\/\/go\/20190918-youtube-rra" annotation_1579899827:"https:\/\/doccompare.googleplex.com\/" description:"make RRAs and ESs for youtube,gle,foo" due:"1581393600" entry:"1572284559" modified:"1581036252" status:"pending" tags:"legal" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+new [annotation_1579899625:"http:\/\/go\/20190918-youtube-rra" annotation_1579899827:"https:\/\/doccompare.googleplex.com\/" description:"make RRAs and ESs for youtube,gle,foo" due:"1581566400" entry:"1572284559" modified:"1581408979" status:"pending" tags:"legal" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+---
+time 1581408979
+old [description:"fix minna,how,soy RRAs" due:"1581393600" entry:"1575645638" modified:"1581036253" status:"pending" tags:"legal" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+new [description:"fix minna,how,soy RRAs" due:"1581566400" entry:"1575645638" modified:"1581408979" status:"pending" tags:"legal" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+---
+time 1581408980
+old [annotation_1579899502:"http:\/\/go\/rra-amendment-tracker" description:"reaching out to RRs that havent signed RRA amendments" due:"1581134400" entry:"1576788054" modified:"1581036281" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+new [annotation_1579899502:"http:\/\/go\/rra-amendment-tracker" description:"reaching out to RRs that havent signed RRA amendments" due:"1581566400" entry:"1576788054" modified:"1581408980" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+---
+time 1581408980
+old [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" description:"look into hkdomainname" due:"1581393600" entry:"1579899546" modified:"1581036253" status:"pending" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+new [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" description:"look into hkdomainname" due:"1581566400" entry:"1579899546" modified:"1581408980" status:"pending" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+---
+time 1581408987
+old [description:"prepare registrant confirmation one pager" due:"1581393600" entry:"1579113838" modified:"1581036253" project:"reg_conf" status:"pending" uuid:"c7aa1538-9c8d-4614-a4b7-7101ff01e3b1"]
+new [description:"prepare registrant confirmation one pager" due:"1581652800" entry:"1579113838" modified:"1581408987" project:"reg_conf" status:"pending" uuid:"c7aa1538-9c8d-4614-a4b7-7101ff01e3b1"]
+---
+time 1581533028
+new [description:"enreleasing 1 year dev registrations" due:"1581566400" entry:"1581533026" modified:"1581533026" status:"pending" uuid:"3daadabd-841a-4827-8fa9-ffbaef9946be"]
+---
+time 1581538556
+old [description:"enreleasing 1 year dev registrations" due:"1581566400" entry:"1581533026" modified:"1581533026" status:"pending" uuid:"3daadabd-841a-4827-8fa9-ffbaef9946be"]
+new [description:"enreleasing 1 year dev registrations" due:"1581566400" end:"1581538555" entry:"1581533026" modified:"1581538556" status:"completed" uuid:"3daadabd-841a-4827-8fa9-ffbaef9946be"]
+---
+time 1581538925
+old [description:"update registrar lists for lrp in emails and site" due:"1581480000" entry:"1581034789" modified:"1581408953" status:"pending" tags:"newlrp" uuid:"9b9d1557-938b-4357-8e75-604c69846091"]
+new [description:"update registrar lists for lrp in emails and site" due:"1581480000" end:"1581538925" entry:"1581034789" modified:"1581538925" status:"completed" tags:"newlrp" uuid:"9b9d1557-938b-4357-8e75-604c69846091"]
+---
+time 1581538972
+old [description:"get screenshot of registrar contact onboarding flow" due:"1581480000" entry:"1580244163" modified:"1581408952" project:"registry_lock" status:"pending" uuid:"a931b41e-b152-489e-b133-b529cbb47b94"]
+new [description:"get screenshot of registrar contact onboarding flow" due:"1581566400" entry:"1580244163" modified:"1581538972" project:"registry_lock" status:"pending" uuid:"a931b41e-b152-489e-b133-b529cbb47b94"]
+---
+time 1581538973
+old [description:"identify company for new video case study" due:"1581480000" entry:"1580933526" modified:"1581408953" status:"pending" uuid:"e65c108d-5bc1-4c52-883b-d5e0a5d35010"]
+new [description:"identify company for new video case study" due:"1581566400" entry:"1580933526" modified:"1581538973" status:"pending" uuid:"e65c108d-5bc1-4c52-883b-d5e0a5d35010"]
+---
+time 1581541048
+old [annotation_1579899625:"http:\/\/go\/20190918-youtube-rra" annotation_1579899827:"https:\/\/doccompare.googleplex.com\/" description:"make RRAs and ESs for youtube,gle,foo" due:"1581566400" entry:"1572284559" modified:"1581408979" status:"pending" tags:"legal" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+new [annotation_1579899625:"http:\/\/go\/20190918-youtube-rra" annotation_1579899827:"https:\/\/doccompare.googleplex.com\/" description:"make RRAs and ESs for youtube,gle,foo" due:"1581739200" entry:"1572284559" modified:"1581541048" status:"pending" tags:"legal" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+---
+time 1581541048
+old [description:"fix minna,how,soy RRAs" due:"1581566400" entry:"1575645638" modified:"1581408979" status:"pending" tags:"legal" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+new [description:"fix minna,how,soy RRAs" due:"1581739200" entry:"1575645638" modified:"1581541048" status:"pending" tags:"legal" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+---
+time 1581541048
+old [annotation_1579899502:"http:\/\/go\/rra-amendment-tracker" description:"reaching out to RRs that havent signed RRA amendments" due:"1581566400" entry:"1576788054" modified:"1581408980" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+new [annotation_1579899502:"http:\/\/go\/rra-amendment-tracker" description:"reaching out to RRs that havent signed RRA amendments" due:"1581739200" entry:"1576788054" modified:"1581541048" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+---
+time 1581541076
+old [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" description:"look into hkdomainname" due:"1581566400" entry:"1579899546" modified:"1581408980" status:"pending" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+new [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" description:"look into hkdomainname" due:"1581652800" entry:"1579899546" modified:"1581541076" status:"pending" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+---
+time 1581541084
+old [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" description:"look into hkdomainname" due:"1581652800" entry:"1579899546" modified:"1581541076" status:"pending" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+new [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" description:"look into hkdomainname" due:"1581652800" entry:"1579899546" modified:"1581541084" status:"pending" tags:"legal" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+---
+time 1581541099
+old [description:"look into trusted testers" due:"1581566400" entry:"1581035198" modified:"1581408826" status:"pending" uuid:"090bcd1f-27ad-4b1c-9aa2-5e87c2084f28"]
+new [description:"look into trusted testers" due:"1581566400" entry:"1581035198" modified:"1581541099" status:"pending" tags:"legal" uuid:"090bcd1f-27ad-4b1c-9aa2-5e87c2084f28"]
+---
+time 1581541903
+new [description:"update shortlink to point to policies rather than screenshots" due:"1581566400" entry:"1581541903" modified:"1581541903" project:"registry_lock" status:"pending" uuid:"125d7eeb-71cd-4027-ac97-1b64cb31e384"]
+---
+time 1581541914
+old [description:"update shortlink to point to policies rather than screenshots" due:"1581566400" entry:"1581541903" modified:"1581541903" project:"registry_lock" status:"pending" uuid:"125d7eeb-71cd-4027-ac97-1b64cb31e384"]
+new [annotation_1581541914:"add a comment in the doc for ritu" description:"update shortlink to point to policies rather than screenshots" due:"1581566400" entry:"1581541903" modified:"1581541914" project:"registry_lock" status:"pending" uuid:"125d7eeb-71cd-4027-ac97-1b64cb31e384"]
+---
+time 1581543202
+old [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" description:"look into hkdomainname" due:"1581652800" entry:"1579899546" modified:"1581541084" status:"pending" tags:"legal" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+new [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" description:"look into hkdomainname" due:"1584327600" entry:"1579899546" modified:"1581543202" status:"pending" tags:"legal" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+---
+time 1581546541
+old [description:"get screenshot of registrar contact onboarding flow" due:"1581566400" entry:"1580244163" modified:"1581538972" project:"registry_lock" status:"pending" uuid:"a931b41e-b152-489e-b133-b529cbb47b94"]
+new [description:"get screenshot of registrar contact onboarding flow" due:"1581566400" end:"1581546541" entry:"1580244163" modified:"1581546541" project:"registry_lock" status:"completed" uuid:"a931b41e-b152-489e-b133-b529cbb47b94"]
+---
+time 1581546568
+old [annotation_1580244404:"https:\/\/b\/148409524" description:"create shortlink for registrar contact onboarding form" due:"1581566400" entry:"1580244219" modified:"1580244404" project:"registry_lock" status:"pending" uuid:"f67ee2b0-8f02-4eb5-a309-8e9ccd705fe4"]
+new [annotation_1580244404:"https:\/\/b\/148409524" annotation_1581546568:"this will be g.co\/RegistryLock" description:"create shortlink for registrar contact onboarding form" due:"1581566400" entry:"1580244219" modified:"1581546568" project:"registry_lock" status:"pending" uuid:"f67ee2b0-8f02-4eb5-a309-8e9ccd705fe4"]
+---
+time 1581546579
+old [annotation_1580244404:"https:\/\/b\/148409524" annotation_1581546568:"this will be g.co\/RegistryLock" description:"create shortlink for registrar contact onboarding form" due:"1581566400" entry:"1580244219" modified:"1581546568" project:"registry_lock" status:"pending" uuid:"f67ee2b0-8f02-4eb5-a309-8e9ccd705fe4"]
+new [annotation_1580244404:"https:\/\/b\/148409524" annotation_1581546568:"this will be g.co\/RegistryLock" annotation_1581546579:"will point to a page on registry.google" description:"create shortlink for registrar contact onboarding form" due:"1581566400" entry:"1580244219" modified:"1581546579" project:"registry_lock" status:"pending" uuid:"f67ee2b0-8f02-4eb5-a309-8e9ccd705fe4"]
+---
+time 1581546619
+old [description:"look into trusted testers" due:"1581566400" entry:"1581035198" modified:"1581541099" status:"pending" tags:"legal" uuid:"090bcd1f-27ad-4b1c-9aa2-5e87c2084f28"]
+new [description:"look into trusted testers" due:"1581566400" end:"1581546619" entry:"1581035198" modified:"1581546619" status:"completed" tags:"legal" uuid:"090bcd1f-27ad-4b1c-9aa2-5e87c2084f28"]
+---
+time 1581546620
+old [annotation_1581541914:"add a comment in the doc for ritu" description:"update shortlink to point to policies rather than screenshots" due:"1581566400" entry:"1581541903" modified:"1581541914" project:"registry_lock" status:"pending" uuid:"125d7eeb-71cd-4027-ac97-1b64cb31e384"]
+new [annotation_1581541914:"add a comment in the doc for ritu" description:"update shortlink to point to policies rather than screenshots" due:"1581566400" end:"1581546619" entry:"1581541903" modified:"1581546620" project:"registry_lock" status:"completed" uuid:"125d7eeb-71cd-4027-ac97-1b64cb31e384"]
+---
+time 1581546635
+old [annotation_1580244404:"https:\/\/b\/148409524" annotation_1581546568:"this will be g.co\/RegistryLock" annotation_1581546579:"will point to a page on registry.google" description:"create shortlink for registrar contact onboarding form" due:"1581566400" entry:"1580244219" modified:"1581546579" project:"registry_lock" status:"pending" uuid:"f67ee2b0-8f02-4eb5-a309-8e9ccd705fe4"]
+new [annotation_1580244404:"https:\/\/b\/148409524" annotation_1581546568:"this will be g.co\/RegistryLock" annotation_1581546579:"will point to a page on registry.google" description:"create shortlink for registrar contact onboarding form" due:"1582171200" entry:"1580244219" modified:"1581546635" project:"registry_lock" status:"pending" uuid:"f67ee2b0-8f02-4eb5-a309-8e9ccd705fe4"]
+---
+time 1581618167
+new [description:"email mm to heads up testing eom" due:"1581652800" entry:"1581618166" modified:"1581618166" project:"registry_lock" status:"pending" uuid:"999c903e-03ce-4a69-bee6-eedb11eceaae"]
+---
+time 1581706163
+new [description:"email agents with template for reminders and instructions to identify non-registered names" due:"1582257600" entry:"1581706162" modified:"1581706162" status:"pending" tags:"new_lrp" uuid:"b00e288e-bc82-4c34-b717-6ec163776e20"]
+---
+time 1581706188
+old [description:"email agents with template for reminders and instructions to identify non-registered names" due:"1582257600" entry:"1581706162" modified:"1581706162" status:"pending" tags:"new_lrp" uuid:"b00e288e-bc82-4c34-b717-6ec163776e20"]
+new [description:"email agents with template for reminders and instructions to identify non-registered names" due:"1582257600" entry:"1581706162" modified:"1581706188" status:"pending" tags:"newlrp" uuid:"b00e288e-bc82-4c34-b717-6ec163776e20"]
+---
+time 1581706457
+new [description:"update lrp acceptance emails to specify theyre not getting any more" due:"1583208000" entry:"1581706457" modified:"1581706457" status:"pending" tags:"newlrp" uuid:"c185d574-ea16-4440-9b7d-8ac83071ad14"]
+---
+time 1581708972
+new [description:"get W9 for scip" due:"1582344000" entry:"1581708972" modified:"1581708972" status:"pending" uuid:"06b12ed7-0309-4b54-90bb-8d1ce8dce77f"]
+---
+time 1581708984
+new [description:"check with robb about up to date W9" due:"1582171200" entry:"1581708984" modified:"1581708984" status:"pending" uuid:"cc904730-258e-4b76-b70a-287286b1c464"]
+---
+time 1582222882
+old [description:"email mm to heads up testing eom" due:"1581652800" entry:"1581618166" modified:"1581618166" project:"registry_lock" status:"pending" uuid:"999c903e-03ce-4a69-bee6-eedb11eceaae"]
+new [annotation_1582222880:"targeting week starting march 10th" description:"email mm to heads up testing eom" due:"1581652800" entry:"1581618166" modified:"1582222882" project:"registry_lock" status:"pending" uuid:"999c903e-03ce-4a69-bee6-eedb11eceaae"]
+---
+time 1582239970
+old [description:"prepare registrant confirmation one pager" due:"1581652800" entry:"1579113838" modified:"1581408987" project:"reg_conf" status:"pending" uuid:"c7aa1538-9c8d-4614-a4b7-7101ff01e3b1"]
+new [description:"prepare registrant confirmation one pager" due:"1582776000" entry:"1579113838" modified:"1582239970" project:"reg_conf" status:"pending" uuid:"c7aa1538-9c8d-4614-a4b7-7101ff01e3b1"]
+---
+time 1582240756
+old [annotation_1582222880:"targeting week starting march 10th" description:"email mm to heads up testing eom" due:"1581652800" entry:"1581618166" modified:"1582222882" project:"registry_lock" status:"pending" uuid:"999c903e-03ce-4a69-bee6-eedb11eceaae"]
+new [annotation_1582222880:"targeting week starting march 10th" description:"email mm to heads up testing eom" due:"1581652800" end:"1582240756" entry:"1581618166" modified:"1582240756" project:"registry_lock" status:"completed" uuid:"999c903e-03ce-4a69-bee6-eedb11eceaae"]
+---
+time 1582242365
+old [description:"check with robb about up to date W9" due:"1582171200" entry:"1581708984" modified:"1581708984" status:"pending" uuid:"cc904730-258e-4b76-b70a-287286b1c464"]
+new [annotation_1582242365:"http:\/\/go\/taxformrequest" description:"check with robb about up to date W9" due:"1582171200" entry:"1581708984" modified:"1582242365" status:"pending" uuid:"cc904730-258e-4b76-b70a-287286b1c464"]
+---
+time 1582242371
+old [description:"get W9 for scip" due:"1582344000" entry:"1581708972" modified:"1581708972" status:"pending" uuid:"06b12ed7-0309-4b54-90bb-8d1ce8dce77f"]
+new [description:"get W9 for scip" due:"1582344000" end:"1582242371" entry:"1581708972" modified:"1582242371" status:"completed" uuid:"06b12ed7-0309-4b54-90bb-8d1ce8dce77f"]
+---
+time 1582242372
+old [annotation_1582242365:"http:\/\/go\/taxformrequest" description:"check with robb about up to date W9" due:"1582171200" entry:"1581708984" modified:"1582242365" status:"pending" uuid:"cc904730-258e-4b76-b70a-287286b1c464"]
+new [annotation_1582242365:"http:\/\/go\/taxformrequest" description:"check with robb about up to date W9" due:"1582171200" end:"1582242371" entry:"1581708984" modified:"1582242372" status:"completed" uuid:"cc904730-258e-4b76-b70a-287286b1c464"]
+---
+time 1582242389
+old [annotation_1579899625:"http:\/\/go\/20190918-youtube-rra" annotation_1579899827:"https:\/\/doccompare.googleplex.com\/" description:"make RRAs and ESs for youtube,gle,foo" due:"1581739200" entry:"1572284559" modified:"1581541048" status:"pending" tags:"legal" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+new [annotation_1579899625:"http:\/\/go\/20190918-youtube-rra" annotation_1579899827:"https:\/\/doccompare.googleplex.com\/" description:"make RRAs and ESs for youtube,gle,foo" due:"1582344000" entry:"1572284559" modified:"1582242389" status:"pending" tags:"legal" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+---
+time 1582242389
+old [description:"fix minna,how,soy RRAs" due:"1581739200" entry:"1575645638" modified:"1581541048" status:"pending" tags:"legal" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+new [description:"fix minna,how,soy RRAs" due:"1582344000" entry:"1575645638" modified:"1582242389" status:"pending" tags:"legal" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+---
+time 1582242405
+old [annotation_1579899502:"http:\/\/go\/rra-amendment-tracker" description:"reaching out to RRs that havent signed RRA amendments" due:"1581739200" entry:"1576788054" modified:"1581541048" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+new [annotation_1579899502:"http:\/\/go\/rra-amendment-tracker" description:"reaching out to RRs that havent signed RRA amendments" due:"1582344000" entry:"1576788054" modified:"1582242405" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+---
+time 1582242486
+new [description:"start registry lock documentation thread with gtech and eng" due:"1582603200" entry:"1582242485" modified:"1582242485" project:"registry_lock" status:"pending" uuid:"b26f80a5-3231-4407-a0fb-d081745f943f"]
+---
+time 1582242505
+old [description:"start registry lock documentation thread with gtech and eng" due:"1582603200" entry:"1582242485" modified:"1582242485" project:"registry_lock" status:"pending" uuid:"b26f80a5-3231-4407-a0fb-d081745f943f"]
+new [annotation_1582242505:"http:\/\/go\/registry-lock-1-pager" description:"start registry lock documentation thread with gtech and eng" due:"1582603200" entry:"1582242485" modified:"1582242505" project:"registry_lock" status:"pending" uuid:"b26f80a5-3231-4407-a0fb-d081745f943f"]
+---
+time 1582242707
+old [annotation_1580244404:"https:\/\/b\/148409524" annotation_1581546568:"this will be g.co\/RegistryLock" annotation_1581546579:"will point to a page on registry.google" description:"create shortlink for registrar contact onboarding form" due:"1582171200" entry:"1580244219" modified:"1581546635" project:"registry_lock" status:"pending" uuid:"f67ee2b0-8f02-4eb5-a309-8e9ccd705fe4"]
+new [annotation_1580244404:"https:\/\/b\/148409524" annotation_1581546568:"this will be g.co\/RegistryLock" annotation_1581546579:"will point to a page on registry.google" description:"create shortlink for registrar contact onboarding form" due:"1582776000" entry:"1580244219" modified:"1582242707" project:"registry_lock" status:"pending" uuid:"f67ee2b0-8f02-4eb5-a309-8e9ccd705fe4"]
+---
+time 1582242724
+old [description:"identify company for new video case study" due:"1581566400" entry:"1580933526" modified:"1581538973" status:"pending" uuid:"e65c108d-5bc1-4c52-883b-d5e0a5d35010"]
+new [description:"identify company for new video case study" due:"1581566400" end:"1582242724" entry:"1580933526" modified:"1582242724" status:"completed" uuid:"e65c108d-5bc1-4c52-883b-d5e0a5d35010"]
+---
+time 1582245322
+old [description:"email agents with template for reminders and instructions to identify non-registered names" due:"1582257600" entry:"1581706162" modified:"1581706188" status:"pending" tags:"newlrp" uuid:"b00e288e-bc82-4c34-b717-6ec163776e20"]
+new [description:"email agents with template for reminders and instructions to identify non-registered names" due:"1582257600" end:"1582245321" entry:"1581706162" modified:"1582245322" status:"completed" tags:"newlrp" uuid:"b00e288e-bc82-4c34-b717-6ec163776e20"]
+---
+time 1582332981
+old [annotation_1579899625:"http:\/\/go\/20190918-youtube-rra" annotation_1579899827:"https:\/\/doccompare.googleplex.com\/" description:"make RRAs and ESs for youtube,gle,foo" due:"1582344000" entry:"1572284559" modified:"1582242389" status:"pending" tags:"legal" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+new [annotation_1579899625:"http:\/\/go\/20190918-youtube-rra" annotation_1579899827:"https:\/\/doccompare.googleplex.com\/" description:"make RRAs and ESs for youtube,gle,foo" due:"1582603200" entry:"1572284559" modified:"1582332981" status:"pending" tags:"legal" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+---
+time 1582332981
+old [description:"fix minna,how,soy RRAs" due:"1582344000" entry:"1575645638" modified:"1582242389" status:"pending" tags:"legal" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+new [description:"fix minna,how,soy RRAs" due:"1582603200" entry:"1575645638" modified:"1582332981" status:"pending" tags:"legal" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+---
+time 1582332981
+old [annotation_1579899502:"http:\/\/go\/rra-amendment-tracker" description:"reaching out to RRs that havent signed RRA amendments" due:"1582344000" entry:"1576788054" modified:"1582242405" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+new [annotation_1579899502:"http:\/\/go\/rra-amendment-tracker" description:"reaching out to RRs that havent signed RRA amendments" due:"1582603200" entry:"1576788054" modified:"1582332981" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+---
+time 1582333063
+old [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" description:"look into hkdomainname" due:"1584327600" entry:"1579899546" modified:"1581543202" status:"pending" tags:"legal" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+new [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" annotation_1582333062:"1st denied BMod request" description:"look into hkdomainname" due:"1584327600" entry:"1579899546" modified:"1582333063" status:"pending" tags:"legal" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+---
+time 1582333092
+old [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" annotation_1582333062:"1st denied BMod request" description:"look into hkdomainname" due:"1584327600" entry:"1579899546" modified:"1582333063" status:"pending" tags:"legal" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+new [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" annotation_1582333062:"1st denied BMod request 168822393" description:"look into hkdomainname" due:"1584327600" entry:"1579899546" modified:"1582333092" status:"pending" tags:"legal" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+---
+time 1582748439
+old [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" annotation_1582333062:"1st denied BMod request 168822393" description:"look into hkdomainname" due:"1584327600" entry:"1579899546" modified:"1582333092" status:"pending" tags:"legal" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+new [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" annotation_1582333062:"1st denied BMod request 168822393" annotation_1582748438:"169405995 169688179 169688182" description:"look into hkdomainname" due:"1584327600" entry:"1579899546" modified:"1582748439" status:"pending" tags:"legal" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+---
+time 1582840226
+old [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" annotation_1582333062:"1st denied BMod request 168822393" annotation_1582748438:"169405995 169688179 169688182" description:"look into hkdomainname" due:"1584327600" entry:"1579899546" modified:"1582748439" status:"pending" tags:"legal" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+new [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" annotation_1582333062:"1st denied BMod request 168822393" annotation_1582748438:"169405995 169688179 169688182" annotation_1582840225:"t 12 done" description:"look into hkdomainname" due:"1584327600" entry:"1579899546" modified:"1582840226" status:"pending" tags:"legal" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+---
+time 1582840240
+old [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" annotation_1582333062:"1st denied BMod request 168822393" annotation_1582748438:"169405995 169688179 169688182" annotation_1582840225:"t 12 done" description:"look into hkdomainname" due:"1584327600" entry:"1579899546" modified:"1582840226" status:"pending" tags:"legal" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+new [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" annotation_1582333062:"1st denied BMod request 168822393" annotation_1582748438:"169405995 169688179 169688182" description:"look into hkdomainname" due:"1584327600" entry:"1579899546" modified:"1582840240" status:"pending" tags:"legal" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+---
+time 1582840243
+old [annotation_1582242505:"http:\/\/go\/registry-lock-1-pager" description:"start registry lock documentation thread with gtech and eng" due:"1582603200" entry:"1582242485" modified:"1582242505" project:"registry_lock" status:"pending" uuid:"b26f80a5-3231-4407-a0fb-d081745f943f"]
+new [annotation_1582242505:"http:\/\/go\/registry-lock-1-pager" description:"start registry lock documentation thread with gtech and eng" due:"1582603200" end:"1582840243" entry:"1582242485" modified:"1582840243" project:"registry_lock" status:"completed" uuid:"b26f80a5-3231-4407-a0fb-d081745f943f"]
+---
+time 1582918876
+new [description:"figure out how to monitor renewal rates" entry:"1582918875" modified:"1582918875" status:"pending" uuid:"33288281-cc69-49f7-8951-c25138fb2a1d"]
+---
+time 1582918908
+new [description:"look into okr numbers for growing tlds" due:"1583553600" entry:"1582918907" modified:"1582918907" status:"pending" uuid:"7832c3be-5e0e-4989-b088-e9840509413e"]
+---
+time 1582918959
+old [description:"figure out how to monitor renewal rates" entry:"1582918875" modified:"1582918875" status:"pending" uuid:"33288281-cc69-49f7-8951-c25138fb2a1d"]
+new [description:"figure out how to monitor renewal rates" due:"1584154800" entry:"1582918875" modified:"1582918959" status:"pending" uuid:"33288281-cc69-49f7-8951-c25138fb2a1d"]
+---
+time 1583440964
+new [description:"email shopify" due:"1583467200" entry:"1583440963" modified:"1583440963" status:"pending" tags:"newlrp" uuid:"2c92cacd-f66d-4968-83aa-a5dc41610de1"]
+---
+time 1583860613
+new [description:"email meet PMs and cc Jeffrey" due:"1583895600" entry:"1583860609" modified:"1583860609" status:"pending" uuid:"5dc18e96-cd4d-4778-b1ec-cb5aca4093db"]
+---
+time 1583947236
+new [description:"look into long FF process and understand ICANN SLA and how to deal with longer process" entry:"1583947235" modified:"1583947235" status:"waiting" uuid:"5ed52f9b-034e-4aaf-9251-ca474c4b26b0" wait:"1585724400"]
+---
+time 1583947565
+old [description:"look into long FF process and understand ICANN SLA and how to deal with longer process" entry:"1583947235" modified:"1583947235" status:"waiting" uuid:"5ed52f9b-034e-4aaf-9251-ca474c4b26b0" wait:"1585724400"]
+new [annotation_1583947564:"figure out Len" description:"look into long FF process and understand ICANN SLA and how to deal with longer process" entry:"1583947235" modified:"1583947565" status:"waiting" uuid:"5ed52f9b-034e-4aaf-9251-ca474c4b26b0" wait:"1585724400"]
+---
+time 1583950349
+old [description:"update lrp acceptance emails to specify theyre not getting any more" due:"1583208000" entry:"1581706457" modified:"1581706457" status:"pending" tags:"newlrp" uuid:"c185d574-ea16-4440-9b7d-8ac83071ad14"]
+new [description:"update lrp acceptance emails to specify theyre not getting any more" due:"1583208000" end:"1583950347" entry:"1581706457" modified:"1583950349" status:"completed" tags:"newlrp" uuid:"c185d574-ea16-4440-9b7d-8ac83071ad14"]
+---
+time 1583950349
+old [description:"email shopify" due:"1583467200" entry:"1583440963" modified:"1583440963" status:"pending" tags:"newlrp" uuid:"2c92cacd-f66d-4968-83aa-a5dc41610de1"]
+new [description:"email shopify" due:"1583467200" end:"1583950349" entry:"1583440963" modified:"1583950349" status:"completed" tags:"newlrp" uuid:"2c92cacd-f66d-4968-83aa-a5dc41610de1"]
+---
+time 1585078998
+new [description:"write up doc with bruno's projects\/tasks" due:"1585105200" entry:"1585078997" modified:"1585078997" status:"pending" uuid:"80311887-32e4-479a-af8b-0cf52c9cc705"]
+---
+time 1585628227
+old [annotation_1579899625:"http:\/\/go\/20190918-youtube-rra" annotation_1579899827:"https:\/\/doccompare.googleplex.com\/" description:"make RRAs and ESs for youtube,gle,foo" due:"1582603200" entry:"1572284559" modified:"1582332981" status:"pending" tags:"legal" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+new [annotation_1579899625:"http:\/\/go\/20190918-youtube-rra" annotation_1579899827:"https:\/\/doccompare.googleplex.com\/" description:"make RRAs and ESs for youtube,gle,foo" due:"1582603200" end:"1585628226" entry:"1572284559" modified:"1585628227" status:"completed" tags:"legal" uuid:"05d739dc-3d9c-4f87-9efb-ac6ec38b76b4"]
+---
+time 1585628228
+old [description:"email meet PMs and cc Jeffrey" due:"1583895600" entry:"1583860609" modified:"1583860609" status:"pending" uuid:"5dc18e96-cd4d-4778-b1ec-cb5aca4093db"]
+new [description:"email meet PMs and cc Jeffrey" due:"1583895600" end:"1585628227" entry:"1583860609" modified:"1585628228" status:"completed" uuid:"5dc18e96-cd4d-4778-b1ec-cb5aca4093db"]
+---
+time 1585628278
+old [description:"fix minna,how,soy RRAs" due:"1582603200" entry:"1575645638" modified:"1582332981" status:"pending" tags:"legal" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+new [description:"fix minna,how,soy RRAs" due:"1586228400" entry:"1575645638" modified:"1585628278" status:"pending" tags:"legal" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+---
+time 1585628279
+old [description:"prepare registrant confirmation one pager" due:"1582776000" entry:"1579113838" modified:"1582239970" project:"reg_conf" status:"pending" uuid:"c7aa1538-9c8d-4614-a4b7-7101ff01e3b1"]
+new [description:"prepare registrant confirmation one pager" due:"1586228400" entry:"1579113838" modified:"1585628279" project:"reg_conf" status:"pending" uuid:"c7aa1538-9c8d-4614-a4b7-7101ff01e3b1"]
+---
+time 1585628279
+old [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" annotation_1582333062:"1st denied BMod request 168822393" annotation_1582748438:"169405995 169688179 169688182" description:"look into hkdomainname" due:"1584327600" entry:"1579899546" modified:"1582840240" status:"pending" tags:"legal" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+new [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" annotation_1582333062:"1st denied BMod request 168822393" annotation_1582748438:"169405995 169688179 169688182" description:"look into hkdomainname" due:"1586228400" entry:"1579899546" modified:"1585628279" status:"pending" tags:"legal" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+---
+time 1585628305
+old [annotation_1579899502:"http:\/\/go\/rra-amendment-tracker" description:"reaching out to RRs that havent signed RRA amendments" due:"1582603200" entry:"1576788054" modified:"1582332981" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+new [annotation_1579899502:"http:\/\/go\/rra-amendment-tracker" description:"reaching out to RRs that havent signed RRA amendments" due:"1585796400" entry:"1576788054" modified:"1585628305" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+---
+time 1585628305
+old [description:"figure out how to monitor renewal rates" due:"1584154800" entry:"1582918875" modified:"1582918959" status:"pending" uuid:"33288281-cc69-49f7-8951-c25138fb2a1d"]
+new [description:"figure out how to monitor renewal rates" due:"1585796400" entry:"1582918875" modified:"1585628305" status:"pending" uuid:"33288281-cc69-49f7-8951-c25138fb2a1d"]
+---
+time 1585628305
+old [description:"look into okr numbers for growing tlds" due:"1583553600" entry:"1582918907" modified:"1582918907" status:"pending" uuid:"7832c3be-5e0e-4989-b088-e9840509413e"]
+new [description:"look into okr numbers for growing tlds" due:"1585796400" entry:"1582918907" modified:"1585628305" status:"pending" uuid:"7832c3be-5e0e-4989-b088-e9840509413e"]
+---
+time 1585628314
+old [description:"write up doc with bruno's projects\/tasks" due:"1585105200" entry:"1585078997" modified:"1585078997" status:"pending" uuid:"80311887-32e4-479a-af8b-0cf52c9cc705"]
+new [description:"write up doc with bruno's projects\/tasks" due:"1585710000" entry:"1585078997" modified:"1585628314" status:"pending" uuid:"80311887-32e4-479a-af8b-0cf52c9cc705"]
+---
+time 1585628338
+old [annotation_1580244404:"https:\/\/b\/148409524" annotation_1581546568:"this will be g.co\/RegistryLock" annotation_1581546579:"will point to a page on registry.google" description:"create shortlink for registrar contact onboarding form" due:"1582776000" entry:"1580244219" modified:"1582242707" project:"registry_lock" status:"pending" uuid:"f67ee2b0-8f02-4eb5-a309-8e9ccd705fe4"]
+new [annotation_1580244404:"https:\/\/b\/148409524" annotation_1581546568:"this will be g.co\/RegistryLock" annotation_1581546579:"will point to a page on registry.google" description:"create shortlink for registrar contact onboarding form" due:"1585796400" entry:"1580244219" modified:"1585628338" project:"registry_lock" status:"pending" uuid:"f67ee2b0-8f02-4eb5-a309-8e9ccd705fe4"]
+---
+time 1585629422
+old [description:"write up doc with bruno's projects\/tasks" due:"1585710000" entry:"1585078997" modified:"1585628314" status:"pending" uuid:"80311887-32e4-479a-af8b-0cf52c9cc705"]
+new [description:"write up doc with bruno's projects\/tasks" due:"1585710000" end:"1585629422" entry:"1585078997" modified:"1585629422" status:"completed" uuid:"80311887-32e4-479a-af8b-0cf52c9cc705"]
+---
+time 1585629444
+new [description:"Update projects" due:"1585796400" entry:"1585629444" modified:"1585629444" recur:"monthly" status:"recurring" uuid:"5a146c83-5585-43e5-90ac-a653e0426661"]
+---
+time 1585629452
+old [description:"Update projects" due:"1585796400" entry:"1585629444" modified:"1585629444" recur:"monthly" status:"recurring" uuid:"5a146c83-5585-43e5-90ac-a653e0426661"]
+new [annotation_1585629451:"http:\/\/go\/bruno-projects" description:"Update projects" due:"1585796400" entry:"1585629444" modified:"1585629452" recur:"monthly" status:"recurring" uuid:"5a146c83-5585-43e5-90ac-a653e0426661"]
+---
+time 1585629453
+new [annotation_1585629451:"http:\/\/go\/bruno-projects" description:"Update projects" due:"1585796400" entry:"1585629453" imask:"0.000000" modified:"1585629452" parent:"5a146c83-5585-43e5-90ac-a653e0426661" recur:"monthly" status:"pending" uuid:"373a9c58-0873-4640-9fcc-631bd32632b7"]
+---
+time 1585629453
+old [annotation_1585629451:"http:\/\/go\/bruno-projects" description:"Update projects" due:"1585796400" entry:"1585629444" modified:"1585629452" recur:"monthly" status:"recurring" uuid:"5a146c83-5585-43e5-90ac-a653e0426661"]
+new [annotation_1585629451:"http:\/\/go\/bruno-projects" description:"Update projects" due:"1585796400" entry:"1585629444" mask:"-" modified:"1585629453" recur:"monthly" status:"recurring" uuid:"5a146c83-5585-43e5-90ac-a653e0426661"]
+---
+time 1585631401
+new [description:"look at batch 4 review" due:"1585710000" entry:"1585631401" modified:"1585631401" status:"pending" tags:"newlrp" uuid:"80d6f998-2f49-4371-ab98-46c0a9e38241"]
+---
+time 1585631560
+new [description:"rebel marketing contract" due:"1585710000" entry:"1585631560" modified:"1585631560" status:"pending" uuid:"843e2bd4-21ce-4d07-a13f-f0fb01f0e086"]
+---
+time 1585631587
+new [description:"FBS billing onboarding" due:"1585710000" entry:"1585631587" modified:"1585631587" status:"pending" uuid:"84bc0975-3a6c-4760-97cd-1f6a79c78a12"]
+---
+time 1586202287
+new [description:"look at updating policies eg abuse" due:"1588388400" entry:"1586202284" modified:"1586202284" status:"pending" uuid:"5ec998e6-f812-433b-bff2-0928e3a56c67"]
+---
+time 1586202288
+new [annotation_1585629451:"http:\/\/go\/bruno-projects" description:"Update projects" due:"1588388400" entry:"1586202288" imask:"1.000000" modified:"1585629453" parent:"5a146c83-5585-43e5-90ac-a653e0426661" recur:"monthly" status:"pending" uuid:"da94e084-1285-46f7-a354-9879fdb95859"]
+---
+time 1586202289
+old [annotation_1585629451:"http:\/\/go\/bruno-projects" description:"Update projects" due:"1585796400" entry:"1585629444" mask:"-" modified:"1585629453" recur:"monthly" status:"recurring" uuid:"5a146c83-5585-43e5-90ac-a653e0426661"]
+new [annotation_1585629451:"http:\/\/go\/bruno-projects" description:"Update projects" due:"1585796400" entry:"1585629444" mask:"--" modified:"1586202289" recur:"monthly" status:"recurring" uuid:"5a146c83-5585-43e5-90ac-a653e0426661"]
+---
+time 1586464956
+new [description:"email jim hutchinson re meet rra" due:"1586487600" entry:"1586464953" modified:"1586464953" status:"pending" uuid:"ce0788a8-2f78-4f6d-aa72-08b89c4f7742"]
+---
+time 1586499719
+old [description:"email jim hutchinson re meet rra" due:"1586487600" entry:"1586464953" modified:"1586464953" status:"pending" uuid:"ce0788a8-2f78-4f6d-aa72-08b89c4f7742"]
+new [description:"email jim hutchinson re meet rra" due:"1586487600" end:"1586499718" entry:"1586464953" modified:"1586499719" status:"completed" uuid:"ce0788a8-2f78-4f6d-aa72-08b89c4f7742"]
+---
+time 1586499755
+old [annotation_1585629451:"http:\/\/go\/bruno-projects" description:"Update projects" due:"1585796400" entry:"1585629444" mask:"--" modified:"1586202289" recur:"monthly" status:"recurring" uuid:"5a146c83-5585-43e5-90ac-a653e0426661"]
+new [annotation_1585629451:"http:\/\/go\/bruno-projects" description:"Update projects" due:"1585796400" entry:"1585629444" mask:"+-" modified:"1586499755" recur:"monthly" status:"recurring" uuid:"5a146c83-5585-43e5-90ac-a653e0426661"]
+---
+time 1586499755
+old [annotation_1585629451:"http:\/\/go\/bruno-projects" description:"Update projects" due:"1585796400" entry:"1585629453" imask:"0.000000" modified:"1585629452" parent:"5a146c83-5585-43e5-90ac-a653e0426661" recur:"monthly" status:"pending" uuid:"373a9c58-0873-4640-9fcc-631bd32632b7"]
+new [annotation_1585629451:"http:\/\/go\/bruno-projects" description:"Update projects" due:"1585796400" end:"1586499754" entry:"1585629453" imask:"0.000000" modified:"1586499755" parent:"5a146c83-5585-43e5-90ac-a653e0426661" recur:"monthly" status:"completed" uuid:"373a9c58-0873-4640-9fcc-631bd32632b7"]
+---
+time 1586499755
+old [description:"look at batch 4 review" due:"1585710000" entry:"1585631401" modified:"1585631401" status:"pending" tags:"newlrp" uuid:"80d6f998-2f49-4371-ab98-46c0a9e38241"]
+new [description:"look at batch 4 review" due:"1585710000" end:"1586499755" entry:"1585631401" modified:"1586499755" status:"completed" tags:"newlrp" uuid:"80d6f998-2f49-4371-ab98-46c0a9e38241"]
+---
+time 1586499778
+old [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" annotation_1582333062:"1st denied BMod request 168822393" annotation_1582748438:"169405995 169688179 169688182" description:"look into hkdomainname" due:"1586228400" entry:"1579899546" modified:"1585628279" status:"pending" tags:"legal" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+new [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" annotation_1582333062:"1st denied BMod request 168822393" annotation_1582748438:"169405995 169688179 169688182" description:"look into hkdomainname" due:"1587351600" entry:"1579899546" modified:"1586499778" status:"pending" tags:"legal" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+---
+time 1586499807
+old [annotation_1579899502:"http:\/\/go\/rra-amendment-tracker" description:"reaching out to RRs that havent signed RRA amendments" due:"1585796400" entry:"1576788054" modified:"1585628305" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+new [annotation_1579899502:"http:\/\/go\/rra-amendment-tracker" description:"reaching out to RRs that havent signed RRA amendments" due:"1586833200" entry:"1576788054" modified:"1586499807" status:"pending" tags:"legal" uuid:"c7fd7645-89a9-4dfb-b03a-35cb720af33b"]
+---
+time 1586499807
+old [description:"rebel marketing contract" due:"1585710000" entry:"1585631560" modified:"1585631560" status:"pending" uuid:"843e2bd4-21ce-4d07-a13f-f0fb01f0e086"]
+new [description:"rebel marketing contract" due:"1586833200" entry:"1585631560" modified:"1586499807" status:"pending" uuid:"843e2bd4-21ce-4d07-a13f-f0fb01f0e086"]
+---
+time 1586499807
+old [description:"FBS billing onboarding" due:"1585710000" entry:"1585631587" modified:"1585631587" status:"pending" uuid:"84bc0975-3a6c-4760-97cd-1f6a79c78a12"]
+new [description:"FBS billing onboarding" due:"1586833200" entry:"1585631587" modified:"1586499807" status:"pending" uuid:"84bc0975-3a6c-4760-97cd-1f6a79c78a12"]
+---
+time 1586499843
+old [description:"prepare registrant confirmation one pager" due:"1586228400" entry:"1579113838" modified:"1585628279" project:"reg_conf" status:"pending" uuid:"c7aa1538-9c8d-4614-a4b7-7101ff01e3b1"]
+new [description:"prepare registrant confirmation one pager" due:"1587709442" entry:"1579113838" modified:"1586499843" project:"reg_conf" status:"pending" uuid:"c7aa1538-9c8d-4614-a4b7-7101ff01e3b1"]
+---
+time 1586499843
+old [annotation_1580244404:"https:\/\/b\/148409524" annotation_1581546568:"this will be g.co\/RegistryLock" annotation_1581546579:"will point to a page on registry.google" description:"create shortlink for registrar contact onboarding form" due:"1585796400" entry:"1580244219" modified:"1585628338" project:"registry_lock" status:"pending" uuid:"f67ee2b0-8f02-4eb5-a309-8e9ccd705fe4"]
+new [annotation_1580244404:"https:\/\/b\/148409524" annotation_1581546568:"this will be g.co\/RegistryLock" annotation_1581546579:"will point to a page on registry.google" description:"create shortlink for registrar contact onboarding form" due:"1587709443" entry:"1580244219" modified:"1586499843" project:"registry_lock" status:"pending" uuid:"f67ee2b0-8f02-4eb5-a309-8e9ccd705fe4"]
+---
+time 1586499852
+old [description:"fix minna,how,soy RRAs" due:"1586228400" entry:"1575645638" modified:"1585628278" status:"pending" tags:"legal" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+new [description:"fix minna,how,soy RRAs" due:"1586833200" entry:"1575645638" modified:"1586499852" status:"pending" tags:"legal" uuid:"f822f607-79b5-4b96-a152-b9e1f13fb911"]
+---
+time 1586499876
+old [description:"figure out how to monitor renewal rates" due:"1585796400" entry:"1582918875" modified:"1585628305" status:"pending" uuid:"33288281-cc69-49f7-8951-c25138fb2a1d"]
+new [description:"figure out how to monitor renewal rates" due:"1590128676" entry:"1582918875" modified:"1586499876" status:"pending" uuid:"33288281-cc69-49f7-8951-c25138fb2a1d"]
+---
+time 1586499877
+old [description:"look into okr numbers for growing tlds" due:"1585796400" entry:"1582918907" modified:"1585628305" status:"pending" uuid:"7832c3be-5e0e-4989-b088-e9840509413e"]
+new [description:"look into okr numbers for growing tlds" due:"1590128676" entry:"1582918907" modified:"1586499877" status:"pending" uuid:"7832c3be-5e0e-4989-b088-e9840509413e"]
+---
+time 1586500992
+new [description:"draft email to non polling registrars" due:"1586574000" entry:"1586500991" modified:"1586500991" status:"pending" uuid:"b293befb-5274-4cf0-aa95-f41a206cab33"]
+---
+time 1587409354
+new [description:"update g.co links for goog and google" entry:"1587409351" modified:"1587409351" status:"pending" uuid:"86559ad4-d4f0-475e-8cd5-53b17f8cdade"]
+---
+time 1588268817
+new [description:"reach out to dev 1 year registrations" due:"1588647600" entry:"1588268814" modified:"1588268814" status:"pending" uuid:"6a0a0d9c-22e1-4bb8-b8ac-f8c1cdbe8dad"]
+---
+time 1588356069
+new [description:"update preferred partner onboarding dtp" due:"1588647600" entry:"1588356066" modified:"1588356066" status:"pending" uuid:"b0e49fb0-6062-406f-9d11-88a499fd894b"]
+---
+time 1588360756
+old [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" annotation_1582333062:"1st denied BMod request 168822393" annotation_1582748438:"169405995 169688179 169688182" description:"look into hkdomainname" due:"1587351600" entry:"1579899546" modified:"1586499778" status:"pending" tags:"legal" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+new [annotation_1579899550:"https:\/\/payments-ics.corp.google.com\/requester#\/rdp\/116723186" annotation_1579899778:"https:\/\/groups.google.com\/a\/google.com\/g\/registryonboarding\/c\/0225GMUH78U\/m\/mcW_uEdOBgAJ?pli=1" annotation_1582333062:"1st denied BMod request 168822393" annotation_1582748438:"169405995 169688179 169688182" description:"look into hkdomainname" due:"1587351600" end:"1588360753" entry:"1579899546" modified:"1588360756" status:"completed" tags:"legal" uuid:"3aa69310-2ffd-4033-b45a-ce5e969e6340"]
+---
+time 1588360757
+old [description:"rebel marketing contract" due:"1586833200" entry:"1585631560" modified:"1586499807" status:"pending" uuid:"843e2bd4-21ce-4d07-a13f-f0fb01f0e086"]
+new [description:"rebel marketing contract" due:"1586833200" end:"1588360756" entry:"1585631560" modified:"1588360757" status:"completed" uuid:"843e2bd4-21ce-4d07-a13f-f0fb01f0e086"]
+---
+time 1588360757
+old [description:"look at updating policies eg abuse" due:"1588388400" entry:"1586202284" modified:"1586202284" status:"pending" uuid:"5ec998e6-f812-433b-bff2-0928e3a56c67"]
+new [description:"look at updating policies eg abuse" due:"1588388400" end:"1588360757" entry:"1586202284" modified:"1588360757" status:"completed" uuid:"5ec998e6-f812-433b-bff2-0928e3a56c67"]
+---
