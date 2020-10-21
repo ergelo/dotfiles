@@ -24,7 +24,7 @@ if task['due'] and is_local_midnight(task['due']):
 else:
     modified = False
 
-print task.export_data()
+print(task.export_data())
 
 if modified:
-    print "Default due time has been set."
+    print("Default due time has been set.")
